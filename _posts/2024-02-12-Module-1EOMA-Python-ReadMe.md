@@ -6,7 +6,7 @@ categories: Module_1
 tags: [Module 1, Intro, Python]
 ---
 
-# Strong Password Validator Program
+# Strong Password Validator Program and Multifactor Authetication (MFA) Overview
 
 Passwords remain the main security foundation for authenticating humans and machines (Anderson, 2020). 
 
@@ -14,7 +14,13 @@ A lot of the accounts that are compromised today are done so by simply guessing 
  
 Although passwords are important, they are also problematic. Humans struggle to remember them, and even then, we struggle to enter them accurately, especially if they are complex (Anderson, 2020).  
 
-This python script helps users determine if their proposed password adheres to current best practices associated with the definition of a strong password. 
+This python script firstly helps users determine if their proposed password adheres to current best practices associated with the definition of a strong password. 
+
+It is recommended to use strong passwords as part of a multi factor authentication capability to further strengthen your organisations cyber identify and access management posture. 
+
+With this in mind the script also attempts to provide an overview of how a basic impolementation of MFA works using the python library PyOTP.
+
+MFA requires two or more independent authentication factors, ensuring a more rigorous authentication process. Even if one factor is compromised, the likelihood of a successful breach is still reduced (Fanti, 2023).
 
 ### Password Best Practice Criteria:
 
@@ -100,9 +106,6 @@ The main function executes a loop allowing users to enter a proposed password an
  ![Test password length code parameters](/Modules/1/img/TestPasswordlength.png)
 
  ![Code for passwords deny list](/Modules/1/img/PasswordDenyList.png)
-
- - Final note please. It is recommended to use strong passwords as part of a multi factor authentication capability to further strengthen your organisations cyber identify and access management posture.
- - MFA requires two or more independent authentication factors, ensuring a more rigorous authentication process. Even if one factor is compromised, the likelihood of a successful breach is still reduced (Fanti, 2023).
 
 
 ## References
