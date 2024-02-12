@@ -30,6 +30,8 @@ tags: [Module, Intro, Python]
 | `End of Module Assignment - Unit 12`           | `Python Code` | Using Python code, implement at least one solution recommended as part of the proposal submitted in the indivdual essay.         | [(1) View Solution **Read Me** File](../Modules/1/ReadMe.md), [(2) View **Strong Password Validator Solution** Code](../Modules/1/PasswordValidator.py)
 
 
+![essaytrypdfasimage](../Modules/1/Module1Unit9Essay.pdf)
+
 ## Module 1: Reflections
 
 *Information about what I learnt during this module and how*
