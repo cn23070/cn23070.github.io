@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Module 1 blah
-subtitle: Concepts and principles in the field of Cyber Security. 
+title: Module 1 End of Module Assignment
+subtitle: Strong Password Validator Program 
 categories: Module_1
-tags: [Module, Intro, Python]
+tags: [Module 1, Intro, Python]
 ---
 
 # Strong Password Validator Program
