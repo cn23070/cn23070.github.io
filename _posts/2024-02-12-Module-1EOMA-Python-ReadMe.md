@@ -6,7 +6,7 @@ categories: Module_1
 tags: [Module 1, Intro, Python]
 ---
 
-# Strong Password Validator Program and Multifactor Authetication (MFA) Overview
+# Strong Password Validator Program and Multifactor Authentication (MFA) Overview
 
 Passwords remain the main security foundation for authenticating humans and machines (Anderson, 2020). 
 
@@ -16,7 +16,7 @@ Although passwords are important, they are also problematic. Humans struggle to 
 
 This python script firstly helps users determine if their proposed password adheres to current best practices associated with the definition of a strong password. 
 
-The script then attempts to provide an overview of how a basic impolementation of MFA works using the python library PyOTP.
+The script then attempts to provide an overview of how a basic implementation of MFA works using the python library PyOTP.
 
 It is recommended to use strong passwords as part of a multi factor authentication capability to further strengthen your organisations cyber identify and access management posture. 
 
@@ -87,17 +87,17 @@ The main function executes a loop allowing users to enter a proposed password an
 
 ### Run the Strong Password Validation script
 
-#### Step 1. Execute the script in a Python environment:
+#### 1. Execute the script in a Python environment:
  - The script will guide you through the process of entering a proposed password and provide feedback on its adherence to best practices.
 
  ![Example program execution](/Modules/1/img/GetStarted.png)
 
-#### Step 2. Review Password Best Practice:
+#### 2. Review Password Best Practice:
  - Follow the outlined steps to ensure your password meets best practices.
 
  ![Example best practice guidance](/Modules/1/img/StrongPasswordGuideance.png)
 
-#### Step 3. Enter a Proposed Password:
+#### 3. Enter a Proposed Password:
  - Input a proposed password to check if it conforms to best practices.
 
  ![Example entering proposed password](/Modules/1/img/GetStarted.png)
@@ -105,49 +105,49 @@ The main function executes a loop allowing users to enter a proposed password an
  ### Run the MFA walk through script
  Once you have exited the Strong Password Validation exercise, walk through the MFA example using PyOTP
 
-#### Step 1. install the python library PyOTP:
- - install the python library PyOTP:
- - pip install pyotp
+#### 1. install the python library PyOTP:
+Install the python library PyOTP:
+ - `pip install pyotp`
 
-you should see a similar message to the following:
-Collecting pyotp
+ You should see a similar message to the following:
+ - `Collecting pyotp
   Downloading pyotp-2.9.0-py3-none-any.whl (13 kB)
 Installing collected packages: pyotp
-Successfully installed pyotp-2.9.0
+Successfully installed pyotp-2.9.0`
 
+#### 2. import the necessary module into our Python script
+Import the necessary module into our Python script:
+ - `import pyotp`
 
-#### Step 2. import the necessary module into our Python script
- - import the necessary module into our Python script
- - import pyotp
+#### 3. Generate a time based secret key
+Create the secret key used to generate TOTPs.
+- `totp_secret = pyotp.random_base32()`
 
-#### Step 3. Generate a time based secret key
-- Next generate a secret key that will be used to generate time based one time password codes. We will do this by creating an instance of the TOTP class and calling its generate secret() method
-- totp_secret = pyotp.random_base32()
+#### 4. Generrate object and determine expiration interval
+Ensure new OTP is generated every 20 seconds:
+- `custom_interval = 20
+  totp = pyotp.TOTP(totp_secret, interval=custom_interval)`
 
-#### Step 4. Generrate object and determine expiration interval
-- Its important to ensure the one time password we generate will expire after an applicable internal. We will use 20 seconds for this demonstration:
-- custom_interval = 20
-- totp = pyotp.TOTP(totp_secret, interval=custom_interval)
+#### 5. Validate OTP generation
+Confirm the script is now able to generate a OTP:
+- `print("Your one time Code is:",totp.now())`
 
-#### Step 5. Validate OTP generation
-- confirm the script is now able to generate a OTP:
-- print("Your one time Code is:",totp.now())
-
-#### Step 6. Verify current OTP system use 
-- we then verify a TOTP code using the 'verify() method
-- enduser_input = input("Please enter the one time code (TOTP):  ")
+#### 6. Verify current OTP system use 
+Verify TOTP use using the 'verify() method:
+- `enduser_input = input("Please enter the one time code (TOTP):  ")
 is_valid = totp.verify(enduser_input)
 if is_valid:
     print("your Code is valid :-).")
 else:
-    print ("Sorry, your Code is invalid :-()")
+    print ("Sorry, your Code is invalid :-()")`
 
-#### Step 7. Verify the system is using the defined timeout interval
-- we then verify a TOTP code is changing in accordance with the customer interval we defined in  'verify() method
-for i in range(5):
+#### 7. Verify the system is using the defined timeout interval
+- Verify TOTP is changing according to custom interval defined:
+- `import time`
+- `for i in range(5):
     totp_code = totp.now()
     print("Generated TOTP code at t =", i * custom_interval, "seconds:", totp_code)
-    time.sleep(custom_interval)
+    time.sleep(custom_interval)`
 
 
 
