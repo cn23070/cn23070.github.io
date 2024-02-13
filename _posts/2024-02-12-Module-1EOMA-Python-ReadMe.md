@@ -35,26 +35,23 @@ In summary, a strong password should:
 
 ### Password Validation Tests Performed
 
-This program will attempt to validate if a proposed password entered by the user is a strong or not.  
-This is accomplished by using python coded functions that perform the following tests:
-
-- **Test 1**: Check if the password is in a deny list of common passwords
+- **1**: Check against deny list of common passwords
 
 ![Example Test 1 Failure](/Modules/1/img/Test1.png)
 
-- **Test 2**: Validate that the password is between 12 and 50 characters
+- **2**: Validate password is between 12 and 50 characters
 
 ![Example Test 2 Failure](/Modules/1/img/Test2.png)
 
-- **Test 3**: Ensure the presence of at least one lowercase character
+- **3**: Confirm at least one lowercase character
 
 ![Example Test 3 Failure](/Modules/1/img/Test3.png)
 
-- **Test 4**: Ensure the presence of at least one uppercase character
+- **4**: Confirm at least one uppercase character
 
 ![Example Test 4 Failure](/Modules/1/img/Test4.png)
 
-- **Test 5**: Ensure the presence of at least one number
+- **5**: Confirm at least one number
 
 ![Example Test 5 Failure](/Modules/1/img/Test5.png)
 
@@ -66,21 +63,14 @@ If all tests pass successfully, the user will be notified accordingly.
 
 The following python functions have been coded:
 
-#### 1. Function: print_with_border(message)
-This function prints a given message surrounded by a decorative border.
+#### 1. print_with_border(message)
+Print a given message surrounded by a decorative border.
 Used for displaying multi-line messages with a visually appealing format.
 
-#### 2. Function: checkPassword(password)
-This function validates a proposed password against a predefined deny list and password policy rules.
-Passwords on the deny list (common or easily guessed passwords) are rejected.
-Passwords must meet the following criteria:
+#### 2. checkPassword(password)
+Validates a proposed password against a predefined deny list and password policy rules.
 
- - length between 12 and 50 characters.
- - contains at least one lowercase letter.
- - contains at least one uppercase letter.
- - contains at least one number.
-
-#### 3. Function: main()
+#### 3. main()
 The main function executes a loop allowing users to enter a proposed password and checks its validity. It allows for a user to try again if their proposed password does not conform or exit the program.
 
 ## How To Run The Program
@@ -108,12 +98,7 @@ The main function executes a loop allowing users to enter a proposed password an
 #### 1. install the python library PyOTP:
 Install the python library PyOTP:
  - `pip install pyotp`
-
- You should see a similar message to the following:
- - `Collecting pyotp
-  Downloading pyotp-2.9.0-py3-none-any.whl (13 kB)
-Installing collected packages: pyotp
-Successfully installed pyotp-2.9.0`
+ - `Successfully installed pyotp-2.9.0`
 
 #### 2. import the necessary module into our Python script
 Import the necessary module into our Python script:
@@ -148,17 +133,6 @@ else:
     totp_code = totp.now()
     print("Generated TOTP code at t =", i * custom_interval, "seconds:", totp_code)
     time.sleep(custom_interval)`
-
-
-
-
-## Notes
-
- - Feel free to customise the thresholds for password length and deny list so that it is in accordance with your own organisations password policy.
-
- ![Test password length code parameters](/Modules/1/img/TestPasswordlength.png)
-
- ![Code for passwords deny list](/Modules/1/img/PasswordDenyList.png)
 
 
 ## References
