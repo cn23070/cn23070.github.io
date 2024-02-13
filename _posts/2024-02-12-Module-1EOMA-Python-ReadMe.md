@@ -117,7 +117,7 @@ Ensure new OTP is generated every 20 seconds:
 Confirm the script is now able to generate a OTP:
 - `print("Your one time Code is:",totp.now())`
 
-#### 6. Verify current OTP system use 
+#### 6. Validate OTP use 
 Verify TOTP use using the 'verify() method:
 - `enduser_input = input("Please enter the one time code (TOTP):  ")
 is_valid = totp.verify(enduser_input)
@@ -126,7 +126,7 @@ if is_valid:
 else:
     print ("Sorry, your Code is invalid :-()")`
 
-#### 7. Verify the system is using the defined timeout interval
+#### 7. Verify custom timeout interval
 - Verify TOTP is changing according to custom interval defined:
 - `import time`
 - `for i in range(5):
