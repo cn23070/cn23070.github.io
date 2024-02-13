@@ -10,17 +10,17 @@ tags: [Module 1, Intro, Python]
 
 Passwords remain the main security foundation for authenticating humans and machines (Anderson, 2020). 
 
-A lot of the accounts that are compromised today are done so by simply guessing the password, so ensuring a password has sufficient complexity is an important cyber security control. 
+A lot of the accounts that are compromised are done so by guessing the password, so you should ensure adequate password complexity. 
  
-Although passwords are important, they are also problematic. Humans struggle to remember them, and even then, we struggle to enter them accurately, especially if they are complex (Anderson, 2020).  
+Although passwords are important, they are also problematic. Humans struggle to remember them and to enter them accurately, especially if they are complex (Anderson, 2020).  
 
-This python script firstly helps users determine if their proposed password adheres to current best practices associated with the definition of a strong password. 
+This python script firstly helps users determine if their proposed password has adequate complexity. 
 
-The script then attempts to provide an overview of how a basic implementation of MFA works using the python library PyOTP.
+The script then attempts to provide an overview of how a basic implementation of MFA works.
 
-It is recommended to use strong passwords as part of a multi factor authentication capability to further strengthen your organisations cyber identify and access management posture. 
+It is recommended to use strong passwords as part of a MFA capability, ensuring a more rigorous authentication process. 
 
-MFA requires two or more independent authentication factors, ensuring a more rigorous authentication process. Even if one factor is compromised, the likelihood of a successful breach is still reduced (Fanti, 2023).
+Even if one factor is compromised, the likelihood of a successful breach is still reduced (Fanti, 2023).
 
 ### Password Best Practice Criteria:
 
