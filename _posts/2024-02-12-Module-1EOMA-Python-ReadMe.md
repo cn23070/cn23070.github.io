@@ -103,7 +103,7 @@ The main function executes a loop allowing users to enter a proposed password an
  ![Example entering proposed password](/Modules/1/img/GetStarted.png)
 
  ### Run the MFA walk through script
- Walk through the MFA example using PyOTP
+ Once you have exited the Strong Password Validation exercise, walk through the MFA example using PyOTP
 
 #### Step 1. install the python library PyOTP:
  - install the python library PyOTP:
