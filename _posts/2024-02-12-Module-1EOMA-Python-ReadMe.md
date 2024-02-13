@@ -85,6 +85,8 @@ The main function executes a loop allowing users to enter a proposed password an
 
 ## How To Run The Program
 
+### Run the Strong Password Validation script
+
 #### Step 1. Execute the script in a Python environment:
  - The script will guide you through the process of entering a proposed password and provide feedback on its adherence to best practices.
 
@@ -100,8 +102,55 @@ The main function executes a loop allowing users to enter a proposed password an
 
  ![Example entering proposed password](/Modules/1/img/GetStarted.png)
 
-#### Step 4. Walk through the MFA example using PyOTP:
- - Input a proposed password to check if it conforms to best practices. 
+ ### Run the MFA walk through script
+ Walk through the MFA example using PyOTP
+
+#### Step 1. install the python library PyOTP:
+ - install the python library PyOTP:
+ - pip install pyotp
+
+you should see a similar message to the following:
+Collecting pyotp
+  Downloading pyotp-2.9.0-py3-none-any.whl (13 kB)
+Installing collected packages: pyotp
+Successfully installed pyotp-2.9.0
+
+
+#### Step 2. import the necessary module into our Python script
+ - import the necessary module into our Python script
+ - import pyotp
+
+#### Step 3. Generate a time based secret key
+- Next generate a secret key that will be used to generate time based one time password codes. We will do this by creating an instance of the TOTP class and calling its generate secret() method
+- totp_secret = pyotp.random_base32()
+
+#### Step 4. Generrate object and determine expiration interval
+- Its important to ensure the one time password we generate will expire after an applicable internal. We will use 20 seconds for this demonstration:
+- custom_interval = 20
+- totp = pyotp.TOTP(totp_secret, interval=custom_interval)
+
+#### Step 5. Validate OTP generation
+- confirm the script is now able to generate a OTP:
+- print("Your one time Code is:",totp.now())
+
+#### Step 6. Verify current OTP system use 
+- we then verify a TOTP code using the 'verify() method
+- enduser_input = input("Please enter the one time code (TOTP):  ")
+is_valid = totp.verify(enduser_input)
+if is_valid:
+    print("your Code is valid :-).")
+else:
+    print ("Sorry, your Code is invalid :-()")
+
+#### Step 7. Verify the system is using the defined timeout interval
+- we then verify a TOTP code is changing in accordance with the customer interval we defined in  'verify() method
+for i in range(5):
+    totp_code = totp.now()
+    print("Generated TOTP code at t =", i * custom_interval, "seconds:", totp_code)
+    time.sleep(custom_interval)
+
+
+
 
 ## Notes
 
