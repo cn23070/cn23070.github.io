@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Module 1 End of Module Assignment
-subtitle: Strong Password Validator Program 
+subtitle: Strong Password Validator Program and Multifactor Authentication (MFA) Overview 
 categories: Module_1
 tags: [Module 1, Intro, Python]
 ---
 
-# Strong Password Validator Program and Multifactor Authentication (MFA) Overview
+# Script Overview
 
 Passwords remain the main security foundation for authenticating humans and machines (Anderson, 2020). 
 
@@ -59,7 +59,7 @@ If all tests pass successfully, the user will be notified accordingly.
 
 ![Example of all tests passing successfully](/Modules/1/img/AllTestsPassed.png)
 
-## Code Usage
+### Code Usage
 
 The following python functions have been coded:
 
