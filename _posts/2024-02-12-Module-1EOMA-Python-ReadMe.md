@@ -6,7 +6,7 @@ categories: Module_1
 tags: [Module 1, Intro, Python]
 ---
 
-# [Script Overview](https://colab.research.google.com/github/cn23070/cn23070.github.io/blob/main/CraigNorris_LCS_EoMA.ipynb)
+# [Script Overview](https://colab.research.google.com/drive/1J_dmcFiHOsuDTK3LyTPZSRVMuhs9K_Mh?usp=sharing)
 
 Passwords remain the main security foundation for authenticating humans and machines (Anderson, 2020). 
 
