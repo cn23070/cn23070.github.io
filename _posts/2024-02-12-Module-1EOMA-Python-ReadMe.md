@@ -16,9 +16,9 @@ Although passwords are important, they are also problematic. Humans struggle to 
 
 This python script firstly helps users determine if their proposed password adheres to current best practices associated with the definition of a strong password. 
 
-It is recommended to use strong passwords as part of a multi factor authentication capability to further strengthen your organisations cyber identify and access management posture. 
+The script then attempts to provide an overview of how a basic impolementation of MFA works using the python library PyOTP.
 
-With this in mind the script also attempts to provide an overview of how a basic impolementation of MFA works using the python library PyOTP.
+It is recommended to use strong passwords as part of a multi factor authentication capability to further strengthen your organisations cyber identify and access management posture. 
 
 MFA requires two or more independent authentication factors, ensuring a more rigorous authentication process. Even if one factor is compromised, the likelihood of a successful breach is still reduced (Fanti, 2023).
 
@@ -84,6 +84,7 @@ Passwords must meet the following criteria:
 The main function executes a loop allowing users to enter a proposed password and checks its validity. It allows for a user to try again if their proposed password does not conform or exit the program.
 
 ## How To Run The Program
+
 #### Step 1. Execute the script in a Python environment:
  - The script will guide you through the process of entering a proposed password and provide feedback on its adherence to best practices.
 
@@ -98,6 +99,9 @@ The main function executes a loop allowing users to enter a proposed password an
  - Input a proposed password to check if it conforms to best practices.
 
  ![Example entering proposed password](/Modules/1/img/GetStarted.png)
+
+#### Step 4. Walk through the MFA example using PyOTP:
+ - Input a proposed password to check if it conforms to best practices. 
 
 ## Notes
 
