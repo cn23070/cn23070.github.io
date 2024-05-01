@@ -29,10 +29,9 @@ tags: [Module 2]
 | :--------                                      | :-------                    | :--------------------------                                                                                       | :------------------------- |
 | `Collaborative Discussion Forum 1 - Units 1-3` | `Student Forum Posts`       | Discuss why Cyber Security is now a global issue and why it is important for companies to invest in Cyber Security|[All Forum Posts](https://www.my-course.co.uk/mod/forum/view.php?id=907384) , [My Initial Post](https://www.my-course.co.uk/mod/forum/discuss.php?d=196152), [My Summary Post](https://www.my-course.co.uk/mod/forum/discuss.php?d=199496)|
 | `Collaborative Discussion Forum 2 - Units 4-6` | `Student Forum Posts`       | Identify and discuss two security technologies and the context in which they can be employed. | [All Forum Posts](https://www.my-course.co.uk/mod/forum/view.php?id=907417) , [My Initial Post](https://www.my-course.co.uk/mod/forum/discuss.php?d=203142), [My Summary Post](https://www.my-course.co.uk/mod/forum/discuss.php?d=205078)|
-| `Vulnerability Audit and Assessment - Baseline Analysis and Plan`         | `Report`                    | Vulnerability Audit and Assessment - Baseline Analysis and Plan | [View Report](https://essexuniversity-my.sharepoint.com/:w:/g/personal/cn23070_essex_ac_uk/EU1BCa9NCCdJofUkBG35xFUBgYDwyVE46-R-viPg_45TVA) 
-| `Vulnerability Audit and Assessment - Results and Executive Summary`         | `Report`                    | Following your analysis document that you submitted in Unit 3, you should now produce an executive summary that pulls together your findings, recommendations and conclusions in a clear and unambiguous format. | [View Report](https://essexuniversity-my.sharepoint.com/:w:/g/personal/cn23070_essex_ac_uk/EdvRgQGF-1RDgLo7qPxvFWkBunnNszOSRAuhaMk45YHe1A) 
-| `
-Individual Reflective Piece`  | `Essay` | This assignment focuses on your reflections on the skill and knowledge gained from the module. In particular, the legal, social, ethical and professional issues faced by information security and risk professionals. | [View Essay](https://essexuniversity-my.sharepoint.com/:w:/g/personal/cn23070_essex_ac_uk/EU1BCa9NCCdJofUkBG35xFUBgYDwyVE46-R-viPg_45TVA) 
+| `Vulnerability Audit and Assessment - Baseline Analysis and Plan`            | `Report`  | Vulnerability Audit and Assessment - Baseline Analysis and Plan | [View Report](https://essexuniversity-my.sharepoint.com/:w:/g/personal/cn23070_essex_ac_uk/EU1BCa9NCCdJofUkBG35xFUBgYDwyVE46-R-viPg_45TVA) 
+| `Vulnerability Audit and Assessment - Results and Executive Summary`         | `Report` | Following your analysis document that you submitted in Unit 3, you should now produce an executive summary that pulls together your findings, recommendations and conclusions in a clear and unambiguous format. | [View Report](https://essexuniversity-my.sharepoint.com/:w:/g/personal/cn23070_essex_ac_uk/EdvRgQGF-1RDgLo7qPxvFWkBunnNszOSRAuhaMk45YHe1A) 
+| `Individual Reflective Piece`  | `Essay` | This assignment focuses on your reflections on the skill and knowledge gained from the module. In particular, the legal, social, ethical and professional issues faced by information security and risk professionals. | [View Essay](https://essexuniversity-my.sharepoint.com/:w:/g/personal/cn23070_essex_ac_uk/EU1BCa9NCCdJofUkBG35xFUBgYDwyVE46-R-viPg_45TVA) 
 
 
 
@@ -57,7 +56,8 @@ Next, I attempted the first marked assignment where we were required to produce 
 
 We then proceeded to learn about the importance of cyber security logging and auditing. A paper by the SANS Institute (2010) helped in understanding what a successful SIEM and Log Management strategy could look like. Ekelhart. et al (2018) also helped explain the importance of a holistic logging solution via. a semantic approach that is balanced to the need of the business and that ensures log review is well covered and not just logging.
 
-Next I attempted to complete the second marked assignment, to produce a Vulnerability Audit and Assessment - Results and Executive Summary. I found this task challenging but also rewarding. It provided me with the opportunity of carrying out my proposed methodology recorded in assignment 1. A key learning was how to pull together and synthesize findings, recommendations and conclusions in a clear and unambiguous format that would serve various stakeholder groups including executives. 
+Next I attempted to complete the second marked assignment, to produce a Vulnerability Audit and Assessment - Results and Executive Summary. I found this task challenging but also rewarding. It provided me with the opportunity of carrying out my proposed methodology recorded in assignment 1. 
+A key learning was how to pull together and synthesize findings, recommendations and conclusions in a clear and unambiguous format that would serve various stakeholder groups including executives. 
 
 Reviewing and discussing the assessment template from PurpleSec, helped with framing up a template that could be populated, and applicable standards including GDPR considerations was included. The outcome of this work would be of real value to the website owner of the website assessed.
 
@@ -81,7 +81,7 @@ Bhatt, D. (2018). Modern day penetration testing distribution open source platfo
 
 #### Professional Skills Matrix and Action Plan
 
-*What skills have I gained or enhanced as a result of this module and how can I use it? What else do I need to learn?*
+	*What skills have I gained or enhanced as a result of this module and how can I use it? What else do I need to learn?*
 
 - Abiltiy to identify and analyse security threats and vulnerabilities in network systems and determine appropriate methodologies, tools and techniques to manage and/or solve them.
 - ability to design and critically appraise computer programs and systems to produce solutions that help manage and audit risk and security issues.
