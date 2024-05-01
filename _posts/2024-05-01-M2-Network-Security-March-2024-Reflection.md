@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reflection On Module 2
+title: Module 2 Reflection
 subtitle: My reflections on the skills and knowledge gained from the module. 
 categories: Module_2
 tags: [Module 2 Reflection]
