@@ -11,7 +11,7 @@ tags: [Module 2]
 
 ## Module 2: Learning Scope & Objectives
 
-*“All human endeavors involve uncertainty and risk.”(Olson, D.L. & Desheng D.W, 2020)*
+*“To realize a defendable environment, you must adopt a proactive approach to security—one that starts with assessment to understand your exposure. ”(McNab, C., 2017)*
 
 - Understand the fundamentals of vulnerability assessment in various systems.
 - Understand of the fundamentals of the provision of security in information networks.
