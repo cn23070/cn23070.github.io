@@ -23,35 +23,81 @@ tags: [Module 3]
 - Discuss and design DR solutions.
 	- Objective: Design and explain DR strategies and solutions.
 	
-### Unit 1: An Introduction to Security and Risk Management
+### Unit 1&2: An Introduction to Security and Risk Management, & Users, Assessments and the Risk Management Process
 
-####Unit 1: Learning Objectives
+####Unit 1&2: Learning Objectives
 
 - Understand the various definitions of risk.
 - Ability to explain how to assess, qualify and mitigate risks.
 - Describe various approaches to quantify and qualify risks.
 - List common security and risk standards and select the appropriate one(s) for a given situation.
+- Explain the importance of user participation in the risk management process.
+- Discuss the implications of any recommended mitigations.
 
-####Unit 1: Reflections
+####Unit 1&2: Reflections
 
 Unit 1 provided a lecturecast that covered each learning objective in detail. Through the lecturecast I learnt a number of key terminology used in risk, and further developed my understanding on risk definitions by looking at the evolution of the definition over time and how context and situation influences the definition.The Lecturecast also introduced myself to the OpenFAIR and OCTAVE Framework's.
 We also reviewed our first case study, a paper by Kovaitė and Stankevičienė (2019),that illustrates some of the risks introduced by industry 4.0 when applying digitalisation to more traditional business processes. The study also covered a methodology for carrying out the risk assessment of the digitalisation process as well as some common definitions of risk.
 Industry 4.0. it refers to the fourth industrial revolution and embodies the use of new technologies like the Internet of things (IoT), big data, cloud computing, robotics, and artificial intelligence, to transform traditional and manufacturing processes.
 It aims to enhance and optimize manufacturing and industrial operations by decentralising communication between humans and machines and enabling autonomous collaboration between machines, devices and systems. (Kovaitė and Stankevičienė, 2019).
 
+
 #####Understand the various definitions of risk.
 
-On completion of unit 1 I came away with a good understanding of what risk is, including the various definitions it known by.A key takeaway is that risk is not easy to define, as the definition if often dependant on context and situation. 
-Reim, Parida, and Sjödin (2016) define risk “as a combination of the probability of loss and the impact of the loss for a number of events and risks”. My simplified version of this is that risk is the probability that something may occur, and is based on the impact an likelihood of the occurrence.
+- **1**: Learning about Risk Definition
+
+![Risk Definition During Lecturecast1](/Modules/3/img/1.png)
+
+On completion of unit 1 I came away with a good understanding of what risk is, including the various definitions it known by.
+
+A key takeaway is that risk is not easy to define, as the definition if often dependant on context and situation. One of the challenges of risk management is ensuring that all key stakeholders share a common understanding of risk.
+
+Reim, Parida, and Sjödin (2016) define risk “as a combination of the probability of loss and the impact of the loss for a number of events and risks”. 
+
+My simplified version of this is that risk is the probability that something may occur, and is based on the impact an likelihood of the occurrence.
+
+![Risk Definition During Lecturecast1](/Modules/3/img/2.png)
 
 #####Ability to explain how to assess, qualify and mitigate risks
 
+![Risk Definition During Lecturecast1](/Modules/3/img/4.png)
+
+In order for a company to assess, qualify and mitigate risks appropriately, a risk management system program should be implemented made up of:
+- appropriatte governance, buy-in and contribution from senior management and involve the senior leaders of all major departments within the company
+- all known appropriate standards and certifications that the company is required to be compliant with from both a legal and regulatory perspective
+- continous improvmenet following the PDCA model
+- be integrated with the companys information security management system
+
+
 #####Describe various approaches to quantify and qualify risks.
 
+- **1**: Learning about qualitative vs. quantative
+
+![Qualitative vs. Quantative During Lecturecast1](/Modules/3/img/3.png)
+
+Qualatitive:
+- Used for lower value assets, or numerical data is missing, or when risk stakeholders do not have quatative assessment skillsets
+- Threats and vulnerabilities are ususally assigned a value of high, medium or low
+
+Quantative:
+- Well defined mathematical calculation that often uses proability and game theory
+
+Hubbard(2009) argues that quantative assessments are more useful then qualitative assessments and should be preferred. 
+
+However Busch(n.d.) points out not all risks can be evaluated numerically. This is becuase risk is subjective, and precluding qualitative assessment may exclude useful input from less numerically oriented staff. 
+
 #####List common security and risk standards and select the appropriate one(s) for a given situation.
-The Lecturecast also introduced myself to the OpenFAIR and OCTAVE Framework's.
 
+The Lecturecast also introduced myself to a number of standards including the OpenFAIR and OCTAVE Framework's.
+OpenFAIR
+Open FAIR is a standard produced by the Open Group  
+FAIR is an acronym for "Factor Analysis of Information Risk" (Josey et al, 2014). 
+It consists of two documents, the open risk taxonomy (O-RT) which defines the taxonomy for the factors driving information risk; and the open risk analysis (O-RA) which describes the process and procedures associated with performing risk analysis.
 
+OCTAVE
+OCTAVE stands for Operationally Critical Threat, Asset and Vulnerability Evaluation (OCTAVE) framework standard 
+The standard was created at Carnegie Mellon University (CMU) in 1999 (Alberts et al, 1999)
+Made up of three phases: 1 Build enterprise wide security requirements, 2 Identify infrastructure vulnerabilties, and 3 determine the security risk management strategy
 
 
 ## Module 1: Artefacts
@@ -69,6 +115,10 @@ The Lecturecast also introduced myself to the OpenFAIR and OCTAVE Framework's.
 ## Module 3: Reflections
 
 *Information about what I learnt during this module and how*
+
+Unit 1
+Definition of a risk
+
 
 ## Module 3: Meeting Notes
 
