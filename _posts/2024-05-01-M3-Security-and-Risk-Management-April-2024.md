@@ -103,59 +103,22 @@ Made up of three phases: 1 Build enterprise wide security requirements, 2 Identi
 
 Unit 3 provided an introduction to threat modelling
 
-We reviewed a paper by Shevchenko et al (2018) that summarised the most common threat management and modelling methods currently in use.
+We reviewed a paper by Shevchenko et al (2018) that summarised the most common threat management and modelling methods currently in use which is summarised in the table below.
 
 | Threat Modelling Method                        | Features|
 | :--------                                      | :-------|
-| STRIDE										 | Helps identify relevant mitigating techniques| Is the most mature| Is easy to use but is time consuming|      
-| PASTA 									     | Helps identify relevant mitigating techniques, Directly contributes to risk management, Encourages collaboration among stakeholders, Contains built-in prioritization of threat mitigation, Is laborious but has rich documentation|          
-
-
-
-LINDDUN 	"Helps identify relevant mitigation techniques 
-Contains built-in prioritization of threat mitigation 
- Can be labor intensive and time consuming "
-CVSS 	" Contains built-in prioritization of threat mitigation  
-Has consistent results when repeated 
-Automated components 
-Has score calculations that are not transparent "
-Attack Trees	"Helps identify relevant mitigation techniques 
-Has consistent results when repeated 
-Is easy to use if you already have a thorough understanding of the system "
-Persona non Grata 	"Helps identify relevant mitigation techniques 
-Directly contributes to risk management  
-Has consistent results when repeated 
-Tends to detect only some subsets of threats "
-Security Cards 	"Encourages collaboration among stakeholders  
-Targets out-of-the-ordinary threats 
-Leads to many false positives "
-hTMM	"Contains built-in prioritization of threat mitigation  
-Encourages collaboration among stakeholders 
-Has consistent results when repeated "
-Quantitative TMM	"Contains built-in prioritization of threat mitigation  
-Has automated components 
-Has consistent results when repeated "
-Trike	"Helps identify relevant mitigation techniques 
-Directly contributes to risk management  
-Contains built-in prioritization of threat mitigation  
- Encourages collaboration among stakeholders 
-Has automated components 
-Has vague, insufficient documentation  "
-VAST Modeling 	"Helps identify relevant mitigation techniques 
-Directly contributes to risk management  
-Contains built-in prioritization of threat mitigation  
-Encourages collaboration among stakeholders 
-Has consistent results when repeated  
-Has automated components 
- Is explicitly designed to be scalable 
-Has little publicly available documentation "
-OCTAVE 	"Helps identify relevant mitigation techniques 
-Directly contributes to risk management  
-Contains built-in prioritization of threat mitigation  
-Encourages collaboration among stakeholders 
-Has consistent results when repeated 
-Is explicitly designed to be scalable  
-Is time consuming and has vague documentation "
+| STRIDE										 | Helps identify relevant mitigating techniques, Is the most mature, Is easy to use but is time consuming|      
+| PASTA 									     | Helps identify relevant mitigating techniques, Directly contributes to risk management, Encourages collaboration among stakeholders, Contains built-in prioritization of threat mitigation, Is laborious but has rich documentation|
+| LINDDUN   									 | Helps identify relevant mitigation techniques, Contains built-in prioritization of threat mitigation, Can be labor intensive and time consuming
+| CVSS 											 | Contains built-in prioritization of threat mitigation, Has consistent results when repeated, Automated components, Has score calculations that are not transparent |      
+| Attack Trees									 | Helps identify relevant mitigation techniques, Has consistent results when repeated, Is easy to use if you already have a thorough understanding of the system |
+| Persona non Grata 							 | Helps identify relevant mitigation techniques, Directly contributes to risk management, Has consistent results when repeated, Tends to detect only some subsets of threats |
+| Security Cards 								 | Encourages collaboration among stakeholders, Targets out-of-the-ordinary threats, Leads to many false positives |
+| hTMM	                                         | Contains built-in prioritization of threat mitigation, Encourages collaboration among stakeholders, Has consistent results when repeated |
+| Quantitative TMM							     | Contains built-in prioritization of threat mitigation, Has automated components, Has consistent results when repeated |
+| Trike											 | Helps identify relevant mitigation techniques, Directly contributes to risk management , Contains built-in prioritization of threat mitigation, Encourages collaboration among stakeholders, Has automated components, Has vague, insufficient documentation |
+| VAST Modeling 								 | Helps identify relevant mitigation techniques, Directly contributes to risk management, Contains built-in prioritization of threat mitigation, Encourages collaboration among stakeholders, Has consistent results when repeated, Has automated components, Is explicitly designed to be scalable, Has little publicly available documentation|
+| OCTAVE 	                                     | Helps identify relevant mitigation techniques, Directly contributes to risk management, Contains built-in prioritization of threat mitigation, Encourages collaboration among stakeholders, Has consistent results when repeated, Is explicitly designed to be scalable, Is time consuming and has vague documentation |
 
 
  provided a lecturecast that covered each learning objective in detail. Through the lecturecast I learnt a number of key terminology used in risk, and further developed my understanding on risk definitions by looking at the evolution of the definition over time and how context and situation influences the definition.The Lecturecast also introduced myself to the OpenFAIR and OCTAVE Framework's.
