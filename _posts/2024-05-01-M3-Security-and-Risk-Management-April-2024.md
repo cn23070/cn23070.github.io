@@ -171,7 +171,7 @@ Each node shown represents a threat actors goal or method to achieve that goal. 
 
 Taking the experiance gained, I began building out proposed content for the intial group assignment for review by my team members.
 
-![Risk Proccess based on ISO 31000](/Modules/3/img/7.png)
+![Risk Proccess based on ISO 31000](/Modules/3/img/6.png)
 
 ![Risk Proccess Step 1: Establish Context](/Modules/3/img/8.png)
 
