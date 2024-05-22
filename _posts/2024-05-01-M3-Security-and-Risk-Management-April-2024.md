@@ -105,6 +105,13 @@ Unit 3 provided an introduction to threat modelling
 
 We reviewed a paper by Shevchenko et al (2018) that summarised the most common threat management and modelling methods currently in use.
 
+| Threat Modelling Method                        | Features                                         |                                                   
+| :--------                                      | :-------                                         |
+| STRIDE										 | Helps identify relevant mitigating techniques    |
+												   Is the most mature                               |
+												   Is easy to use but is time consuming             |
+|PASTA 
+
 Threat Modelling Method	Features
 STRIDE	"Helps identify relevant mitigating techniques 
 Is the most mature 
