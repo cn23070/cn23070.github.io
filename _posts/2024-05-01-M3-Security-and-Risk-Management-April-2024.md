@@ -109,7 +109,7 @@ We reviewed a paper by Shevchenko et al (2018) that summarised the most common t
 | :--------                                      | :-------|
 | STRIDE										 | Helps identify relevant mitigating techniques, Is the most mature, Is easy to use but is time consuming|      
 | PASTA 									     | Helps identify relevant mitigating techniques, Directly contributes to risk management, Encourages collaboration among stakeholders, Contains built-in prioritization of threat mitigation, Is laborious but has rich documentation|
-| LINDDUN   									 | Helps identify relevant mitigation techniques, Contains built-in prioritization of threat mitigation, Can be labor intensive and time consuming
+| LINDDUN   									 | Helps identify relevant mitigation techniques, Contains built-in prioritization of threat mitigation, Can be labor intensive and time consuming |
 | CVSS 											 | Contains built-in prioritization of threat mitigation, Has consistent results when repeated, Automated components, Has score calculations that are not transparent |      
 | Attack Trees									 | Helps identify relevant mitigation techniques, Has consistent results when repeated, Is easy to use if you already have a thorough understanding of the system |
 | Persona non Grata 							 | Helps identify relevant mitigation techniques, Directly contributes to risk management, Has consistent results when repeated, Tends to detect only some subsets of threats |
