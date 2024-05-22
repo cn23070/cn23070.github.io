@@ -105,20 +105,13 @@ Unit 3 provided an introduction to threat modelling
 
 We reviewed a paper by Shevchenko et al (2018) that summarised the most common threat management and modelling methods currently in use.
 
-| Threat Modelling Method                        | Features                                         |                                                   
-| :--------                                      | :-------                                         |
-| STRIDE										 | Helps identify relevant mitigating techniques    
-												   Is the most mature                               
-												   Is easy to use but is time consuming             |
-|PASTA 											 | Helps identify relevant mitigating techniques
- Directly contributes to risk management |          
+| Threat Modelling Method                        | Features                                                                                                																																   |                               |                    							 |                 																																																						   |
+| :--------                                      | :-------                                                                                                																																   |
+| STRIDE										 | Helps identify relevant mitigating techniques, Is the most mature, Is easy to use but is time consuming 																																   |      
+| PASTA 									     | Helps identify relevant mitigating techniques, Directly contributes to risk management, Encourages collaboration among stakeholders, Contains built-in prioritization of threat mitigation, Is laborious but has rich documentation |          
 
 
-PASTA 	"Helps identify relevant mitigating techniques
- Directly contributes to risk management  
-Encourages collaboration among stakeholders 
-Contains built-in prioritization of threat mitigation  
-Is laborious but has rich documentation "
+
 LINDDUN 	"Helps identify relevant mitigation techniques 
 Contains built-in prioritization of threat mitigation 
  Can be labor intensive and time consuming "
