@@ -101,9 +101,11 @@ Made up of three phases: 1 Build enterprise wide security requirements, 2 Identi
 
 ####Unit 3,4 & 5: Reflections
 
-Unit 3 provided an introduction to threat modelling
+Unit 3 provided an introduction to threat modelling. the lecturecast we learnt the difference between threats and vulnerabilities and reviewed a number of common threat modelling techniques.
 
-We reviewed a paper by Shevchenko et al (2018) that summarised the most common threat management and modelling methods currently in use which is summarised in the table below.
+![Key Terminology](/Modules/3/img/5.png)
+
+To support this, I also reviewed a paper by Shevchenko et al (2018) that summarised the most common threat management and modelling methods currently in use which is summarised in the table below.
 
 | Threat Modelling Method                        | Features|
 | :--------                                      | :-------|
@@ -121,13 +123,10 @@ We reviewed a paper by Shevchenko et al (2018) that summarised the most common t
 | OCTAVE 	                                     | Helps identify relevant mitigation techniques, Directly contributes to risk management, Contains built-in prioritization of threat mitigation, Encourages collaboration among stakeholders, Has consistent results when repeated, Is explicitly designed to be scalable, Is time consuming and has vague documentation |
 
 
- provided a lecturecast that covered each learning objective in detail. Through the lecturecast I learnt a number of key terminology used in risk, and further developed my understanding on risk definitions by looking at the evolution of the definition over time and how context and situation influences the definition.The Lecturecast also introduced myself to the OpenFAIR and OCTAVE Framework's.
-We also reviewed our first case study, a paper by Kovaitė and Stankevičienė (2019),that illustrates some of the risks introduced by industry 4.0 when applying digitalisation to more traditional business processes. The study also covered a methodology for carrying out the risk assessment of the digitalisation process as well as some common definitions of risk.
-Industry 4.0. it refers to the fourth industrial revolution and embodies the use of new technologies like the Internet of things (IoT), big data, cloud computing, robotics, and artificial intelligence, to transform traditional and manufacturing processes.
-It aims to enhance and optimize manufacturing and industrial operations by decentralising communication between humans and machines and enabling autonomous collaboration between machines, devices and systems. (Kovaitė and Stankevičienė, 2019).
 
 
-## Module 1: Artefacts
+
+## Module 3: Artefacts
 
 
 | Parameter                                      | Type                        | Description                                                                                                       | References                 |
