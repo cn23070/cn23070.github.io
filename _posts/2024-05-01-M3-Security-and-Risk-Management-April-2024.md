@@ -140,34 +140,34 @@ Each node shown represents a threat actors goal or method to achieve that goal. 
 **STRIDE Threat Model Exercise Results**
 
 **1. Spoofing Identity**
-**Threat:** An attacker impersonates an authorized user or system.
-**Example:** Attacker uses stolen credentials to access the network.
-**Mitigation:** Implement multi-factor authentication (MFA) and strong access controls.
+- **Threat:** An attacker impersonates an authorized user or system.
+- **Example:** Attacker uses stolen credentials to access the network.
+- **Mitigation:** Implement multi-factor authentication (MFA) and strong access controls.
  
 **2. Tampering with Data**
-**Threat:** An attacker tampers with data, compromising its integrity.
-**Example:** An insider modifies patient records or medical device calibration data.
-**Mitigation:** Use encryption, digital signatures, audit log reviews, and regular integrity checks.
+- **Threat:** An attacker tampers with data, compromising its integrity.
+- **Example:** An insider modifies patient records or medical device calibration data.
+- **Mitigation:** Use encryption, digital signatures, audit log reviews, and regular integrity checks.
  
 **3. Repudiation**
-**Threat:** Actions or transactions can be denied by users.
-**Example:** An employee denies making changes to sensitive patient data after changing it.
-**Mitigation:** Implement audit logging including log reviews.
+- **Threat:** Actions or transactions can be denied by users.
+- **Example:** An employee denies making changes to sensitive patient data after changing it.
+- **Mitigation:** Implement audit logging including log reviews.
  
 **4. Information Disclosure**
-**Threat:** Unauthorized disclosure of sensitive information.
-**Example:** An attacker exploits a known vulnerability to access confidential patient data.
-**Mitigation:** Use encryption, access controls, and regular security assessments.
+- **Threat:** Unauthorized disclosure of sensitive information.
+- **Example:** An attacker exploits a known vulnerability to access confidential patient data.
+- **Mitigation:** Use encryption, access controls, and regular security assessments.
  
 **5. Denial of Service (DoS)**
-**Threat:** An attacker disrupts services to make them unavailable.
-**Example:** A DDoS attack on the company's servers disrupts manufacturing operations.
-**Mitigation:** Deploy DoS protection mechanisms like firewalls and redundancy.
+- **Threat:** An attacker disrupts services to make them unavailable.
+- **Example:** A DDoS attack on the company's servers disrupts manufacturing operations.
+- **Mitigation:** Deploy DoS protection mechanisms like firewalls and redundancy.
  
 **6. Elevation of Privilege**
-**Threat:** An attacker gains unauthorized elevated privileges.
-**Example:** An attacker exploits a vulnerability to gain administrative access to the system.
-**Mitigation:** Implement least privilege access controls and regular patching.
+- **Threat:** An attacker gains unauthorized elevated privileges.
+- **Example:** An attacker exploits a vulnerability to gain administrative access to the system.
+- **Mitigation:** Implement least privilege access controls and regular patching.
 
 Taking the experiance gained, I began building out proposed content for the intial group assignment for review by my team members.
 
