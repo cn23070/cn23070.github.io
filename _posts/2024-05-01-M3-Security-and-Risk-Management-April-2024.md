@@ -25,7 +25,7 @@ tags: [Module 3]
 	
 ### Unit 1&2: An Introduction to Security and Risk Management, & Users, Assessments and the Risk Management Process
 
-####Unit 1&2: Learning Objectives
+#### Unit 1&2: Learning Objectives
 
 - Understand the various definitions of risk.
 - Ability to explain how to assess, qualify and mitigate risks.
@@ -34,7 +34,7 @@ tags: [Module 3]
 - Explain the importance of user participation in the risk management process.
 - Discuss the implications of any recommended mitigations.
 
-####Unit 1&2: Reflections
+#### Unit 1&2: Reflections
 
 Unit 1 provided a lecturecast that covered each learning objective in detail. Through the lecturecast I learnt a number of key terminology used in risk, and further developed my understanding on risk definitions by looking at the evolution of the definition over time and how context and situation influences the definition.The Lecturecast also introduced myself to the OpenFAIR and OCTAVE Framework's.
 We also reviewed our first case study, a paper by Kovaitė and Stankevičienė (2019),that illustrates some of the risks introduced by industry 4.0 when applying digitalisation to more traditional business processes. The study also covered a methodology for carrying out the risk assessment of the digitalisation process as well as some common definitions of risk.
@@ -42,7 +42,7 @@ Industry 4.0. it refers to the fourth industrial revolution and embodies the use
 It aims to enhance and optimize manufacturing and industrial operations by decentralising communication between humans and machines and enabling autonomous collaboration between machines, devices and systems. (Kovaitė and Stankevičienė, 2019).
 
 
-#####Understand the various definitions of risk.
+##### Understand the various definitions of risk.
 
 - **1**: Learning about Risk Definition
 
@@ -58,7 +58,7 @@ My simplified version of this is that risk is the probability that something may
 
 ![Risk Definition During Lecturecast1](/Modules/3/img/2.png)
 
-#####Ability to explain how to assess, qualify and mitigate risks
+##### Ability to explain how to assess, qualify and mitigate risks
 
 ![Risk Definition During Lecturecast1](/Modules/3/img/4.png)
 
@@ -69,43 +69,46 @@ In order for a company to assess, qualify and mitigate risks appropriately, a ri
 - be integrated with the companys information security management system
 
 
-#####Describe various approaches to quantify and qualify risks.
+##### Describe various approaches to quantify and qualify risks.
 
 - **1**: Learning about qualitative vs. quantative
 
 ![Qualitative vs. Quantative During Lecturecast1](/Modules/3/img/3.png)
 
-Qualatitive:
+**Qualatitive:**
 - Used for lower value assets, or numerical data is missing, or when risk stakeholders do not have quatative assessment skillsets
 - Threats and vulnerabilities are ususally assigned a value of high, medium or low
 
-Quantative:
+**Quantative:**
 - Well defined mathematical calculation that often uses proability and game theory
 
 Hubbard(2009) argues that quantative assessments are more useful then qualitative assessments and should be preferred. 
 
 However Busch(n.d.) points out not all risks can be evaluated numerically. This is becuase risk is subjective, and precluding qualitative assessment may exclude useful input from less numerically oriented staff. 
 
-#####List common security and risk standards and select the appropriate one(s) for a given situation.
+##### List common security and risk standards and select the appropriate one(s) for a given situation.
 
 The Lecturecast also introduced myself to a number of standards including the OpenFAIR and OCTAVE Framework's.
-OpenFAIR
+
+**OpenFAIR**
 Open FAIR is a standard produced by the Open Group  
 FAIR is an acronym for "Factor Analysis of Information Risk" (Josey et al, 2014). 
 It consists of two documents, the open risk taxonomy (O-RT) which defines the taxonomy for the factors driving information risk; and the open risk analysis (O-RA) which describes the process and procedures associated with performing risk analysis.
 
-OCTAVE
+**OCTAVE**
 OCTAVE stands for Operationally Critical Threat, Asset and Vulnerability Evaluation (OCTAVE) framework standard 
 The standard was created at Carnegie Mellon University (CMU) in 1999 (Alberts et al, 1999)
 Made up of three phases: 1 Build enterprise wide security requirements, 2 Identify infrastructure vulnerabilties, and 3 determine the security risk management strategy
 
-####Unit 3,4 & 5: Reflections
+#### Unit 3,4 & 5: Reflections
 
 Unit 3 provided an introduction to threat modelling. the lecturecast we learnt the difference between threats and vulnerabilities and reviewed a number of common threat modelling techniques.
 
 ![Key Terminology](/Modules/3/img/5.png)
 
-To support this, I also reviewed a paper by Shevchenko et al (2018) that summarised the most common threat management and modelling methods currently in use which is summarised in the table below.
+##### Common Threat Models and Features (Shevchenko et al, 2018)
+
+To further support my uderstanding of the different threat models and their features, I also reviewed a paper by Shevchenko et al (2018) that summarised the most common threat management and modelling methods currently in use which is summarised in the table below.
 
 | Threat Modelling Method                        | Features|
 | :--------                                      | :-------|
@@ -122,6 +125,119 @@ To support this, I also reviewed a paper by Shevchenko et al (2018) that summari
 | VAST Modeling 								 | Helps identify relevant mitigation techniques, Directly contributes to risk management, Contains built-in prioritization of threat mitigation, Encourages collaboration among stakeholders, Has consistent results when repeated, Has automated components, Is explicitly designed to be scalable, Has little publicly available documentation|
 | OCTAVE 	                                     | Helps identify relevant mitigation techniques, Directly contributes to risk management, Contains built-in prioritization of threat mitigation, Encourages collaboration among stakeholders, Has consistent results when repeated, Is explicitly designed to be scalable, Is time consuming and has vague documentation |
 
+#####  Intial Threat Modeling with STRIDE, DREAD, and Attack Trees
+
+Unit 4 allowed us to gain experiance of the some of the more common threat modelling techniques (STRIDE and DREAD, Attack Trees), by researching them in more detail, attempting to apply them to a scenario, and then discussing them during the uniit 4 group seminar. I decided to perform a rapid threat assessment with the aid of ChatGPT. I generated a couple threat models using STRIDE, DREAD, and attack trees for the following scenario: a large medical device manufacturer based in the United States of America. The results are shown below and were discussed with my lecturer and peers. Each node shown represents a threat actors goal or method to achieve that goal. This helps to identify where security measures should be implemented to mitigate risks, and aids in understanding and prioritizing risks.
+
+**Root Node (Main Goal):**
+**Compromise the security of the medical device manufacturer**
+ 
+**Level 1 (High-Level Threat Categories):**
+Unauthorized Access to Sensitive Data
+Disruption of Manufacturing Operations
+Compromise of Medical Devices
+Damage to Reputation and Trust
+ 
+Attack Tree Breakdown
+
+1. Unauthorized Access to Sensitive Data
+ 1.1. Gain access to patient data
+  1.1.1. Phishing attack on employees
+   1.1.1.1. Craft a spear-phishing email
+   1.1.1.2. Send email with malicious link/attachment
+   1.1.1.3. Employee clicks on link/attachment
+  1.1.2. Exploit vulnerabilities in the patient database
+   1.1.2.1. Identify unpatched software
+   1.1.2.2. Execute SQL injection
+  1.1.3. Insider threat
+   1.1.3.1. Bribe or coerce an employee
+   1.1.3.2. Use legitimate access to exfiltrate data
+ 
+1.2. Gain access to intellectual property (IP)
+1.2.1. Network intrusion
+1.2.1.1. Exploit weak network security protocols
+1.2.1.2. Install malware (e.g., keyloggers, spyware)
+1.2.2. Physical theft of devices containing IP
+1.2.2.1. Steal company laptops or USB drives
+1.2.3. Social engineering
+1.2.3.1. Impersonate IT support to gain credentials
+1.2.3.2. Use pretexting to obtain sensitive information
+ 
+2. Disruption of Manufacturing Operations
+2.1. Sabotage manufacturing equipment
+2.1.1. Physical tampering
+2.1.1.1. Gain unauthorized physical access to the facility
+2.1.1.2. Damage or alter equipment settings
+ 
+2.1.2. Cyber attack on manufacturing systems
+2.1.2.1. Deploy ransomware to lock systems
+2.1.2.2. Execute denial-of-service (DoS) attack
+ 
+2.2. Supply chain attack
+2.2.1. Compromise suppliers
+2.2.1.1. Insert malware into components
+2.2.1.2. Delay or halt delivery of critical components
+ 
+3. Compromise of Medical Devices
+3.1. Manipulate device firmware/software
+3.1.1. Exploit software vulnerabilities
+3.1.1.1. Identify and exploit zero-day vulnerabilities
+3.1.1.2. Use backdoors or default credentials
+ 
+3.1.2. Distribute malicious updates
+3.1.2.1. Compromise update servers
+3.1.2.2. Phishing attack to gain control over update process
+ 
+3.2. Remote control of medical devices
+3.2.1. Network-based attacks
+3.2.1.1. Use unsecured wireless connections
+3.2.1.2. Intercept and alter communication between devices and controllers
+ 
+4. Damage to Reputation and Trust
+4.1. Public disclosure of a security breach
+4.1.1. Leak sensitive information to the public
+4.1.1.1. Post stolen data on public forums
+4.1.1.2. Send data to media outlets
+ 
+4.2. False information campaigns
+4.2.1. Social media attacks
+4.2.1.1. Create fake social media accounts
+4.2.1.2. Spread misinformation about product safety
+Summary
+This attack tree provides a structured view of potential threats to a large medical device manufacturer. Each node represents a goal or method to achieve that goal, helping to identify where security measures should be implemented to mitigate risks. This model aids in understanding and prioritizing risks, enabling the development of robust security strategies and incident response plans.
+ 
+Creating a threat model using the STRIDE and DREAD frameworks for a large medical device manufacturer based in the United States involves identifying potential threats and assessing their impact and likelihood. Here’s a structured approach:
+ 
+STRIDE Threat Model
+1. Spoofing Identity
+Threat: An attacker impersonates an authorized user or system.
+Example: Attacker uses stolen credentials to access the internal network.
+Mitigation: Implement multi-factor authentication (MFA) and robust access controls.
+ 
+2. Tampering with Data
+Threat: An attacker modifies data to compromise its integrity.
+Example: An insider modifies patient records or device calibration data.
+Mitigation: Use encryption, digital signatures, and regular integrity checks.
+ 
+3. Repudiation
+Threat: Actions or transactions can be denied by users.
+Example: An employee denies making changes to sensitive data after tampering with it.
+Mitigation: Implement audit logs and ensure they are tamper-proof.
+ 
+4. Information Disclosure
+Threat: Unauthorized disclosure of sensitive information.
+Example: An attacker exploits a vulnerability to access confidential patient data.
+Mitigation: Use encryption, access controls, and regular security assessments.
+ 
+5. Denial of Service (DoS)
+Threat: An attacker disrupts services to make them unavailable.
+Example: A DDoS attack on the company's servers disrupts manufacturing operations.
+Mitigation: Deploy DoS protection mechanisms like firewalls and redundancy.
+ 
+6. Elevation of Privilege
+Threat: An attacker gains unauthorized elevated privileges.
+Example: An attacker exploits a vulnerability to gain administrative access to the system.
+Mitigation: Implement least privilege access controls and regular patching.
 
 
 
