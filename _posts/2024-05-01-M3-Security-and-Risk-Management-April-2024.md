@@ -107,7 +107,7 @@ We reviewed a paper by Shevchenko et al (2018) that summarised the most common t
 
 | Threat Modelling Method                        | Features|
 | :--------                                      | :-------|
-| STRIDE										 | Helps identify relevant mitigating techniques, Is the most mature, Is easy to use but is time consuming|      
+| STRIDE										 | Helps identify relevant mitigating techniques| Is the most mature| Is easy to use but is time consuming|      
 | PASTA 									     | Helps identify relevant mitigating techniques, Directly contributes to risk management, Encourages collaboration among stakeholders, Contains built-in prioritization of threat mitigation, Is laborious but has rich documentation|          
 
 
