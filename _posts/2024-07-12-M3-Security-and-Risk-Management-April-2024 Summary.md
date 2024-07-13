@@ -25,14 +25,6 @@ tags: [Module 3]
 	
 ### Unit 1&2: An Introduction to Security and Risk Management, & Users, Assessments and the Risk Management Process
 
-#### Unit 1&2: Learning Objectives
-
-- Understand the various definitions of risk.
-- Ability to explain how to assess, qualify and mitigate risks.
-- Describe various approaches to quantify and qualify risks.
-- List common security and risk standards and select the appropriate one(s) for a given situation.
-- Explain the importance of user participation in the risk management process.
-- Discuss the implications of any recommended mitigations.
 
 #### Unit 1&2: Reflections
 
@@ -169,7 +161,7 @@ Each node shown represents a threat actors goal or method to achieve that goal. 
 - **Example:** An attacker exploits a vulnerability to gain administrative access to the system.
 - **Mitigation:** Implement least privilege access controls and regular patching.
 
-#### Gaining Experiance with Assignment 1
+#### Units 4,5 & 6: Gaining Experiance with Assignment 1
 
 Unit 3 provided an introduction to threat modelling. the lecturecast we learnt the difference between threats and vulnerabilities and reviewed a number of common threat modelling techniques.
 
@@ -205,6 +197,55 @@ I learnt to deal with this by setting expectations up front using a team contrac
 
 I liked taking onboard my peers input and found that allowing a platform for candid open collaboration that is grounded by a simple operating framework agreed up front delivers strong results.
 
+#### Units 7 & 8: Delving Deeper Into Quantitative Risk Modelling
+
+Unit 7 and 8 allowed me to takle my initial concerns around quantitative methods head on by first learning about them in more detail followed by gaining experience around using them.
+
+![Delving Deeper Into Quantitative Risk Modelling](/Modules/3/img/13.png)
+
+
+Experiance was gained carrying out pratcial exrcises that involved applying the most common modelling types: Monte Carlo, Bayes Theorom. We then discussed the results during the live seminars.
+
+I really enjoyed challenging myself to grasp these methods. 
+
+
+####Unit 9: The Importance of Business Continuity(BC)/Disaster Recovery(DR)
+
+Unit 9 then equipped us with a great understanding of business continuity and disaster recovery. 
+
+![DR and Digitalisation](/Modules/3/img/14.png)
+
+We learnt about the importance of having such a strategy in place, and what the main factors are that make up a BC/DR plan including RTOs and RPOs.
+
+![RTO (Recovery Time Objective) & RPO (Recovery Point Objective)](/Modules/3/img/15.png)
+
+####Units 10 & 11: Putting It All Together - An Executive Summary Assignment, and whats next for Risk
+
+During the final few units we had the opportunity to take the knowledge gained and gain more experience applying it through an executive summary assignment.
+
+This report evaluated Pampered Pets again, but this time focused on the potential product quality and availability risks associated with the digitisation and internationalisation of the Pampered Pets business including the introduction of an international supply chain and automated warehouses worldwide. 
+
+Additionally, it provides a GDPR regulatory analysis and outlines a business continuity / disaster recovery strategy to help ensure a 24/7 digital e-commerce customer service capability.
+
+![Risk Proccess Step 1: Establish Context](/Modules/3/img/16.png)
+
+Here I had the opportunity to apply Bayeses' Theorem in a risk analysis exercise in order to determine probability of risk occurrence 
+
+![Applying Bayes's Theorem](/Modules/3/img/17.png)
+
+![Risk Proccess Step 2: Risk Analysis](/Modules/3/img/18.png)
+
+![Risk Proccess Step 3: Regulatory Impact Analysis](/Modules/3/img/20.png)
+
+I also got to create and submit a BC/DR design proposal for a a critical system requiring an active – active solution that is highly recoverable quickly.
+
+![BC/DR Pampered Pets Proposal](/Modules/3/img/19.png)
+
+####Unit 12: What Next? The Future Trends in SRM
+
+We then concluded the module with a look at the future trends in security and risk management. Learning the current and emerging trends was insightful and something I will take away into my current risk work activities.
+
+![Key Questions](/Modules/3/img/21.png)
 
 
 ## Module 3: Artefacts
@@ -353,8 +394,14 @@ I also got to create and submit a BC/DR design proposal for a a critical system 
 
 We then concluded the module with a look at the future trends in security and risk management. Learning the current and emerging trends was insightful and something I will take away into my current risk work activities.
 
+###Conclusion
 
-In conclusion this module has equipped me with a solid foundation in security and risk management including business continuity and disaster recover. I understand the importance of and the best practice around how to apply the right risk framework and methodology based on the context being assessed. Importantly I also now know the value of implementing and maintaining a business continuity / disaster recovery strategy that is based around requirements including known risks the strategy should address. I have a lot to learn still around quantitative risk analysis having only produced one assessment using Bayes Theorem to date, but I am confident in my ability to start applying this now in the risk work I am doing during my current employment as a Director of Cyber Security. I also come away with further reassurance on the important role risk management plays in helping ensure a business achieves its goals and objectives.
+
+In conclusion this module has equipped me with a solid foundation in security and risk management including business continuity and disaster recover. 
+I understand the importance of and the best practice around how to apply the right risk framework and methodology based on the context being assessed. 
+Importantly I also now know the value of implementing and maintaining a business continuity / disaster recovery strategy that is based around requirements including known risks the strategy should address. 
+I have a lot to learn still around quantitative risk analysis having only produced one assessment using Bayes Theorem to date, but I am confident in my ability to start applying this now in the risk work I am doing during my current employment as a Director of Cyber Security. 
+I also come away with further reassurance on the important role risk management plays in helping ensure a business achieves its goals and objectives.
 
 
 
