@@ -11,7 +11,7 @@ tags: [Module 3]
 
 ## Module 3: Learning Scope & Objectives
 
-*“All human endeavors involve uncertainty and risk.”(Olson, D.L. & Desheng D.W, 2020)*
+*“All human endeavours involve uncertainty and risk.”(Olson, D.L. & Desheng D.W, 2020)*
 
 - Discuss the difference between qualitative and quantitative risk assessments.
 - Describe how to carry out both kinds of assessments.
@@ -38,7 +38,7 @@ I was a little apprehensive about delving into the quantitative space, anticipat
 
 We began with applicable background reading used to research enterprise risk management models. Unit 1 and 2 provided a lecturecast that covered each learning objective in detail. Through the lecturecast I learnt of key terminology used in risk, and further developed my understanding on risk definitions by looking at the evolution of the definition over time and how context and situation influences the definition. Lecturecast also introduced myself to the OpenFAIR and OCTAVE Framework’s. 
 
-Key takeaways were around risk definition, common frameworks in use, and finally a comparison of the qunatative and qualitative methodologies
+Key takeaways were around risk definition, common frameworks in use, and finally a comparison of the quantitative and qualitative methodologies
 
 #### Risk definition
 
@@ -50,30 +50,30 @@ My simplified version of this is that risk is the probability that something may
 
 ![Risk Definition During Lecturecast1](/Modules/3/img/2.png)
 
-#### Qualatitive vs. Quantatative methods:
+#### Qualitative vs. Quantitative methods:
 
-![Qualitative vs. Quantative During Lecturecast1](/Modules/3/img/3.png)
+![Qualitative vs. Quantitative During Lecturecast1](/Modules/3/img/3.png)
 
-##### Qualatitive method:
+##### Qualitative method:
 
-Used for lower value assets, or numerical data is missing, or when risk stakeholders do not have quatative assessment skillsets
-Threats and vulnerabilities are ususally assigned a value of high, medium or low
+Used for lower value assets, or numerical data is missing, or when risk stakeholders do not have qualitative assessment skillsets
+Threats and vulnerabilities are usually assigned a value of high, medium or low
 
-##### Quantatative method:
+##### Quantitative method:
 
-Well defined mathematical calculation that often uses proability and game theory 
+Well defined mathematical calculation that often uses probability and game theory 
 
-Hubbard(2009) argues that quantative assessments are more useful then qualitative assessments and should be preferred.
+Hubbard(2009) argues that quantitive assessments are more useful then qualitative assessments and should be preferred.
 
-However Busch(n.d.) points out not all risks can be evaluated numerically. This is becuase risk is subjective, and precluding qualitative assessment may exclude useful input from less numerically oriented staff. is that risk is not easy to define, as the definition if often dependant on context and situation. One of the challenges of risk management is ensuring that all key stakeholders share a common understanding of risk.
+However Busch(n.d.) points out not all risks can be evaluated numerically. This is because risk is subjective, and precluding qualitative assessment may exclude useful input from less numerically oriented staff. is that risk is not easy to define, as the definition if often dependant on context and situation. One of the challenges of risk management is ensuring that all key stakeholders share a common understanding of risk.
 
 
-#### Threat Modeling with STRIDE, DREAD, and Attack Trees
+#### Threat Yodelling with STRIDE, DREAD, and Attack Trees
 
 
 Unit 3 then provided an introduction to threat modelling. During the lecturecast we learnt the difference between threats and vulnerabilities and reviewed several common threat modelling techniques.
 
-To further support my understanding of the different threat models and their features, I also reviewed a paper by Shevchenko et al (2018) that summarized the most common threat management and modelling methods currently in use
+To further support my understanding of the different threat models and their features, I also reviewed a paper by Shevchenko et al (2018) that summarised the most common threat management and modelling methods currently in use
 
 Unit 4 allowed us to gain experience of the some of the more common threat modelling techniques (STRIDE and DREAD, Attack Trees), by researching them in more detail, attempting to apply them to a scenario, and then discussing them during the unit 4 group seminar.
 
@@ -83,11 +83,11 @@ During Unit 5 we studied several case studies from 2014 – 2018 concerning GDPR
 
 I came away with some exerpiance around the different aspects of GDPR that can have issues and how to resolve them.
 
-### Units 4, 5 & 6: Gaining Experiance and Applying Inital Leanrings
+### Units 4, 5 & 6: Gaining Experience and Applying Initial Leanrings
 
-Equiped with a clear understanding of risk management,including best practice methodologies and frameworks that help you perform it successfully, the module content and activities turned to gaining experience. 
+Equipped with a clear understanding of risk management, including best practice methodologies and frameworks that help you perform it successfully, the module content and activities turned to gaining experience. 
 
-Unit 4 allowed us to gain experiance of the some of the more common threat modelling techniques (STRIDE and DREAD, Attack Trees), by researching them in more detail, attempting to apply them to a scenario, and then discussing them during the uniit 4 group seminar. 
+Unit 4 allowed us to gain experience of the some of the more common threat modelling techniques (STRIDE and DREAD, Attack Trees), by researching them in more detail, attempting to apply them to a scenario, and then discussing them during the uniit 4 group seminar. 
 
 During Unit 5 we studied several case studies from 2014 – 2018 concerning GDPR related issues and breaches by references content on the Data Protection Commission (2020) Case Studies: Data Protection Commission website. 
 
@@ -97,11 +97,11 @@ During unit 6 we then submitted a group assignment where two peers and I carried
 
 The business has ambitious plans to expand internationally through digitization, and we were tasked to report on potential risks that could arise and mitigations to eliminate threats; alongside any recommendations. 
 
-![Risk Proccess Step 1: Establish Context](/Modules/3/img/8.png)
+![Risk Process Step 1: Establish Context](/Modules/3/img/8.png)
 
 We used ISO 31000 as a risk assessment methodology together with STRIDE and DREAD for assessing the risks before and after digitalization of the Pampered Pets business. 
 
-![Risk Proccess based on ISO 31000](/Modules/3/img/6.png)
+![Risk Process based on ISO 31000](/Modules/3/img/6.png)
 
 ![Risk Register with analysis using STRIDE and DREAD](/Modules/3/img/12.png)
 
@@ -109,7 +109,7 @@ Our group faced challenges including two thirds of the members being part time s
 
 I learnt to deal with this by setting expectations up front using a team contract and establish operating mechanisms for collaboration early was key to our success. 
 
-![Group Assignment Team Contract](/Modules/3/img/11.png)
+![Group Assignment Team Contract](/Modules/3/iparticlemg/11.png)
 
 I liked taking onboard my peers input and found that allowing a platform for candid open collaboration that is grounded by a simple operating framework agreed up front delivers strong results.
 
@@ -120,16 +120,16 @@ The exercise was fun and resulted in a grade of 80%, giving me confidence for fu
 
 ### Units 7 & 8: Delving Deeper Into Quantitative Risk Modelling
 
-It was now time to takle my initial concerns around quantitative methods head on by first learning more about them followed by gaining experience by using them.
+It was now time to tackle my initial concerns around quantitative methods head on by first learning more about them followed by gaining experience by using them.
 
 ![Delving Deeper Into Quantitative Risk Modelling](/Modules/3/img/13.png)
 
-We carried out pratcial exercises that involved applying the most common modelling types: Monte Carlo, Bayes Theorom. We then discussed the results during the live seminars.
+We carried out practical exercises that involved applying the most common modelling types: Monte Carlo, Bayes Theorem. We then discussed the results during the live seminars.
 
 I really enjoyed challenging myself to grasp these methods. 
 
 
-### Units 9: The Importance of Business COntinuity(BC)/Disaster Recovery(DR)
+### Units 9: The Importance of Business Continuity(BC)/Disaster Recovery(DR)
 
 Unit 9 then equipped us with a great understanding of business continuity and disaster recovery. 
 
@@ -148,15 +148,15 @@ This report evaluated Pampered Pets again, but this time focused on the potentia
 
 Additionally, it provides a GDPR regulatory analysis and outlines a business continuity / disaster recovery strategy to help ensure a 24/7 digital e-commerce customer service capability.
 
-![Risk Proccess Step 1: Establish Context](/Modules/3/img/16.png)
+![Risk Process Step 1: Establish Context](/Modules/3/img/16.png)
 
-Here I had the opportunity to apply Bayeses' Theorem in a risk analysis exercise in order to determine probability of risk occurrence 
+Here I had the opportunity to apply Bayeses'' Theorem in a risk analysis exercise in order to determine probability of risk occurrence 
 
 ![Applying Bayes's Theorem](/Modules/3/img/17.png)
 
-![Risk Proccess Step 2: Risk Analysis](/Modules/3/img/18.png)
+![Risk Process Step 2: Risk Analysis](/Modules/3/img/18.png)
 
-![Risk Proccess Step 3: Regulatory Impact Analysis](/Modules/3/img/20.png)
+![Risk Process Step 3: Regulatory Impact Analysis](/Modules/3/img/20.png)
 
 I also got to create and submit a BC/DR design proposal for a a critical system requiring an active – active solution that is highly recoverable quickly.
 
@@ -237,28 +237,28 @@ My simplified version of this is that risk is the probability that something may
 ![Risk Definition During Lecturecast1](/Modules/3/img/4.png)
 
 In order for a company to assess, qualify and mitigate risks appropriately, a risk management system program should be implemented made up of:
-- appropriatte governance, buy-in and contribution from senior management and involve the senior leaders of all major departments within the company
+- appropriate governance, buy-in and contribution from senior management and involve the senior leaders of all major departments within the company
 - all known appropriate standards and certifications that the company is required to be compliant with from both a legal and regulatory perspective
-- continous improvmenet following the PDCA model
+- contiguous improvement following the PDCA model
 - be integrated with the companys information security management system
 
 
 #### Describe various approaches to quantify and qualify risks.
 
-- **1**: Learning about qualitative vs. quantative
+- **1**: Learning about qualitative vs. quantitative
 
-![Qualitative vs. Quantative During Lecturecast1](/Modules/3/img/3.png)
+![Qualitative vs. Quantitative During Lecturecast1](/Modules/3/img/3.png)
 
-**Qualatitive:**
-- Used for lower value assets, or numerical data is missing, or when risk stakeholders do not have quatative assessment skillsets
-- Threats and vulnerabilities are ususally assigned a value of high, medium or low
+**Qualitative:**
+- Used for lower value assets, or numerical data is missing, or when risk stakeholders do not have qualitative assessment skillsets
+- Threats and vulnerabilities are usually assigned a value of high, medium or low
 
-**Quantative:**
-- Well defined mathematical calculation that often uses proability and game theory
+**Quantitative:**
+- Well defined mathematical calculation that often uses probability and game theory
 
-Hubbard(2009) argues that quantative assessments are more useful then qualitative assessments and should be preferred. 
+Hubbard(2009) argues that quantitative assessments are more useful then qualitative assessments and should be preferred. 
 
-However Busch(n.d.) points out not all risks can be evaluated numerically. This is becuase risk is subjective, and precluding qualitative assessment may exclude useful input from less numerically oriented staff. 
+However Busch(n.d.) points out not all risks can be evaluated numerically. This is because risk is subjective, and precluding qualitative assessment may exclude useful input from less numerically oriented staff. 
 
 #### List common security and risk standards and select the appropriate one(s) for a given situation.
 
@@ -272,7 +272,7 @@ It consists of two documents, the open risk taxonomy (O-RT) which defines the ta
 **OCTAVE**
 OCTAVE stands for Operationally Critical Threat, Asset and Vulnerability Evaluation (OCTAVE) framework standard 
 The standard was created at Carnegie Mellon University (CMU) in 1999 (Alberts et al, 1999)
-Made up of three phases: 1 Build enterprise wide security requirements, 2 Identify infrastructure vulnerabilties, and 3 determine the security risk management strategy
+Made up of three phases: 1 Build enterprise wide security requirements, 2 Identify infrastructure vulnerabilities, and 3 determine the security risk management strategy
 
 #### Unit 3,4 & 5: Threat Modelling and Management, and Security and Risk Standards in Industry and the Enterprise
 
@@ -282,26 +282,26 @@ Unit 3 provided an introduction to threat modelling. the lecturecast we learnt t
 
 #### Common Threat Models and Features (Shevchenko et al, 2018)
 
-To further support my uderstanding of the different threat models and their features, I also reviewed a paper by Shevchenko et al (2018) that summarised the most common threat management and modelling methods currently in use which is summarised in the table below.
+To further support my understanding of the different threat models and their features, I also reviewed a paper by Shevchenko et al (2018) that summarised the most common threat management and modelling methods currently in use which is summarised in the table below.
 
 | Threat Modelling Method                        | Features|
 | :--------                                      | :-------|
 | STRIDE										 | Helps identify relevant mitigating techniques, Is the most mature, Is easy to use but is time consuming|      
-| PASTA 									     | Helps identify relevant mitigating techniques, Directly contributes to risk management, Encourages collaboration among stakeholders, Contains built-in prioritization of threat mitigation, Is laborious but has rich documentation|
-| LINDDUN   									 | Helps identify relevant mitigation techniques, Contains built-in prioritization of threat mitigation, Can be labor intensive and time consuming |
-| CVSS 											 | Contains built-in prioritization of threat mitigation, Has consistent results when repeated, Automated components, Has score calculations that are not transparent |      
+| PASTA 									     | Helps identify relevant mitigating techniques, Directly contributes to risk management, Encourages collaboration among stakeholders, Contains built-in prioritisations of threat mitigation, Is laborious but has rich documentation|
+| LINDDUN   									 | Helps identify relevant mitigation techniques, Contains built-in prioritisations of threat mitigation, Can be labor intensive and time consuming |
+| CVSS 											 | Contains built-in prioritisations of threat mitigation, Has consistent results when repeated, Automated components, Has score calculations that are not transparent |      
 | Attack Trees									 | Helps identify relevant mitigation techniques, Has consistent results when repeated, Is easy to use if you already have a thorough understanding of the system |
 | Persona non Grata 							 | Helps identify relevant mitigation techniques, Directly contributes to risk management, Has consistent results when repeated, Tends to detect only some subsets of threats |
 | Security Cards 								 | Encourages collaboration among stakeholders, Targets out-of-the-ordinary threats, Leads to many false positives |
-| hTMM	                                         | Contains built-in prioritization of threat mitigation, Encourages collaboration among stakeholders, Has consistent results when repeated |
-| Quantitative TMM							     | Contains built-in prioritization of threat mitigation, Has automated components, Has consistent results when repeated |
-| Trike											 | Helps identify relevant mitigation techniques, Directly contributes to risk management , Contains built-in prioritization of threat mitigation, Encourages collaboration among stakeholders, Has automated components, Has vague, insufficient documentation |
-| VAST Modeling 								 | Helps identify relevant mitigation techniques, Directly contributes to risk management, Contains built-in prioritization of threat mitigation, Encourages collaboration among stakeholders, Has consistent results when repeated, Has automated components, Is explicitly designed to be scalable, Has little publicly available documentation|
-| OCTAVE 	                                     | Helps identify relevant mitigation techniques, Directly contributes to risk management, Contains built-in prioritization of threat mitigation, Encourages collaboration among stakeholders, Has consistent results when repeated, Is explicitly designed to be scalable, Is time consuming and has vague documentation |
+| hTMM	                                         | Contains built-in prioritisations of threat mitigation, Encourages collaboration among stakeholders, Has consistent results when repeated |
+| Quantitative TMM							     | Contains built-in prioritisations of threat mitigation, Has automated components, Has consistent results when repeated |
+| Trike											 | Helps identify relevant mitigation techniques, Directly contributes to risk management , Contains built-in prioritisation of threat mitigation, Encourages collaboration among stakeholders, Has automated components, Has vague, insufficient documentation |
+| VAST Modeling 								 | Helps identify relevant mitigation techniques, Directly contributes to risk management, Contains built-in prioritisations of threat mitigation, Encourages collaboration among stakeholders, Has consistent results when repeated, Has automated components, Is explicitly designed to be scalable, Has little publicly available documentation|
+| OCTAVE 	                                     | Helps identify relevant mitigation techniques, Directly contributes to risk management, Contains built-in prioritisation of threat mitigation, Encourages collaboration among stakeholders, Has consistent results when repeated, Is explicitly designed to be scalable, Is time consuming and has vague documentation |
 
-####  Intial Threat Modeling with STRIDE, DREAD, and Attack Trees
+####  Initial Threat Modeling with STRIDE, DREAD, and Attack Trees
 
-Unit 4 allowed us to gain experiance of the some of the more common threat modelling techniques (STRIDE and DREAD, Attack Trees), by researching them in more detail, attempting to apply them to a scenario, and then discussing them during the uniit 4 group seminar. 
+Unit 4 allowed us to gain experience of the some of the more common threat modelling techniques (STRIDE and DREAD, Attack Trees), by researching them in more detail, attempting to apply them to a scenario, and then discussing them during the uniit 4 group seminar. 
 
 I decided to perform a rapid threat assessment with the aid of ChatGPT. I generated a couple threat models using STRIDE, DREAD, and attack trees for the following **scenario: *a large medical device manufacturer based in the United States of America.*** 
 
@@ -343,7 +343,7 @@ Each node shown represents a threat actors goal or method to achieve that goal. 
 - **Example:** An attacker exploits a vulnerability to gain administrative access to the system.
 - **Mitigation:** Implement least privilege access controls and regular patching.
 
-#### Units 4,5 & 6: Gaining Experiance with Assignment 1
+#### Units 4,5 & 6: Gaining Experience with Assignment 1
 
 Unit 3 provided an introduction to threat modelling. the lecturecast we learnt the difference between threats and vulnerabilities and reviewed a number of common threat modelling techniques.
 
@@ -357,11 +357,11 @@ We concluded unit 6 by submitting  a group assignment where two peers and I carr
 
 The business has ambitious plans to expand internationally through digitization, and we were tasked to report on potential risks that could arise and mitigations to eliminate threats; alongside any recommendations. 
 
-![Risk Proccess Step 1: Establish Context](/Modules/3/img/8.png)
+![Risk Process Step 1: Establish Context](/Modules/3/img/8.png)
 
 We used ISO 31000 as a risk assessment methodology together with STRIDE and DREAD for assessing the risks before and after digitalization of the Pampered Pets business. 
 
-![Risk Proccess based on ISO 31000](/Modules/3/img/6.png)
+![Risk Process based on ISO 31000](/Modules/3/img/6.png)
 
 ![Risk Register with analysis using STRIDE and DREAD](/Modules/3/img/12.png)
 
@@ -379,12 +379,12 @@ I liked taking onboard my peers input and found that allowing a platform for can
 
 #### Units 7 & 8: Delving Deeper Into Quantitative Risk Modelling
 
-Unit 7 and 8 allowed me to takle my initial concerns around quantitative methods head on by first learning about them in more detail followed by gaining experience around using them.
+Unit 7 and 8 allowed me to tackle my initial concerns around quantitative methods head on by first learning about them in more detail followed by gaining experience around using them.
 
 ![Delving Deeper Into Quantitative Risk Modelling](/Modules/3/img/13.png)
 
 
-Experiance was gained carrying out pratcial exrcises that involved applying the most common modelling types: Monte Carlo, Bayes Theorom. We then discussed the results during the live seminars.
+Experience was gained carrying out practical exercises that involved applying the most common modelling types: Monte Carlo, Bayes Theorem. We then discussed the results during the live seminars.
 
 I really enjoyed challenging myself to grasp these methods. 
 
@@ -407,15 +407,15 @@ This report evaluated Pampered Pets again, but this time focused on the potentia
 
 Additionally, it provides a GDPR regulatory analysis and outlines a business continuity / disaster recovery strategy to help ensure a 24/7 digital e-commerce customer service capability.
 
-![Risk Proccess Step 1: Establish Context](/Modules/3/img/16.png)
+![Risk Process Step 1: Establish Context](/Modules/3/img/16.png)
 
 Here I had the opportunity to apply Bayeses' Theorem in a risk analysis exercise in order to determine probability of risk occurrence 
 
 ![Applying Bayes's Theorem](/Modules/3/img/17.png)
 
-![Risk Proccess Step 2: Risk Analysis](/Modules/3/img/18.png)
+![Risk Process Step 2: Risk Analysis](/Modules/3/img/18.png)
 
-![Risk Proccess Step 3: Regulatory Impact Analysis](/Modules/3/img/20.png)
+![Risk Process Step 3: Regulatory Impact Analysis](/Modules/3/img/20.png)
 
 I also got to create and submit a BC/DR design proposal for a a critical system requiring an active – active solution that is highly recoverable quickly.
 
