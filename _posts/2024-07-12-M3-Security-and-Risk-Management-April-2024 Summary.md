@@ -75,19 +75,11 @@ Unit 3 then provided an introduction to threat modelling. During the lecturecast
 
 To further support my understanding of the different threat models and their features, I also reviewed a paper by Shevchenko et al (2018) that summarised the most common threat management and modelling methods currently in use
 
-Unit 4 allowed us to gain experience of the some of the more common threat modelling techniques (STRIDE and DREAD, Attack Trees), by researching them in more detail, attempting to apply them to a scenario, and then discussing them during the unit 4 group seminar.
-
-I decided to perform a rapid threat assessment with the aid of ChatGPT. I generated a couple threat models using STRIDE, DREAD, and attack trees.
-
-During Unit 5 we studied several case studies from 2014 – 2018 concerning GDPR related issues and breaches by references content on the Data Protection Commission (2020) Case Studies: Data Protection Commission website. 
-
-I came away with some exerpiance around the different aspects of GDPR that can have issues and how to resolve them.
-
 ### Units 4, 5 & 6: Gaining Experience and Applying Initial Leanrings
 
 Equipped with a clear understanding of risk management, including best practice methodologies and frameworks that help you perform it successfully, the module content and activities turned to gaining experience. 
 
-Unit 4 allowed us to gain experience of the some of the more common threat modelling techniques (STRIDE and DREAD, Attack Trees), by researching them in more detail, attempting to apply them to a scenario, and then discussing them during the uniit 4 group seminar. 
+Unit 4 allowed us to gain experience with more common threat modelling techniques (STRIDE and DREAD, Attack Trees), by researching them in more detail, attempting to apply them to a scenario, and then discussing them during the uniit 4 group seminar. 
 
 During Unit 5 we studied several case studies from 2014 – 2018 concerning GDPR related issues and breaches by references content on the Data Protection Commission (2020) Case Studies: Data Protection Commission website. 
 
