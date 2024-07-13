@@ -59,7 +59,6 @@ My simplified version of this is that risk is the probability that something may
 Used for lower value assets, or numerical data is missing, or when risk stakeholders do not have quatative assessment skillsets
 Threats and vulnerabilities are ususally assigned a value of high, medium or low
 
-
 ##### Quantatative method:
 
 Well defined mathematical calculation that often uses proability and game theory 
@@ -86,9 +85,15 @@ I came away with some exerpiance around the different aspects of GDPR that can h
 
 ### Units 4, 5 & 6: Gaining Experiance and Applying Inital Leanrings
 
-Units 4, 5 and 6 equipped with a clear understanding of risk management and the best practice methodologies and frameworks that help you perform it successfully, the module content and activities turned to gaining experience on risk management techniques by applying what we had learnt to date along with delving deeper into some of the topics themselves. 
+Equiped with a clear understanding of risk management,including best practice methodologies and frameworks that help you perform it successfully, the module content and activities turned to gaining experience. 
 
-We concluded unit 6 by submitting  a group assignment where two peers and I carried out a risk assessment and provided a report for the fictional business Pampered Pets; a prominent local pet food shop. 
+Unit 4 allowed us to gain experiance of the some of the more common threat modelling techniques (STRIDE and DREAD, Attack Trees), by researching them in more detail, attempting to apply them to a scenario, and then discussing them during the uniit 4 group seminar. 
+
+During Unit 5 we studied several case studies from 2014 – 2018 concerning GDPR related issues and breaches by references content on the Data Protection Commission (2020) Case Studies: Data Protection Commission website. 
+
+I came away with some exerpiance around the different aspects of GDPR that can have issues and how to resolve them.
+
+During unit 6 we then submitted a group assignment where two peers and I carried out a risk assessment and provided a report for the fictional business Pampered Pets; a prominent local pet food shop. 
 
 The business has ambitious plans to expand internationally through digitization, and we were tasked to report on potential risks that could arise and mitigations to eliminate threats; alongside any recommendations. 
 
@@ -115,12 +120,11 @@ The exercise was fun and resulted in a grade of 80%, giving me confidence for fu
 
 ### Units 7 & 8: Delving Deeper Into Quantitative Risk Modelling
 
-Unit 7 and 8 allowed me to takle my initial concerns around quantitative methods head on by first learning about them in more detail followed by gaining experience around using them.
+It was now time to takle my initial concerns around quantitative methods head on by first learning more about them followed by gaining experience by using them.
 
 ![Delving Deeper Into Quantitative Risk Modelling](/Modules/3/img/13.png)
 
-
-Experiance was gained carrying out pratcial exrcises that involved applying the most common modelling types: Monte Carlo, Bayes Theorom. We then discussed the results during the live seminars.
+We carried out pratcial exercises that involved applying the most common modelling types: Monte Carlo, Bayes Theorom. We then discussed the results during the live seminars.
 
 I really enjoyed challenging myself to grasp these methods. 
 
