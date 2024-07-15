@@ -27,13 +27,19 @@ Reim, Parida, and Sjödin (2016) define risk “as a combination of the probabil
 
 ![Risk Definition During Lecturecast1](/Modules/3/img/1.png)
 
+- **1**: Risk Definition During Lecturecast 1 (University of Essex Online, 2024).
+
 My simplified interpretation is that risk is the probability that something may occur, and is based on the impact and likelihood of the occurrence.
 
 ![Risk Definition During Lecturecast1](/Modules/3/img/2.png)
 
+- **1**: Risk Definition During Lecturecast 1 (University of Essex Online, 2024).
+
 #### Qualitative vs. Quantitative methods:
 
 ![Qualitative vs. Quantitative During Lecturecast1](/Modules/3/img/3.png)
+
+- **1**: Risk Definition During Lecturecast 1 (University of Essex Online, 2024).
 
 My summary learning on the two methods are as follows:
 
@@ -45,6 +51,10 @@ My summary learning on the two methods are as follows:
 
 Unit 3 introduced threat modelling. During the lecturecast we learnt the difference between threats and vulnerabilities and reviewed several common threat modelling techniques.
 
+![Threat Modelling Systems Lecturecast2](/Modules/3/img/25.png)
+
+- **1**: Threat Modelling Systems During Lecturecast 2 (University of Essex Online, 2024)
+
 To further support my understanding of the different threat models and their features, I also reviewed a paper by Shevchenko et al (2018) that summarised the most common threat management and modelling methods currently in use.
 
 ### Units 4, 5 & 6: Gaining Experience and Applying Initial Learnings
@@ -55,7 +65,11 @@ Unit 4 allowed us to research common threat modelling techniques (STRIDE and DRE
 
 During Unit 5 we studied several case studies from 2014 – 2018 concerning GDPR related issues and breaches by references content on the Data Protection Commission (2020) Case Studies: Data Protection Commission website. 
 
+- **1**: Security and Risk Management Standards During Lecturecast 3 (University of Essex Online, 2024)
+
 ![GDPR Case Studies](/Modules/3/img/22.png)
+
+- **1**: GDPR Case Studies (Data Protection Commission, 2020)
 
 I came away with some experiance around the different aspects of GDPR that can have issues and how to resolve them.
 
@@ -63,17 +77,25 @@ During unit 6 I then submitted a group assignment with two peers involving a ris
 
 ![Risk Process Step 1: Establish Context](/Modules/3/img/8.png)
 
+- **1**: Establishing Context (Worku et al. 2024)
+
 We used ISO 31000 as a risk assessment methodology together with STRIDE and DREAD for assessing the risks before and after digitalization of the Pampered Pets business. 
 
 ![Risk Process based on ISO 31000](/Modules/3/img/6.png)
 
+- **1**: Risk Process (ISO 31000)
+
 ![Risk Register with analysis using STRIDE and DREAD](/Modules/3/img/12.png)
+
+- **1**: Risk Register (Worku et al. 2024)
 
 Our group faced time constraint challenges including two thirds of the members being part time students whilst being full time employed.  
 
 We overcame this by setting expectations up front using a team contract and established operating mechanisms for collaboration early on. 
 
 ![Group Assignment Team Contract](/Modules/3/iparticlemg/11.png)
+
+- **1**: Team Contract 
 
 I found that allowing a platform for candid open collaboration that is grounded by a simple operating framework agreed up front delivers strong results.
 
@@ -88,6 +110,8 @@ It was now time to tackle my concerns around quantitative methods head on by fir
 
 ![Delving Deeper Into Quantitative Risk Modelling](/Modules/3/img/13.png)
 
+- **1**: Quantitative Risk Modelling During Lecturecast 4 (University of Essex Online, 2024)
+
 We carried out practical exercises that involved applying the most common modelling types: Monte Carlo and Bayes Theorem. We then discussed the results during the live seminars.
 
 I really enjoyed challenging myself to grasp these methods. Hubbard & Seiersen(2023) helped greatly with their arguements on practical ways to quantify uncertainty and shed light on how to measure seemingly intangible goals.
@@ -101,9 +125,13 @@ Unit 9 then equipped us with a great understanding of business continuity and di
 
 ![DR and Digitalisation](/Modules/3/img/14.png)
 
+- **1**: DR and Digitalisation During Lecturecast 5 (University of Essex Online, 2024)
+
 We learnt about the importance of having such a strategy in place, and what the main factors are that make up a BC/DR plan including RTOs and RPOs.
 
 ![RTO (Recovery Time Objective) & RPO (Recovery Point Objective)](/Modules/3/img/15.png)
+
+- **1**: RTO And RPO During Lecturecast 5 (University of Essex Online, 2024)
 
 ### Final Units 10, 11 & 12: Testing My Learnings & Looking to the SRM Future
 
@@ -116,21 +144,33 @@ Additionally, it required a GDPR impact assessment and a business continuity / d
 
 ![Risk Process Step 1: Establish Context](/Modules/3/img/16.png)
 
+- **1**: Establishing Context (Norris, 2024)
+
 This was my opportunity to apply Bayes’s' Theorem during risk analysis to determine probability of risk occurrence.
 
 ![Applying Bayes's Theorem](/Modules/3/img/17.png)
 
+- **1**: Applying Bayes's Theorem (Norris, 2024)
+
 ![Risk Process Step 2: Risk Analysis](/Modules/3/img/18.png)
 
+- **1**: Risk Analysis (Norris, 2024)
+
 ![Risk Process Step 3: Regulatory Impact Analysis](/Modules/3/img/20.png)
+
+- **1**: Regulatory Impact Analysis (Norris, 2024)
 
 I also got to create and submit a BC/DR design proposal for a critical system requiring an active – active solution that is highly recoverable quickly.
 
 ![BC/DR Pampered Pets Proposal](/Modules/3/img/19.png)
 
+- **1**: BC/DR Pampered Pets Proposal (Norris, 2024)
+
 ####Unit 12: What Next? The Future Trends in SRM
 
 ![Key Questions](/Modules/3/img/21.png)
+
+- **1**: Key Questions During Lecturecast 6 (University of Essex Online, 2024)
 
 We concluded the module with a look at the future trends in security and risk management. Learning the current and emerging trends was insightful.
 
@@ -171,6 +211,12 @@ University of Essex Online. (2024). Quantitative Risk Modelling, Security and Ri
 University of Essex Online. (2024). Business Continuity and Disaster Recovery, Security and Risk Management April 2024. Available at: https://www.my-course.co.uk/course/view.php?id=11645&section=15 (Accessed: 15 July 2024).
 
 University of Essex Online. (2024). Future Trends, Security and Risk Management April 2024. Available at: https://www.my-course.co.uk/course/view.php?id=11645&section=17 (Accessed: 15 July 2024).
+
+Worku, O. Norris, C. Poloboc, M. (2024). Development Team Project: Risk Identification Report. Security and Risk Management April 2024. University of Essex online. Unpublished assignment.   
+
+Norris, C. (2024). Individual Project: Executive Summary. Security and Risk Management April 2024. University of Essex online. Unpublished assignment.  
+
+## Module 3: Summary Overview
 
 *Module 3 will cover the various areas where security and risk overlap and interact with each other. It will review the various methods of risk assessment, looking at both qualitative and quantitative methods.*
 
