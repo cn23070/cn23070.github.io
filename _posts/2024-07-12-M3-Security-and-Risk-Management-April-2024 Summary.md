@@ -5,23 +5,6 @@ subtitle: How Security and Risk overlap and interact.
 categories: Module_3
 tags: [Module 3]
 ---
-
-*Module 3 will cover the various areas where security and risk overlap and interact with each other. It will review the various methods of risk assessment, looking at both qualitative and quantitative methods.*
-
-
-## Module 3: Learning Scope & Objectives
-
-*“All human endeavours involve uncertainty and risk.”(Olson, D.L. & Desheng D.W, 2020)*
-
-- Discuss the difference between qualitative and quantitative risk assessments.
-- Describe how to carry out both kinds of assessments.
-	- Objective: Ability to describe when to use qualitative and quantitative risk assessments.
-- Explain what is meant by and how to create threat models.
-	- Objective: Ability to create threat models for various scenarios.
-- Demonstrate how to create quantitative risk models.
-	- Objective: Ability to create quantitative risk models.
-- Discuss and design DR solutions.
-	- Objective: Design and explain DR strategies and solutions.
 	
 	
 ## Module 3: Summary Reflection
@@ -165,14 +148,6 @@ I have a lot to learn still around quantitative risk analysis having only produc
 I also come away with further reassurance on the important role risk management plays in helping ensure a business achieves its goals and objectives.
 
 
-## Module 3: Meeting Notes
-
-*Notes from various meetings, as well as feedback from team members and tutors.*
-
-#### Professional Skills Matrix and Action Plan
-
-*What skills have I gained or enhanced as a result of this module and how can I use it? What else do I need to learn?*
-
 ## Module 3: Citations
 
 *Information about what I learnt during this module and how*
@@ -196,6 +171,42 @@ University of Essex Online. (2024). Quantitative Risk Modelling, Security and Ri
 University of Essex Online. (2024). Business Continuity and Disaster Recovery, Security and Risk Management April 2024. Available at: https://www.my-course.co.uk/course/view.php?id=11645&section=15 (Accessed: 15 July 2024).
 
 University of Essex Online. (2024). Future Trends, Security and Risk Management April 2024. Available at: https://www.my-course.co.uk/course/view.php?id=11645&section=17 (Accessed: 15 July 2024).
+
+*Module 3 will cover the various areas where security and risk overlap and interact with each other. It will review the various methods of risk assessment, looking at both qualitative and quantitative methods.*
+
+
+## Module 3: Learning Scope & Objectives
+
+*“All human endeavours involve uncertainty and risk.”(Olson, D.L. & Desheng D.W, 2020)*
+
+- Discuss the difference between qualitative and quantitative risk assessments.
+- Describe how to carry out both kinds of assessments.
+	- Objective: Ability to describe when to use qualitative and quantitative risk assessments.
+- Explain what is meant by and how to create threat models.
+	- Objective: Ability to create threat models for various scenarios.
+- Demonstrate how to create quantitative risk models.
+	- Objective: Ability to create quantitative risk models.
+- Discuss and design DR solutions.
+	- Objective: Design and explain DR strategies and solutions.
+
+## Module 3: Artefacts
+
+
+| Parameter                                      | Type                        | Description                                                                                                       | References                 |
+| :--------                                      | :-------                    | :--------------------------                                                                                       | :------------------------- |
+| `Collaborative Discussion Forum 1 - Units 1-3` | `Student Forum Posts`       | Discuss why Cyber Security is now a global issue and why it is important for companies to invest in Cyber Security|[All Forum Posts](https://www.my-course.co.uk/mod/forum/view.php?id=907384) , [My Initial Post](https://www.my-course.co.uk/mod/forum/discuss.php?d=196152), [My Summary Post](https://www.my-course.co.uk/mod/forum/discuss.php?d=199496)|
+| `Collaborative Discussion Forum 2 - Units 4-6` | `Student Forum Posts`       | Identify and discuss two security technologies and the context in which they can be employed. | [All Forum Posts](https://www.my-course.co.uk/mod/forum/view.php?id=907417) , [My Initial Post](https://www.my-course.co.uk/mod/forum/discuss.php?d=203142), [My Summary Post](https://www.my-course.co.uk/mod/forum/discuss.php?d=205078)|
+| `Individual Essay - Unit 9`                    | `Essay`                    | Apply the Cyber Security methods and techniques studied during the module to develop a solution to a business problemInclude two UML diagrams showing aspects of the system and at least two threat modelling techniques used to identify potential cyber threats and how these are to be mitigated. | [View Essay](https://essexuniversity-my.sharepoint.com/:w:/g/personal/cn23070_essex_ac_uk/EeQPvWOq43lAkEEXqabnWHMBmYsS2LwWj4ARxk9hUIiKFg) 
+| `End of Module Assignment - Unit 12`           | `Python Code` | Using Python code, implement at least one solution recommended as part of the proposal submitted in the individual essay.         | [(1) View Solution **Read Me** File](https://cn23070.github.io/module_1/2024/02/12/Module-1EOMA-Python-ReadMe.html) , [(2) Run **Code**](https://colab.research.google.com/github/cn23070/cn23070.github.io/blob/main/CraigNorris_LCS_EoMA.ipynb)
+
+
+
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://cn23070.github.io/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/craig-norris-3b787610/)
+
 
 	
 ### Unit 1&2: An Introduction to Security and Risk Management, & Users, Assessments and the Risk Management Process
@@ -421,22 +432,5 @@ We then concluded the module with a look at the future trends in security and ri
 ![Key Questions](/Modules/3/img/21.png)
 
 
-## Module 3: Artefacts
-
-
-| Parameter                                      | Type                        | Description                                                                                                       | References                 |
-| :--------                                      | :-------                    | :--------------------------                                                                                       | :------------------------- |
-| `Collaborative Discussion Forum 1 - Units 1-3` | `Student Forum Posts`       | Discuss why Cyber Security is now a global issue and why it is important for companies to invest in Cyber Security|[All Forum Posts](https://www.my-course.co.uk/mod/forum/view.php?id=907384) , [My Initial Post](https://www.my-course.co.uk/mod/forum/discuss.php?d=196152), [My Summary Post](https://www.my-course.co.uk/mod/forum/discuss.php?d=199496)|
-| `Collaborative Discussion Forum 2 - Units 4-6` | `Student Forum Posts`       | Identify and discuss two security technologies and the context in which they can be employed. | [All Forum Posts](https://www.my-course.co.uk/mod/forum/view.php?id=907417) , [My Initial Post](https://www.my-course.co.uk/mod/forum/discuss.php?d=203142), [My Summary Post](https://www.my-course.co.uk/mod/forum/discuss.php?d=205078)|
-| `Individual Essay - Unit 9`                    | `Essay`                    | Apply the Cyber Security methods and techniques studied during the module to develop a solution to a business problemInclude two UML diagrams showing aspects of the system and at least two threat modelling techniques used to identify potential cyber threats and how these are to be mitigated. | [View Essay](https://essexuniversity-my.sharepoint.com/:w:/g/personal/cn23070_essex_ac_uk/EeQPvWOq43lAkEEXqabnWHMBmYsS2LwWj4ARxk9hUIiKFg) 
-| `End of Module Assignment - Unit 12`           | `Python Code` | Using Python code, implement at least one solution recommended as part of the proposal submitted in the individual essay.         | [(1) View Solution **Read Me** File](https://cn23070.github.io/module_1/2024/02/12/Module-1EOMA-Python-ReadMe.html) , [(2) Run **Code**](https://colab.research.google.com/github/cn23070/cn23070.github.io/blob/main/CraigNorris_LCS_EoMA.ipynb)
-
-
-
-
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://cn23070.github.io/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/craig-norris-3b787610/)
 
 
