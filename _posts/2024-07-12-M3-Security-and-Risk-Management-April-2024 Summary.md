@@ -26,15 +26,13 @@ tags: [Module 3]
 	
 ## Module 3: Summary Reflection
 
-When taking on the module Security and Risk Management I was excited to learn more about the various risk management methodologies and best practices followed across industry, especially looking at both qualitative and quantitative methods and what each approach brings. Although I had experience in designing, implementing and running risk management frameworks for large business in the run up to this module, much of what I had done to date was based around ISO frameworks only using qualitative methods for risk scoring. 
-
+When taking on the module Security and Risk Management I was excited to learn more about the various risk management methodologies and best practices followed across industry, especially looking at both qualitative and quantitative methods and what each approach brings. 
 
 ![Module Introduction](/Modules/3/img/9.png)
 
-I was a little apprehensive about delving into the quantitative space, anticipating challenges around grasping the mathematical aspects involved in performing such assessments and slightly concerned around how their complexity would impact on real life risk modelling exercises. Through this reflection, I aim to share the various experiences and knowledge gained by completing this module.
+Although I had experience in designing, implementing and running risk management frameworks for large business in the run up to this module, much of what I had done to date was based around ISO frameworks only using qualitative methods for risk scoring. I was a little apprehensive about delving into the quantitative space, anticipating challenges around grasping the mathematical aspects involved in performing such assessments and slightly concerned around how their complexity would impact on real life risk modelling exercises. Through this reflection, I aim to share the various experiences and knowledge gained by completing this module.
 
 ### Units 1,2 & 3: Finding Your Risk Feet
-
 
 We began with applicable background reading used to research enterprise risk management models. Unit 1 and 2 provided a lecturecast that covered each learning objective in detail. Through the lecturecast I learnt of key terminology used in risk, and further developed my understanding on risk definitions by looking at the evolution of the definition over time and how context and situation influences the definition. Lecturecast also introduced myself to the OpenFAIR and OCTAVE Framework’s. 
 
@@ -54,14 +52,16 @@ My simplified version of this is that risk is the probability that something may
 
 ![Qualitative vs. Quantitative During Lecturecast1](/Modules/3/img/3.png)
 
+My summary learning on the two methods are as follows:
+
 ##### Qualitative method:
 
-Used for lower value assets, or numerical data is missing, or when risk stakeholders do not have qualitative assessment skillsets
-Threats and vulnerabilities are usually assigned a value of high, medium or low
+- Used for lower value assets, or numerical data is missing, or when risk stakeholders do not have qualitative assessment skillsets
+- Threats and vulnerabilities are usually assigned a value of high, medium or low
 
 ##### Quantitative method:
 
-Well defined mathematical calculation that often uses probability and game theory 
+- Well defined mathematical calculation that often uses probability and game theory 
 
 Hubbard(2009) argues that quantitive assessments are more useful then qualitative assessments and should be preferred.
 
@@ -73,7 +73,7 @@ However Busch(n.d.) points out not all risks can be evaluated numerically. This 
 
 Unit 3 then provided an introduction to threat modelling. During the lecturecast we learnt the difference between threats and vulnerabilities and reviewed several common threat modelling techniques.
 
-To further support my understanding of the different threat models and their features, I also reviewed a paper by Shevchenko et al (2018) that summarised the most common threat management and modelling methods currently in use
+To further support my understanding of the different threat models and their features, I also reviewed a paper by Shevchenko et al (2018) that summarised the most common threat management and modelling methods currently in use.
 
 ### Units 4, 5 & 6: Gaining Experience and Applying Initial Leanrings
 
@@ -83,10 +83,11 @@ Unit 4 allowed us to gain experience with more common threat modelling technique
 
 During Unit 5 we studied several case studies from 2014 – 2018 concerning GDPR related issues and breaches by references content on the Data Protection Commission (2020) Case Studies: Data Protection Commission website. 
 
+![GDPR Case Studies](/Modules/3/img/22.png)
+
 I came away with some exerpiance around the different aspects of GDPR that can have issues and how to resolve them.
 
 During unit 6 we then submitted a group assignment where two peers and I carried out a risk assessment and provided a report for the fictional business Pampered Pets; a prominent local pet food shop. 
-
 The business has ambitious plans to expand internationally through digitization, and we were tasked to report on potential risks that could arise and mitigations to eliminate threats; alongside any recommendations. 
 
 ![Risk Process Step 1: Establish Context](/Modules/3/img/8.png)
@@ -110,7 +111,7 @@ The exercise was fun and resulted in a grade of 80%, giving me confidence for fu
 ![Group Assignment Results](/Modules/3/img/10.png)
 
 
-### Units 7 & 8: Delving Deeper Into Quantitative Risk Modelling
+### Units 7 & 8: Taking on Quantitative Risk Modelling
 
 It was now time to tackle my initial concerns around quantitative methods head on by first learning more about them followed by gaining experience by using them.
 
@@ -118,7 +119,9 @@ It was now time to tackle my initial concerns around quantitative methods head o
 
 We carried out practical exercises that involved applying the most common modelling types: Monte Carlo, Bayes Theorem. We then discussed the results during the live seminars.
 
-I really enjoyed challenging myself to grasp these methods. 
+I really enjoyed challenging myself to grasp these methods. Hubbard & Seiersen(2023) helped greatly with their arguements on practical ways to quantify uncertainty and shed light on how to measure seemingly intangible goals.
+
+![Hubbard MFA example](/Modules/3/img/23.png)
 
 
 ### Units 9: The Importance of Business Continuity(BC)/Disaster Recovery(DR)
@@ -182,19 +185,29 @@ I also come away with further reassurance on the important role risk management 
 
 *Information about what I learnt during this module and how*
 
-Olson, D.L. & Desheng D.W (2020) Enterprise risk management models. Berlin, Germany: Springer.
-
-(Kovaitė & Stankevičienė, 2019) - Kovaite, Kristina & Stankevičienė, Jelena. (2019). Risks of digitalisation of business models. 10.3846/cibmee.2019.039.
-
-Bitten Thorgaard Sørensen, Digitalisation: An Opportunity or a Risk?, Journal of European Competition Law & Practice, Volume 9, Issue 6, June 2018, Pages 349–350, https://doi.org/10.1093/jeclap/lpy038
-
 Reim, W., Parida, V., & Sjödin, D. R. (2016). Risk management for product-service system operation. International Journal of Operations & Production Management, 36(6), 665-686. https://doi.org/10.1108/IJOPM-10-2014-0498
 
-*Tupa, J., Simota, J., & Steiner, F. (2017). Aspects of risk management implementation for Industry 4.0. Procedia Manufacturing,11, 1223-1230. https://doi.org/10.1016/j.promfg.2017.07.248* 
-
-*Soltovski, R. et al. (2022) Theoretical framework of the Industry 4.0 risks from sustainability perspective. Revista Competitividade e Sustentabilidade. [Online]*
+Hubbard, D. (2009) The Failure Of Risk Management. 1st ed. Newark: John Wiley & Sons, Incorporated.
 
 Shevchenko, N., Chick, T. A., O'Riordan, P., Scanlon, T. P., & Woody, C. (2018). Threat modeling: a summary of available methods. Carnegie Mellon University Software Engineering Institute Pittsburgh United States. Available from: https://apps.dtic.mil/sti/pdfs/AD1084024.pdf
+
+Hubbard, D. W. & Seiersen, R. (2023) How to Measure Anything in Cybersecurity Risk. Second edition. [Online]. Hoboken, NJ: Wiley-Blackwell.
+
+>Hubbard (2019). FAILURE OF RISK MANAGEMENT: why it’s broken and how to fix it, first edition. Wiley and Sons.
+
+>Olson, D.L. & Desheng D.W (2020) Enterprise risk management models. Berlin, Germany: Springer.
+
+>(Kovaitė & Stankevičienė, 2019) - Kovaite, Kristina & Stankevičienė, Jelena. (2019). Risks of digitalisation of business models. 10.3846/cibmee.2019.039.
+
+>Bitten Thorgaard Sørensen, Digitalisation: An Opportunity or a Risk?, Journal of European Competition Law & Practice, Volume 9, Issue 6, June 2018, Pages 349–350, https://doi.org/10.1093/jeclap/lpy038
+
+>Reim, W., Parida, V., & Sjödin, D. R. (2016). Risk management for product-service system operation. International Journal of Operations & Production Management, 36(6), 665-686. https://doi.org/10.1108/IJOPM-10-2014-0498
+
+>*Tupa, J., Simota, J., & Steiner, F. (2017). Aspects of risk management implementation for Industry 4.0. Procedia Manufacturing,11, 1223-1230. https://doi.org/10.1016/j.promfg.2017.07.248* 
+
+>*Soltovski, R. et al. (2022) Theoretical framework of the Industry 4.0 risks from sustainability perspective. Revista Competitividade e Sustentabilidade. [Online]*
+
+
 
 	
 ### Unit 1&2: An Introduction to Security and Risk Management, & Users, Assessments and the Risk Management Process
