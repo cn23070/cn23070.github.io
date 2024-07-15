@@ -145,7 +145,7 @@ Additionally, it provides a GDPR regulatory analysis and outlines a business con
 
 ![Risk Process Step 1: Establish Context](/Modules/3/img/16.png)
 
-Here I had the opportunity to apply Bayeses'' Theorem in a risk analysis exercise in order to determine probability of risk occurrence 
+Here I had the opportunity to apply Bayeses' Theorem in a risk analysis exercise in order to determine probability of risk occurrence 
 
 ![Applying Bayes's Theorem](/Modules/3/img/17.png)
 
@@ -192,22 +192,6 @@ Hubbard, D. (2009) The Failure Of Risk Management. 1st ed. Newark: John Wiley & 
 Shevchenko, N., Chick, T. A., O'Riordan, P., Scanlon, T. P., & Woody, C. (2018). Threat modeling: a summary of available methods. Carnegie Mellon University Software Engineering Institute Pittsburgh United States. Available from: https://apps.dtic.mil/sti/pdfs/AD1084024.pdf
 
 Hubbard, D. W. & Seiersen, R. (2023) How to Measure Anything in Cybersecurity Risk. Second edition. [Online]. Hoboken, NJ: Wiley-Blackwell.
-
->Hubbard (2019). FAILURE OF RISK MANAGEMENT: why it’s broken and how to fix it, first edition. Wiley and Sons.
-
->Olson, D.L. & Desheng D.W (2020) Enterprise risk management models. Berlin, Germany: Springer.
-
->(Kovaitė & Stankevičienė, 2019) - Kovaite, Kristina & Stankevičienė, Jelena. (2019). Risks of digitalisation of business models. 10.3846/cibmee.2019.039.
-
->Bitten Thorgaard Sørensen, Digitalisation: An Opportunity or a Risk?, Journal of European Competition Law & Practice, Volume 9, Issue 6, June 2018, Pages 349–350, https://doi.org/10.1093/jeclap/lpy038
-
->Reim, W., Parida, V., & Sjödin, D. R. (2016). Risk management for product-service system operation. International Journal of Operations & Production Management, 36(6), 665-686. https://doi.org/10.1108/IJOPM-10-2014-0498
-
->*Tupa, J., Simota, J., & Steiner, F. (2017). Aspects of risk management implementation for Industry 4.0. Procedia Manufacturing,11, 1223-1230. https://doi.org/10.1016/j.promfg.2017.07.248* 
-
->*Soltovski, R. et al. (2022) Theoretical framework of the Industry 4.0 risks from sustainability perspective. Revista Competitividade e Sustentabilidade. [Online]*
-
-
 
 	
 ### Unit 1&2: An Introduction to Security and Risk Management, & Users, Assessments and the Risk Management Process
