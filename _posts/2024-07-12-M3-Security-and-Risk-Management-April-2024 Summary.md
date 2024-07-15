@@ -26,17 +26,17 @@ tags: [Module 3]
 	
 ## Module 3: Summary Reflection
 
-When taking on the module Security and Risk Management I was excited to learn more about the various risk management methodologies and best practices followed across industry, especially looking at both qualitative and quantitative methods and what each approach brings. 
+When taking on the module Security and Risk Management I was excited to learn more about different risk management methodologies and industry best practices, including both qualitative and quantitative methods and their features. 
 
 ![Module Introduction](/Modules/3/img/9.png)
 
-Although I had experience in designing, implementing and running risk management frameworks for large business in the run up to this module, much of what I had done to date was based around ISO frameworks only using qualitative methods for risk scoring. I was a little apprehensive about delving into the quantitative space, anticipating challenges around grasping the mathematical aspects involved in performing such assessments and slightly concerned around how their complexity would impact on real life risk modelling exercises. Through this reflection, I aim to share the various experiences and knowledge gained by completing this module.
+Although I have experience in implementation and operationalisation of risk management frameworks before taking this module, much of it was based around ISO frameworks only with qualitative methods for risk scoring. I was slightly apprehensive about quantitative methods, anticipating challenges around handling the mathematical complexity and wondered how that would impact on real life risk modelling exercises. Through this reflection, I aim to share the various experiences and knowledge gained by completing this module.
 
 ### Units 1,2 & 3: Finding Your Risk Feet
 
-We began with applicable background reading used to research enterprise risk management models. Unit 1 and 2 provided a lecturecast that covered each learning objective in detail. Through the lecturecast I learnt of key terminology used in risk, and further developed my understanding on risk definitions by looking at the evolution of the definition over time and how context and situation influences the definition. Lecturecast also introduced myself to the OpenFAIR and OCTAVE Framework’s. 
+We began with applicable background research on enterprise risk management models. Unit 1 and 2 provided a lecturecast that covered each learning objective in detail. Through this I learnt of key terminology used in risk, and further developed my understanding on risk definitions by looking at the evolution of risk definition over time and how context and situation influences it. I was also introduced to the OpenFAIR and OCTAVE Framework’s.  
 
-Key takeaways were around risk definition, common frameworks in use, and finally a comparison of the quantitative and qualitative methodologies
+Key takeaways are risk definition, common frameworks in use, and a comparison of the quantitative and qualitative methodologies.
 
 #### Risk definition
 
@@ -44,7 +44,7 @@ Reim, Parida, and Sjödin (2016) define risk “as a combination of the probabil
 
 ![Risk Definition During Lecturecast1](/Modules/3/img/1.png)
 
-My simplified version of this is that risk is the probability that something may occur, and is based on the impact an likelihood of the occurrence.
+My simplified interpretation is that risk is the probability that something may occur, and is based on the impact and likelihood of the occurrence.
 
 ![Risk Definition During Lecturecast1](/Modules/3/img/2.png)
 
@@ -54,41 +54,29 @@ My simplified version of this is that risk is the probability that something may
 
 My summary learning on the two methods are as follows:
 
-##### Qualitative method:
-
-- Used for lower value assets, or numerical data is missing, or when risk stakeholders do not have qualitative assessment skillsets
-- Threats and vulnerabilities are usually assigned a value of high, medium or low
-
-##### Quantitative method:
-
-- Well defined mathematical calculation that often uses probability and game theory 
-
-Hubbard(2009) argues that quantitive assessments are more useful then qualitative assessments and should be preferred.
-
-However Busch(n.d.) points out not all risks can be evaluated numerically. This is because risk is subjective, and precluding qualitative assessment may exclude useful input from less numerically oriented staff. is that risk is not easy to define, as the definition if often dependant on context and situation. One of the challenges of risk management is ensuring that all key stakeholders share a common understanding of risk.
+![Qualitative vs. Quantitative During Lecturecast1](/Modules/3/img/3.png)
 
 
 #### Threat Yodelling with STRIDE, DREAD, and Attack Trees
 
 
-Unit 3 then provided an introduction to threat modelling. During the lecturecast we learnt the difference between threats and vulnerabilities and reviewed several common threat modelling techniques.
+Unit 3 introduced threat modelling. During the lecturecast we learnt the difference between threats and vulnerabilities and reviewed several common threat modelling techniques.
 
 To further support my understanding of the different threat models and their features, I also reviewed a paper by Shevchenko et al (2018) that summarised the most common threat management and modelling methods currently in use.
 
-### Units 4, 5 & 6: Gaining Experience and Applying Initial Leanrings
+### Units 4, 5 & 6: Gaining Experience and Applying Initial Learnings
 
 Equipped with a clear understanding of risk management, including best practice methodologies and frameworks that help you perform it successfully, the module content and activities turned to gaining experience. 
 
-Unit 4 allowed us to gain experience with more common threat modelling techniques (STRIDE and DREAD, Attack Trees), by researching them in more detail, attempting to apply them to a scenario, and then discussing them during the uniit 4 group seminar. 
+Unit 4 allowed us to research common threat modelling techniques (STRIDE and DREAD, Attack Trees) in more detail. We then attempted to apply them to a scenario, and then discussing them in a group seminar.  
 
 During Unit 5 we studied several case studies from 2014 – 2018 concerning GDPR related issues and breaches by references content on the Data Protection Commission (2020) Case Studies: Data Protection Commission website. 
 
 ![GDPR Case Studies](/Modules/3/img/22.png)
 
-I came away with some exerpiance around the different aspects of GDPR that can have issues and how to resolve them.
+I came away with some experiance around the different aspects of GDPR that can have issues and how to resolve them.
 
-During unit 6 we then submitted a group assignment where two peers and I carried out a risk assessment and provided a report for the fictional business Pampered Pets; a prominent local pet food shop. 
-The business has ambitious plans to expand internationally through digitization, and we were tasked to report on potential risks that could arise and mitigations to eliminate threats; alongside any recommendations. 
+During unit 6 I then submitted a group assignment with two peers involving a risk assessment and corresponding report for a fictional local pet food shop business called Pampered Pets. The business had ambitious plans to expand internationally through digitization, and we were tasked to report on potential risks that could arise and mitigations to eliminate threats, alongside any recommendations.  
 
 ![Risk Process Step 1: Establish Context](/Modules/3/img/8.png)
 
@@ -98,13 +86,13 @@ We used ISO 31000 as a risk assessment methodology together with STRIDE and DREA
 
 ![Risk Register with analysis using STRIDE and DREAD](/Modules/3/img/12.png)
 
-Our group faced challenges including two thirds of the members being part time students whilst being full time employed. 
+Our group faced time constraint challenges including two thirds of the members being part time students whilst being full time employed.  
 
-I learnt to deal with this by setting expectations up front using a team contract and establish operating mechanisms for collaboration early was key to our success. 
+We overcame this by setting expectations up front using a team contract and established operating mechanisms for collaboration early on. 
 
 ![Group Assignment Team Contract](/Modules/3/iparticlemg/11.png)
 
-I liked taking onboard my peers input and found that allowing a platform for candid open collaboration that is grounded by a simple operating framework agreed up front delivers strong results.
+I found that allowing a platform for candid open collaboration that is grounded by a simple operating framework agreed up front delivers strong results.
 
 The exercise was fun and resulted in a grade of 80%, giving me confidence for future group exercises including assignments. 
 
@@ -113,11 +101,11 @@ The exercise was fun and resulted in a grade of 80%, giving me confidence for fu
 
 ### Units 7 & 8: Taking on Quantitative Risk Modelling
 
-It was now time to tackle my initial concerns around quantitative methods head on by first learning more about them followed by gaining experience by using them.
+It was now time to tackle my concerns around quantitative methods head on by first learning more about them followed by gaining experience using them.
 
 ![Delving Deeper Into Quantitative Risk Modelling](/Modules/3/img/13.png)
 
-We carried out practical exercises that involved applying the most common modelling types: Monte Carlo, Bayes Theorem. We then discussed the results during the live seminars.
+We carried out practical exercises that involved applying the most common modelling types: Monte Carlo and Bayes Theorem. We then discussed the results during the live seminars.
 
 I really enjoyed challenging myself to grasp these methods. Hubbard & Seiersen(2023) helped greatly with their arguements on practical ways to quantify uncertainty and shed light on how to measure seemingly intangible goals.
 
@@ -137,15 +125,15 @@ We learnt about the importance of having such a strategy in place, and what the 
 ### Final Units 10, 11 & 12: Testing My Learnings & Looking to the SRM Future
 
 
-During the final few units we had the opportunity to take the knowledge gained and gain more experience applying it through an executive summary assignment.
+During the final few units, we had the opportunity to showcase the knowledge learnt  through an executive summary assignment.
 
-This report evaluated Pampered Pets again, but this time focused on the potential product quality and availability risks associated with the digitisation and internationalisation of the Pampered Pets business including the introduction of an international supply chain and automated warehouses worldwide. 
+This report evaluated Pampered Pets again, but focused on the potential product quality and supply chain availability risks associated with the digitisation and internationalisation of the Pampered Pets business. 
 
-Additionally, it provides a GDPR regulatory analysis and outlines a business continuity / disaster recovery strategy to help ensure a 24/7 digital e-commerce customer service capability.
+Additionally, it required a GDPR impact assessment and a business continuity / disaster recovery proposal to help ensure a 24/7 digital e-commerce customer service capability.
 
 ![Risk Process Step 1: Establish Context](/Modules/3/img/16.png)
 
-Here I had the opportunity to apply Bayeses' Theorem in a risk analysis exercise in order to determine probability of risk occurrence 
+This was my opportunity to apply Bayes’s' Theorem during risk analysis to determine probability of risk occurrence.
 
 ![Applying Bayes's Theorem](/Modules/3/img/17.png)
 
@@ -153,7 +141,7 @@ Here I had the opportunity to apply Bayeses' Theorem in a risk analysis exercise
 
 ![Risk Process Step 3: Regulatory Impact Analysis](/Modules/3/img/20.png)
 
-I also got to create and submit a BC/DR design proposal for a a critical system requiring an active – active solution that is highly recoverable quickly.
+I also got to create and submit a BC/DR design proposal for a critical system requiring an active – active solution that is highly recoverable quickly.
 
 ![BC/DR Pampered Pets Proposal](/Modules/3/img/19.png)
 
@@ -161,15 +149,19 @@ I also got to create and submit a BC/DR design proposal for a a critical system 
 
 ![Key Questions](/Modules/3/img/21.png)
 
-We then concluded the module with a look at the future trends in security and risk management. Learning the current and emerging trends was insightful and something I will take away into my current risk work activities.
+We concluded the module with a look at the future trends in security and risk management. Learning the current and emerging trends was insightful.
 
 ## Conclusion
 
 
 In conclusion this module has equipped me with a solid foundation in security and risk management including business continuity and disaster recover. 
+
 I understand the importance of and the best practice around how to apply the right risk framework and methodology based on the context being assessed. 
+
 Importantly I also now know the value of implementing and maintaining a business continuity / disaster recovery strategy that is based around requirements including known risks the strategy should address. 
+
 I have a lot to learn still around quantitative risk analysis having only produced one assessment using Bayes Theorem to date, but I am confident in my ability to start applying this now in the risk work I am doing during my current employment as a Director of Cyber Security. 
+
 I also come away with further reassurance on the important role risk management plays in helping ensure a business achieves its goals and objectives.
 
 
@@ -192,6 +184,18 @@ Hubbard, D. (2009) The Failure Of Risk Management. 1st ed. Newark: John Wiley & 
 Shevchenko, N., Chick, T. A., O'Riordan, P., Scanlon, T. P., & Woody, C. (2018). Threat modeling: a summary of available methods. Carnegie Mellon University Software Engineering Institute Pittsburgh United States. Available from: https://apps.dtic.mil/sti/pdfs/AD1084024.pdf
 
 Hubbard, D. W. & Seiersen, R. (2023) How to Measure Anything in Cybersecurity Risk. Second edition. [Online]. Hoboken, NJ: Wiley-Blackwell.
+
+University of Essex Online. (2024). Risk & The Risk Management Process, Security and Risk Management April 2024. Available at: https://www.my-course.co.uk/course/view.php?id=11645&section=7 (Accessed: 15 July 2024).
+
+University of Essex Online. (2024). Threat Management and Modelling, Security and Risk Management April 2024. Available at: https://www.my-course.co.uk/course/view.php?id=11645&section=9 (Accessed: 15 July 2024).
+
+University of Essex Online. (2024). Security and Risk Management Standards, Security and Risk Management April 2024. Available at: https://www.my-course.co.uk/course/view.php?id=11645&section=11 (Accessed: 15 July 2024).
+
+University of Essex Online. (2024). Quantitative Risk Modelling, Security and Risk Management April 2024. Available at: https://www.my-course.co.uk/course/view.php?id=11645&section=13 (Accessed: 15 July 2024).
+
+University of Essex Online. (2024). Business Continuity and Disaster Recovery, Security and Risk Management April 2024. Available at: https://www.my-course.co.uk/course/view.php?id=11645&section=15 (Accessed: 15 July 2024).
+
+University of Essex Online. (2024). Future Trends, Security and Risk Management April 2024. Available at: https://www.my-course.co.uk/course/view.php?id=11645&section=17 (Accessed: 15 July 2024).
 
 	
 ### Unit 1&2: An Introduction to Security and Risk Management, & Users, Assessments and the Risk Management Process
