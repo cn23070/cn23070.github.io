@@ -13,7 +13,7 @@ When taking on the module Security and Risk Management I was excited to learn mo
 
 ![Module Introduction](/Modules/3/img/9.png)
 
-- **Figure 1**: Module Introduction (University of Essex Online, 2024).
+- **Figure 1**: Module Introduction (University of Essex Online, 2024)
 
 Although I have experience in implementation and operationalisation of risk management frameworks before taking this module, much of it was based around ISO frameworks only with qualitative methods for risk scoring. I was slightly apprehensive about quantitative methods, anticipating challenges around handling the mathematical complexity and wondered how that would impact on real life risk modelling exercises. Through this reflection, I aim to share the various experiences and knowledge gained by completing this module.
 
@@ -29,23 +29,23 @@ Reim, Parida, and Sjödin (2016) define risk “as a combination of the probabil
 
 ![Risk Definition During Lecturecast1](/Modules/3/img/1.png)
 
-- **Figure 2**: Risk Definition During Lecturecast 1 (University of Essex Online, 2024).
+- **Figure 2**: Risk Definition During Lecturecast 1 (University of Essex Online, 2024)
 
 My simplified interpretation is that risk is the probability that something may occur, and is based on the impact and likelihood of the occurrence.
 
 ![Risk Definition During Lecturecast1](/Modules/3/img/2.png)
 
-- **Figure 3**: Risk Definition Summary During Lecturecast 1 (University of Essex Online, 2024).
+- **Figure 3**: Risk Definition Summary During Lecturecast 1 (University of Essex Online, 2024)
 
 #### Qualitative vs. Quantitative methods:
 
 ![Qualitative vs. Quantitative During Lecturecast1](/Modules/3/img/3.png)
 
-- **Figure 4**: Qualitative vs. Quantitative During Lecturecast1 (University of Essex Online, 2024).
+- **Figure 4**: Qualitative vs. Quantitative During Lecturecast1 (University of Essex Online, 2024)
 
 My summary learning on the two methods are as follows:
 
-![Qualitative vs. Quantitative During Lecturecast1](/Modules/3/img/25.png)
+![Qualitative vs. Quantitative During Lecturecast1](/Modules/3/img/24.png)
 
 - **Figure 5**: My Qualitative vs. Quantitative Summary
 
