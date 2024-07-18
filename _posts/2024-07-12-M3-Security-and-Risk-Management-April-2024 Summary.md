@@ -250,8 +250,9 @@ Norris, C. (2024). Individual Project: Executive Summary. Security and Risk Mana
 
 | Parameter                                      | Type                        | Description                                                                                                       | References                 |
 | :--------                                      | :-------                    | :--------------------------                                                                                       | :------------------------- |
-| `Development Team Project: Risk Identification Report` | `Essay`| Our team are tasked with carrying out a risk assessment, evaluating the risks of both the effects of the digitalisation process and of the alternative of maintaining the status quo to the business.| [View Essay](https://xxx) |
-| `End of Module Assignment - Unit 12` | `Essay` | Produce an Executive Summary which provides an estimate of the probabilities that changes to the operations of a business and the supply chain could endanger both the quality and availability of the company's products. | [View Essay](https://xxx)| `End of Module Assignment: e-Portfolio Submission`    | `Website` | Produce a summary of learnings from module 3. | [[View Website](https://cn23070.github.io/)|
+| `Development Team Project: Risk Identification Report` | `Essay`| Carry out a risk assessment, evaluating the risks of both the effects of the digitalisation process and of the alternative of maintaining the status quo to the business.| [View Essay](https://xxx) |
+| `End of Module Assignment - Unit 12` | `Essay` | Produce an Executive Summary which provides an estimate of the probabilities that changes to the operations of a business and the supply chain could endanger both the quality and availability of the company's products. | [View Essay](https://xxx)| 
+| `End of Module Assignment: e-Portfolio Submission`    | `Website` | Produce a summary of learnings from module 3. | [[View Website](https://cn23070.github.io/)|
 
 
 
