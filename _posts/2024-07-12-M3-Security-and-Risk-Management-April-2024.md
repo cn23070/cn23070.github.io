@@ -256,8 +256,8 @@ Norris, C. (2024). Individual Project: Executive Summary. Security and Risk Mana
 | :--------                                      | :-------                    | :--------------------------                                                                                       | :------------------------- |
 | `Development Team Project: Risk Identification Report` | `Essay`| Carry out a risk assessment, evaluating the risks of both the effects of the digitalisation process and of the alternative of maintaining the status quo to the business.| [View Essay](https://essexuniversity-my.sharepoint.com/:w:/g/personal/cn23070_essex_ac_uk/ET7vYqVVIZJOpOZYccQ0GxEBAlu2pYKXnEQUt4TSTCdapQ) |
 | `End of Module Assignment - Unit 12` | `Essay` | Produce an Executive Summary which provides an estimate of the probabilities that changes to the operations of a business and the supply chain could endanger both the quality and availability of the company's products. | [View Essay](https://essexuniversity-my.sharepoint.com/:w:/g/personal/cn23070_essex_ac_uk/ESA4ffxY0b5OsOlooF1yNTYBI8-5oI7piEvo8xbNwduynw)| 
-| `End of Module Assignment: e-Portfolio Submission`    | `Website` | Produce a summary of learnings from module 3. | [View Website](https://cn23070.github.io/)|
-| `Backup: e-Portfolio Submission Post`    | `MD file` | Backup of the E-Portfolio Post for this module | [View File](https://essexuniversity-my.sharepoint.com/:t:/g/personal/cn23070_essex_ac_uk/Eb238zPyvx9FnsY-QV5u56QB4qrslWVr86R12EXZ0fA1CQ)|
+| `End of Module Assignment: e-Portfolio Submission`    | `Website` | Produce a summary of learnings from module 3. | [View Website](https://cn23070.github.io/module_3/2024/07/12/M3-Security-and-Risk-Management-April-2024.html)|
+| `Backup: e-Portfolio Submission Post Raw MD File`    | `MD file` | Backup of the E-Portfolio Post for this module | [View File](https://essexuniversity-my.sharepoint.com/:t:/g/personal/cn23070_essex_ac_uk/Eb238zPyvx9FnsY-QV5u56QB4qrslWVr86R12EXZ0fA1CQ)|
 
 
 
