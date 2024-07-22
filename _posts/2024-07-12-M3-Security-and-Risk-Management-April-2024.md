@@ -54,7 +54,7 @@ My summary learning on the two methods are as follows:
 - **Figure 5**: My Qualitative vs. Quantitative Summary
 
 
-#### Threat Yodelling with STRIDE, DREAD, and Attack Trees
+#### Threat Modelling with STRIDE, DREAD, and Attack Trees
 
 
 Unit 3 introduced threat modelling. During the lecturecast we learnt the difference between threats and vulnerabilities and reviewed several common threat modelling techniques.
@@ -69,9 +69,9 @@ To further support my understanding of the different threat models and their fea
 
 Equipped with a clear understanding of risk management, including best practice methodologies and frameworks that help you perform it successfully, the module content and activities turned to gaining experience. 
 
-Unit 4 allowed us to research common threat modelling techniques (STRIDE and DREAD, Attack Trees) in more detail. We then attempted to apply them to a scenario, and then discussing them in a group seminar.  
+Unit 4 allowed us to research common threat modelling techniques (STRIDE and DREAD, Attack Trees) in more detail. We then attempted to apply them to a scenario, followed by discussing them in a group seminar.  
 
-During Unit 5 we studied several case studies from 2014 – 2018 concerning GDPR related issues and breaches by references content on the Data Protection Commission (2020) Case Studies: Data Protection Commission website. 
+During Unit 5 we studied several case studies from 2014 – 2018 concerning GDPR related issues and breaches by researching content on the Data Protection Commission (2020) Case Studies: Data Protection Commission website. 
 
 - **Figure 7**: Security and Risk Management Standards During Lecturecast 3 (University of Essex Online, 2024)
 
