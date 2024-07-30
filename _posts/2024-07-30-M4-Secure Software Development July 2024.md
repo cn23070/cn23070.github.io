@@ -57,7 +57,7 @@ An Architecture of a system:
 - documents the system (stakeholders, requirements, decisions) and often conforms to a pattern (architecture patterns include client server, pipes and filters ect..)
 
 **Why is software architecture important?**
-- A number of reasons including technical aspects such as helping manage changes, ensuring component based design, and facilitates early prototyping
+- A number of reasons including technical aspects such as helping manage changes, ensuring component based design, and facilitates early prototyping. I also an architecture balances and optimizes stakeholder requirements and formalises it, helping ensure good documentation best pratice as well as producing a system that is etensible and moifiable.
 
 
 **System versus Enterprise Architecture**
@@ -71,12 +71,16 @@ processes, personnel and flow of information is aligned to its core goals to eff
 
 - **Figure 3**: Scope and focus of various architect roles (Pillai, 2017)
 
-• Architectural quality attributes
-°° Modifiability
-°° Testability
-°° Scalability/performance
-°° Security
-°° Deployability 
+**Architectural quality attributes**
+
+"A quality attribute is a measurable and testable property of a system which can be used to evaluate the performance of a system within its prescribed environment with respect to its non-functional aspects".(Pillai, 2017)
+
+°° Modifiability: the ease with which changes can be made to a system, and the flexibility with which the system adjusts to the changes
+°° Testability: how much a software system is amenable to demonstrating its faults through testing
+°° Scalability/performance: capacity to accommodate increasing workload on demand while keeping its performance within acceptable limits
+°° Availability: the property of readiness of a software system to carry out its operations when the need arises.
+°° Security: in the software domain, can be defined as the degree of ability of a system to avoid damage to its data and logic from unauthenticated access, while continuing to provide services to other systems and roles that are properly authenticated.
+°° Deployability: the degree of ease with which software can be taken from the development to the production environment. 
 
 
 We also reviewed our first case study, a paper by Kovaitė and Stankevičienė (2019),that illustrates some of the risks introduced by industry 4.0 when applying digitalisation to more traditional business processes. The study also covered a methodology for carrying out the risk assessment of the digitalisation process as well as some common definitions of risk.
