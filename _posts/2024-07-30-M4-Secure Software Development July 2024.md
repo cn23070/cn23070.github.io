@@ -19,7 +19,7 @@ tags: [Module 4]
 
 ### Units 1
 
-We begun the module with bacground core reading. Unit 1 reading covered two key topics:
+We begun the module with background core reading. Unit 1 reading covered two key topics:
 - Principles of Software Architecture
 - Writing Secure Code
 
@@ -84,6 +84,38 @@ processes, personnel and flow of information is aligned to its core goals to eff
 
 
 We also reviewed our first case study, a paper by Kovaitė and Stankevičienė (2019),that illustrates some of the risks introduced by industry 4.0 when applying digitalisation to more traditional business processes. The study also covered a methodology for carrying out the risk assessment of the digitalisation process as well as some common definitions of risk.
+
+#### Writing Secure Code
+
+**Information security architecture**
+A secure architecture involves creating a system that is able to provide access to data and information to authorized people and systems while preventing any unauthorized access.(Pillai, 2017)
+
+You protect the CIA of the system and its data through security mechanisms such as authetication, authorization and non-reputability
+
+**Secure coding**
+
+Secure coding is the practice of software development that guards programs against security vulnerabilities, and makes it resistant to malicious attacks right from program design to implementation.(Pillai, 2017). It is important to identify assets of value (code/data), then decompose the application into components followed by identifying and categorizing threats to each asset or component and ranking the threats following a risk model. You should then develop strategies to mitigate the identifed threats
+
+**Common security vulnerabilities**
+
+*Overflow errors* such as *buffer overflow*(attackers take control of systems by gaining access to teh systems application stack or heap memory due to code error allowing an application to write past the end of a buffer), and *Integer or arithmetic overflow* (an operation on an integerproduces a result that is too large to be used or stored)
+
+*Lack of validated input* (comon security issue on web application where unvalidated input is injected by an attacker, tricking the system into accepting malicious code or system commands leading to system compromise)
+Common examples include Cross-Site-Scripting(XSS), SQL Injections and Shel Execution Exploits.
+
+*Poor Access control* (lack of seperation of super user rights between user groups may be leveraged by an attacker through things like exposed routes (URLs) or workflows)
+
+**Is Python secure?**
+°° Reading input
+°° Evaluating arbitrary input
+°° Overflow errors
+°° Serializing objects
+°° Security issues with web applications
+
+
+**Strategies for Security – Python**
+
+**Secure coding strategies**
 
 
 ![Lecturecast: Introduction to Secure Software Development](/Modules/4/img/3.png)
