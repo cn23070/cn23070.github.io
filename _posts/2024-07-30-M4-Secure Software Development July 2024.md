@@ -34,260 +34,38 @@ Core Text: Pillai, A.B. (2017) Software Architecture with Python. Birmingham, UK
 	
 ## Module 4: Summary Reflection
 
-When taking on the module Security and Risk Management I was excited to learn more about different risk management methodologies and industry best practices, including both qualitative and quantitative methods and their features. 
+xxx
 
-![Core Text](/Modules/4/img/1.png)
 
-- **Figure 1**: Core Text (University of Essex Online, 2024)
 
-![Module Introduction](/Modules/4/img/2.png)
 
-- **Figure 2**: Module Introduction (University of Essex Online, 2024)
 
-
-
-
-
-Although I have experience in implementation and operationalisation of risk management frameworks before taking this module, much of it was based around ISO frameworks only with qualitative methods for risk scoring. I was slightly apprehensive about quantitative methods, anticipating challenges around handling the mathematical complexity and wondered how that would impact on real life risk modelling exercises. Through this reflection, I aim to share the various experiences and knowledge gained by completing this module.
-
-### Units 1,2 & 3: Finding Your Risk Feet
-
-We began with applicable background research on enterprise risk management models. Unit 1 and 2 provided a lecturecast that covered each learning objective in detail. Through this I learnt of key terminology used in risk, and further developed my understanding on risk definitions by looking at the evolution of risk definition over time and how context and situation influences it. I was also introduced to the OpenFAIR and OCTAVE Framework’s.  
-
-Key takeaways are risk definition, common frameworks in use, and a comparison of the quantitative and qualitative methodologies.
-
-#### Risk definition
-
-Reim, Parida, and Sjödin (2016) define risk “as a combination of the probability of loss and the impact of the loss for a number of events and risks”.
-
-![Risk Definition During Lecturecast1](/Modules/3/img/1.png)
-
-- **Figure 2**: Risk Definition During Lecturecast 1 (University of Essex Online, 2024)
-
-My simplified interpretation is that risk is the probability that something may occur, and is based on the impact and likelihood of the occurrence.
-
-![Risk Definition During Lecturecast1](/Modules/3/img/2.png)
-
-- **Figure 3**: Risk Definition Summary During Lecturecast 1 (University of Essex Online, 2024)
-
-#### Qualitative vs. Quantitative methods:
-
-![Qualitative vs. Quantitative During Lecturecast1](/Modules/3/img/3.png)
-
-- **Figure 4**: Qualitative vs. Quantitative During Lecturecast1 (University of Essex Online, 2024)
-
-My summary learning on the two methods are as follows:
-
-![Qualitative vs. Quantitative During Lecturecast1](/Modules/3/img/24.png)
-
-- **Figure 5**: My Qualitative vs. Quantitative Summary
-
-
-#### Threat Modelling with STRIDE, DREAD, and Attack Trees
-
-
-Unit 3 introduced threat modelling. During the lecturecast we learnt the difference between threats and vulnerabilities and reviewed several common threat modelling techniques.
-
-![Threat Modelling Systems Lecturecast2](/Modules/3/img/25.png)
-
-- **Figure 6**: Threat Modelling Systems During Lecturecast 2 (University of Essex Online, 2024)
-
-To further support my understanding of the different threat models and their features, I also reviewed a paper by Shevchenko et al (2018) that summarised the most common threat management and modelling methods currently in use.
-
-### Units 4, 5 & 6: Gaining Experience and Applying Initial Learnings
-
-Equipped with a clear understanding of risk management, including best practice methodologies and frameworks that help you perform it successfully, the module content and activities turned to gaining experience. 
-
-Unit 4 allowed us to research common threat modelling techniques (STRIDE and DREAD, Attack Trees) in more detail. We then attempted to apply them to a scenario, followed by discussing them in a group seminar.  
-
-During Unit 5 we studied several case studies from 2014 – 2018 concerning GDPR related issues and breaches by researching content on the Data Protection Commission (2020) Case Studies: Data Protection Commission website. 
-
-- **Figure 7**: Security and Risk Management Standards During Lecturecast 3 (University of Essex Online, 2024)
-
-![Security and Risk Management Standards During Lecturecast 3](/Modules/3/img/22.png)
-
-- **Figure 8**: GDPR Case Studies (Data Protection Commission, 2020)
-
-![GDPR Case Studies](/Modules/3/img/22.png)
-
-I came away with some experiance around the different aspects of GDPR that can have issues and how to resolve them.
-
-During unit 6 I then submitted a group assignment with two peers involving a risk assessment and corresponding report for a fictional local pet food shop business called Pampered Pets. The business had ambitious plans to expand internationally through digitization, and we were tasked to report on potential risks that could arise and mitigations to eliminate threats, alongside any recommendations.  
-
-![Risk Process Step 1: Establish Context](/Modules/3/img/8.png)
-
-- **Figure 9**: Establishing Context (Worku et al. 2024)
-
-We used ISO 31000 as a risk assessment methodology together with STRIDE and DREAD for assessing the risks before and after digitalization of the Pampered Pets business. 
-
-![Risk Process based on ISO 31000](/Modules/3/img/6.png)
-
-- **Figure 10**: Risk Process (ISO 31000)
-
-![Risk Register with analysis using STRIDE and DREAD](/Modules/3/img/12.png)
-
-- **Figure 11**: Risk Register (Worku et al. 2024)
-
-Our group faced time constraint challenges including two thirds of the members being part time students whilst being full time employed.  
-
-We overcame this by setting expectations up front using a team contract and established operating mechanisms for collaboration early on. 
-
-![Group Assignment Team Contract](/Modules/3/img/11.png)
-
-- **Figure 12**: Team Contract 
-
-I found that allowing a platform for candid open collaboration that is grounded by a simple operating framework agreed up front delivers strong results.
-
-The exercise was fun and resulted in a grade of 80%, giving me confidence for future group exercises including assignments. 
-
-![Group Assignment Results](/Modules/3/img/10.png)
-
-- **Figure 13**: Assignment 1 Results 
-
-
-### Units 7 & 8: Taking on Quantitative Risk Modelling
-
-It was now time to tackle my concerns around quantitative methods head on by first learning more about them followed by gaining experience using them.
-
-![Delving Deeper Into Quantitative Risk Modelling](/Modules/3/img/13.png)
-
-- **Figure 14**: Quantitative Risk Modelling During Lecturecast 4 (University of Essex Online, 2024)
-
-We carried out practical exercises that involved applying the most common modelling types: Monte Carlo and Bayes Theorem. We then discussed the results during the live seminars.
-
-I really enjoyed challenging myself to grasp these methods. Hubbard & Seiersen(2023) helped greatly with their arguements on practical ways to quantify uncertainty and shed light on how to measure seemingly intangible goals.
-
-![Hubbard MFA example](/Modules/3/img/23.png)
-
-- **Figure 15**: Hubbard MFA example (Hubbard & Seiersen, 2023)
-
-
-### Units 9: The Importance of Business Continuity(BC)/Disaster Recovery(DR)
-
-Unit 9 then equipped us with a great understanding of business continuity and disaster recovery. 
-
-![DR and Digitalisation](/Modules/3/img/14.png)
-
-- **Figure 16**: DR and Digitalisation During Lecturecast 5 (University of Essex Online, 2024)
-
-We learnt about the importance of having such a strategy in place, and what the main factors are that make up a BC/DR plan including RTOs and RPOs.
-
-![RTO (Recovery Time Objective) & RPO (Recovery Point Objective)](/Modules/3/img/15.png)
-
-- **Figure 17**: RTO And RPO During Lecturecast 5 (University of Essex Online, 2024)
-
-### Final Units 10, 11 & 12: Testing My Learnings & Looking to the SRM Future
-
-
-During the final few units, we had the opportunity to showcase the knowledge learnt  through an executive summary assignment.
-
-This report evaluated Pampered Pets again, but focused on the potential product quality and supply chain availability risks associated with the digitisation and internationalisation of the Pampered Pets business. 
-
-Additionally, it required a GDPR impact assessment and a business continuity / disaster recovery proposal to help ensure a 24/7 digital e-commerce customer service capability.
-
-![Risk Process Step 1: Establish Context](/Modules/3/img/16.png)
-
-- **Figure 18**: Establishing Context (Norris, 2024)
-
-This was my opportunity to apply Bayes’s' Theorem during risk analysis to determine probability of risk occurrence.
-
-![Applying Bayes's Theorem](/Modules/3/img/17.png)
-
-- **Figure 19**: Applying Bayes's Theorem (Norris, 2024)
-
-![Risk Process Step 2: Risk Analysis](/Modules/3/img/18.png)
-
-- **Figure 20**: Risk Analysis (Norris, 2024)
-
-![Risk Process Step 3: Regulatory Impact Analysis](/Modules/3/img/20.png)
-
-- **Figure 17**: Regulatory Impact Analysis (Norris, 2024)
-
-I also got to create and submit a BC/DR design proposal for a critical system requiring an active – active solution that is highly recoverable quickly.
-
-![BC/DR Pampered Pets Proposal](/Modules/3/img/19.png)
-
-- **Figure 21**: BC/DR Pampered Pets Proposal (Norris, 2024)
-
-####Unit 12: What Next? The Future Trends in SRM
-
-![Key Questions](/Modules/3/img/21.png)
-
-- **Figure 22**: Key Questions During Lecturecast 6 (University of Essex Online, 2024)
-
-We concluded the module with a look at the future trends in security and risk management. Learning the current and emerging trends was insightful.
-
-## Conclusion
-
-
-In conclusion this module has equipped me with a solid foundation in security and risk management including business continuity and disaster recover. 
-
-I understand the importance of and the best practice around how to apply the right risk framework and methodology based on the context being assessed. 
-
-Importantly I also now know the value of implementing and maintaining a business continuity / disaster recovery strategy that is based around requirements including known risks the strategy should address. 
-
-I have a lot to learn still around quantitative risk analysis having only produced one assessment using Bayes Theorem to date, but I am confident in my ability to start applying this now in the risk work I am doing during my current employment as a Director of Cyber Security. 
-
-I also come away with further reassurance on the important role risk management plays in helping ensure a business achieves its goals and objectives.
-
-
-## Module 3: Citations
-
-*Information about what I learnt during this module and how*
-
-Reim, W., Parida, V., & Sjödin, D. R. (2016). Risk management for product-service system operation. International Journal of Operations & Production Management, 36(6), 665-686. https://doi.org/10.1108/IJOPM-10-2014-0498
-
-Hubbard, D. (2009) The Failure Of Risk Management. 1st ed. Newark: John Wiley & Sons, Incorporated.
-
-Shevchenko, N., Chick, T. A., O'Riordan, P., Scanlon, T. P., & Woody, C. (2018). Threat modeling: a summary of available methods. Carnegie Mellon University Software Engineering Institute Pittsburgh United States. Available from: https://apps.dtic.mil/sti/pdfs/AD1084024.pdf
-
-Hubbard, D. W. & Seiersen, R. (2023) How to Measure Anything in Cybersecurity Risk. Second edition. [Online]. Hoboken, NJ: Wiley-Blackwell.
-
-University of Essex Online. (2024). Risk & The Risk Management Process, Security and Risk Management April 2024. Available at: https://www.my-course.co.uk/course/view.php?id=11645&section=7 (Accessed: 15 July 2024).
-
-University of Essex Online. (2024). Threat Management and Modelling, Security and Risk Management April 2024. Available at: https://www.my-course.co.uk/course/view.php?id=11645&section=9 (Accessed: 15 July 2024).
-
-University of Essex Online. (2024). Security and Risk Management Standards, Security and Risk Management April 2024. Available at: https://www.my-course.co.uk/course/view.php?id=11645&section=11 (Accessed: 15 July 2024).
-
-University of Essex Online. (2024). Quantitative Risk Modelling, Security and Risk Management April 2024. Available at: https://www.my-course.co.uk/course/view.php?id=11645&section=13 (Accessed: 15 July 2024).
-
-University of Essex Online. (2024). Business Continuity and Disaster Recovery, Security and Risk Management April 2024. Available at: https://www.my-course.co.uk/course/view.php?id=11645&section=15 (Accessed: 15 July 2024).
-
-University of Essex Online. (2024). Future Trends, Security and Risk Management April 2024. Available at: https://www.my-course.co.uk/course/view.php?id=11645&section=17 (Accessed: 15 July 2024).
-
-Worku, O. Norris, C. Poloboc, M. (2024). Development Team Project: Risk Identification Report. Security and Risk Management April 2024. University of Essex online. Unpublished assignment.   
-
-Norris, C. (2024). Individual Project: Executive Summary. Security and Risk Management April 2024. University of Essex online. Unpublished assignment.  
-
-## Module 3: Summary Overview
-
-*Module 3 will cover the various areas where security and risk overlap and interact with each other. It will review the various methods of risk assessment, looking at both qualitative and quantitative methods.*
-
-
-## Module 3: Learning Scope & Objectives
+## Module 4: Learning Scope & Objectives
 
 *“All human endeavours involve uncertainty and risk.”(Olson, D.L. & Desheng D.W, 2020)*
 
-- Discuss the difference between qualitative and quantitative risk assessments.
-- Describe how to carry out both kinds of assessments.
-	- Objective: Ability to describe when to use qualitative and quantitative risk assessments.
-- Explain what is meant by and how to create threat models.
-	- Objective: Ability to create threat models for various scenarios.
-- Demonstrate how to create quantitative risk models.
-	- Objective: Ability to create quantitative risk models.
-- Discuss and design DR solutions.
-	- Objective: Design and explain DR strategies and solutions.
+- Acquire a critical understanding of the concept of abstraction in programming.
+- Develop an understanding of the basic principles of secure development methodologies.
+- Explore how to undertake analysis, program design, software construction and testing required for software development.
+- Demonstrate an understanding of the basic principles of architecture, as well as traditional and contemporary Software Development Life Cycle (SDLC) models, such as TOGAF and Agile.
+- The ability to put into practice the techniques learned in a team environment, demonstrating how to deal with conflicts and how to make compromises, and be able to critically evaluate the effectiveness of the approaches.
+- Utilise the opportunity to reflect on and evaluate your own personal development.
+- Identify and manage security risks as part of a software development project.
+- Critically analyse development problems and determine appropriate methodologies, tools and techniques (including program design and development) to solve them.
+- Design and develop/adapt computer programs and to produce a solution that meets the design brief and critically evaluate solutions that are produced.
+- Systematically develop and implement the skills required to be effective member of a development team in a virtual professional environment, adopting real-life perspectives on team roles and organisation.
 
-## Module 3: Artefacts
+## Module 4: Artefacts
 
 
 | Parameter                                      | Type                        | Description                                                                                                       | References                 |
 | :--------                                      | :-------                    | :--------------------------                                                                                       | :------------------------- |
-| `Development Team Project: Risk Identification Report` | `Essay`| Carry out a risk assessment, evaluating the risks of both the effects of the digitalisation process and of the alternative of maintaining the status quo to the business.| [View Essay](https://essexuniversity-my.sharepoint.com/:w:/g/personal/cn23070_essex_ac_uk/ET7vYqVVIZJOpOZYccQ0GxEBAlu2pYKXnEQUt4TSTCdapQ) |
-| `End of Module Assignment - Unit 12` | `Essay` | Produce an Executive Summary which provides an estimate of the probabilities that changes to the operations of a business and the supply chain could endanger both the quality and availability of the company's products. | [View Essay](https://essexuniversity-my.sharepoint.com/:w:/g/personal/cn23070_essex_ac_uk/ESA4ffxY0b5OsOlooF1yNTYBI8-5oI7piEvo8xbNwduynw)| 
-| `End of Module Assignment: e-Portfolio Submission`    | `Essay` | Produce a summary report of learnings from module 3. | [View Essay](https://essexuniversity-my.sharepoint.com/:w:/g/personal/cn23070_essex_ac_uk/EZEB29ZH6-1ErPpAOvtZDwoBJBrw9tN1IxbIbmjotM4vvg)|
-| `End of Module Assignment: e-Portfolio Submission`    | `Website` | Produce a e-Portfolio covering the learnings from module 3. | [View Website](https://cn23070.github.io/module_3/2024/07/12/M3-Security-and-Risk-Management-April-2024.html)|
-| `Backup: e-Portfolio Submission Post Raw MD File`    | `MD file` | Backup of the E-Portfolio Post for this module | [View File](https://essexuniversity-my.sharepoint.com/:t:/g/personal/cn23070_essex_ac_uk/Eb238zPyvx9FnsY-QV5u56QB4qrslWVr86R12EXZ0fA1CQ)|
+| `Development Team Project: Design Document` | `Report`| Produce an application design for a secure enclave to store lyrics, music scores and musical recordings on behalf of copyright owners and performers.| [View Essay](https://essexuniversity-my.sharepoint.com/:w:/g/personal/cn23070_essex_ac_uk/xxx) |
+| `Development Individual Project: Coding Output` | `Code` | Using Python, implement the application designed earlier (see design document artifact). | [View ip](https://essexuniversity-my.sharepoint.com/:w:/g/personal/cn23070_essex_ac_uk/xxx)| 
+| `Development Individual Project: README`    | `Read Me` | Using Python, implement the application designed earlier (see design document artifact). | [View README File](https://essexuniversity-my.sharepoint.com/:w:/g/personal/cn23070_essex_ac_uk/xxx)|
+| `Individual Reflective Submission`    | `Essay` | Produce a summary report covering the learnings from module 4. | [View Essay](https://cn23070.github.io/module_3/2024/07/12/M3-Security-and-Risk-Management-April-2024.html)|
+| `Individual Reflective Submission`    | `Website` | Produce a e-Portfolio covering the learnings from module 4. | [View Website](https://essexuniversity-my.sharepoint.com/:w:/g/personal/cn23070_essex_ac_uk/xxx)|
+| `Backup: e-Portfolio Submission Post Raw MD File`    | `MD file` | Backup of the E-Portfolio Post for this module | [View File](https://essexuniversity-my.sharepoint.com/:t:/g/personal/cn23070_essex_ac_uk/xxx)|
 
 
 
