@@ -11,15 +11,83 @@ tags: [Module 4]
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://cn23070.github.io/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/craig-norris-3b787610/)
 
-### Units 1
-en taking on the module Security and Risk Management I was excited to learn more about different risk management methodologies and industry best practices, including both qualitative and quantitative methods and their features. 
 
-![Module Introduction](/Modules/4/img/1.png)
+![Module Introduction](/Modules/4/img/3.png)
 
 - **Figure 1**: Module Introduction (University of Essex Online, 2024)
 
 
+### Units 1
 
+We begun the module with bacground core reading. Unit 1 reading covered two key topics:
+- Principles of Software Architecture
+- Writing Secure Code
+
+![Module Core Reading](/Modules/4/img/1.png)
+
+- **Figure 1**: Module Core Reading (Pillai, 2017)
+
+#### Principles of Software Architecture
+- Defining software architecture: According to Pillai (2017), software architecture is a description of the subsystems or components of a software
+system, and the relationships between them.
+
+**Software architecture versus design**
+
+Although used interchangeably, Pillai (2017) argues that there are distinctions:
+ 
+- Software Architecture (higher abstraction / larger scope) is about the design of the entire system.
+	- It covers the higher level structures and interactions of the system and is closer to questions about the systems functional, technical, organizational, business and quality attributes, 
+
+- Wheras Software Design covers the organization of parts of the sub system and system invovled in making the system
+	 - Mostly about the details of the subsystems
+	 - It is closer to questions around the code itself
+
+• Aspects of software architecture include a System(collection of components orangazed in such a way as to achieve a specific function), Structure (set of software or hardware elements grouped together accordign to a guiding principle), Enviroment (context(technical, business, operational ...) or circumstances in which a system is built), and Stakeholders (person(s0 who is interested in or concered about the success of the system.))
+
+**Characteristics of software architecture**
+
+An Architecture of a system: 
+
+- is represented as structual details. of the sytem, often depicted using a class diagram
+- picks a core set of elements and does not setout to document everything about every component of the system
+- captures early design decisions based on requirements and constraints of its context. These decisionsplay a major role in further development
+- manages stakeholders requirements
+- influences the organizational structure
+- is influenced by its enviroment. The envioment often imposes limits that the architecture must function within.
+- documents the system (stakeholders, requirements, decisions) and often conforms to a pattern (architecture patterns include client server, pipes and filters ect..)
+
+**Why is software architecture important?**
+- A number of reasons including technical aspects such as helping manage changes, ensuring component based design, and facilitates early prototyping
+
+
+**System versus Enterprise Architecture**
+
+"Enterprise Architecture is a conceptual blueprint that defines the structure and behavior of an organization. It determines how the organization's structure,
+processes, personnel and flow of information is aligned to its core goals to efficiently achieve its current and future objectives."
+
+"A system architecture is the fundamental organization of a system, represented by its structural and behavioral views. The structure is determined by the components of the system and the behavior by the relationships between them and their interaction with external systems."
+
+![Scope and focus of various architect roles](/Modules/4/img/2.png)
+
+- **Figure 3**: Scope and focus of various architect roles (Pillai, 2017)
+
+• Architectural quality attributes
+°° Modifiability
+°° Testability
+°° Scalability/performance
+°° Security
+°° Deployability 
+
+
+We also reviewed our first case study, a paper by Kovaitė and Stankevičienė (2019),that illustrates some of the risks introduced by industry 4.0 when applying digitalisation to more traditional business processes. The study also covered a methodology for carrying out the risk assessment of the digitalisation process as well as some common definitions of risk.
+
+
+![Lecturecast: Introduction to Secure Software Development](/Modules/4/img/3.png)
+
+- **Figure 4**: Lecturecast: Introduction to Secure Software Development (University of Essex Online, 2024)
+
+
+Unit 1 also provided a lecturecast that provided an introduction to Secure Software Development. Through the lecturecast I learnt a number of key terminology used in xxx, and further developed my understanding on xxx definitions by looking at the evolution of the definition over time and how context and situation influences the definition. The Lecturecast also introduced myself to the xxxx.
 
 
 ### References
