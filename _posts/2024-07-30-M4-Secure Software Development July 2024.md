@@ -130,6 +130,16 @@ Unit 1 also provided a lecturecast that provided an introduction to Secure Softw
 Core Text: Pillai, A.B. (2017) Software Architecture with Python. Birmingham, UK. Packt Publishing Ltd.
 
 
+*Royce, W. W. (1970) Managing the Development of Large Software Systems.
+
+*OMG (2017) Unified Modelling Language, Version 2.5.1.
+
+*Pohl, C. & Hof, H-J. (2015) Secure Scrum: Development of Secure Software with Scrum, in Proc. of the 9th International Conference on Emerging Security Information, Systems and Technologies.
+
+*ISO/IEC (2018) ISO/IEC Standard 27000 Section 3.
+
+
+
 
 
 
