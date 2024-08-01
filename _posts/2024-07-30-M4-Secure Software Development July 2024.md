@@ -25,7 +25,7 @@ We begun the module with background core reading. Unit 1 reading covered two key
 
 ![Module Core Reading](/Modules/4/img/1.png)
 
-- **Figure 1**: Module Core Reading (Pillai, 2017)
+- **Figure 2**: Module Core Reading (Pillai, 2017)
 
 #### Principles of Software Architecture
 - Defining software architecture: According to Pillai (2017), software architecture is a description of the subsystems or components of a software
@@ -118,12 +118,61 @@ Common examples include Cross-Site-Scripting(XSS), SQL Injections and Shel Execu
 **Secure coding strategies**
 
 
-![Lecturecast: Introduction to Secure Software Development](/Modules/4/img/3.png)
-
-- **Figure 4**: Lecturecast: Introduction to Secure Software Development (University of Essex Online, 2024)
 
 
-Unit 1 also provided a lecturecast that provided an introduction to Secure Software Development. Through the lecturecast I learnt a number of key terminology used in xxx, and further developed my understanding on xxx definitions by looking at the evolution of the definition over time and how context and situation influences the definition. The Lecturecast also introduced myself to the xxxx.
+Unit 1 also provided a lecturecast that provided an introduction to Secure Software Development. 
+
+![Lecturecast 1: Introduction to Secure Software Development](/Modules/4/img/4.png)
+
+- **Figure 4**: Lecturecast 1: Introduction to Secure Software Development (University of Essex Online, 2024)
+
+The lecturecast begun with areminder of the improtance of cyber crime as a problem today.
+
+
+![Lecturecast 1: Cost of Cybercrime by Vector](/Modules/4/img/5.png)
+
+- **Figure 5**: Lecturecast 1: Cost of Cybercrime by Vector (University of Essex Online, 2024)
+
+I then learnt more about OWASP and the benefits of following OWASP best practices during application design.
+
+![Lecturecast 1: OWASP Top 10 Proactive Controls](/Modules/4/img/6.png)
+
+- **Figure 6**: Lecturecast 1: OWASP Top 10 Proactive Controls (University of Essex Online, 2024)
+
+The lecturecast also helped me to gain an understanding of the differences between the predictive (Waterfall) and adaptive (Agile) approaches to software development
+
+
+![Lecturecast 1: Software Development Lifecycles](/Modules/4/img/8.png)
+
+- **Figure 7**: Lecturecast 1: Software Development Lifecycles (University of Essex Online, 2024)
+
+This included an appreciation of the challenges of integrating security practices into both the adaptive and predictive approaches to software development
+
+![Lecturecast 1: Challenges with Waterfall](/Modules/4/img/9.png)
+
+- **Figure 8**: Lecturecast 1: Challenges with Waterfall (University of Essex Online, 2024)
+
+
+![Lecturecast 1: Challenges with Agile](/Modules/4/img/10.png)
+
+- **Figure 9**: Lecturecast 1: Challenges with Agile (University of Essex Online, 2024)
+
+
+![Lecturecast 1: Design Patterns](/Modules/4/img/12.png)
+
+- **Figure 10**: Lecturecast 1: BDesign Patterns (University of Essex Online, 2024)
+
+![Lecturecast 1: Benefits of design patterns](/Modules/4/img/11.png)
+
+- **Figure 11**: Lecturecast 1: Benefits of design patterns (University of Essex Online, 2024)
+
+Finally, I also learnt about Unified Modelling Language (UML), inlcuding how UML is alligned to SDLC.
+
+![Lecturecast 1: Relating UML Models to SDLC](/Modules/4/img/7.png)
+
+- **Figure 12**: Lecturecast 1: Relating UML Models to SDLC (University of Essex Online, 2024)
+
+
 
 
 ### References
