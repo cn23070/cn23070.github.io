@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Module4: Secure Software Development July 2024
+title: Secure Software Development July 2024
 subtitle: Learn about security risks which are associated with programming languages, from the perspectives of design and architecture approaches 
 categories: Module_4
 tags: [Module 4]
