@@ -112,14 +112,6 @@ Common examples include Cross-Site-Scripting(XSS), SQL Injections and Shel Execu
 °° Serializing objects
 °° Security issues with web applications
 
-
-**Strategies for Security – Python**
-
-**Secure coding strategies**
-
-
-
-
 Unit 1 also provided a lecturecast that provided an introduction to Secure Software Development. 
 
 ![Lecturecast 1: Introduction to Secure Software Development](/Modules/4/img/4.png)
@@ -171,6 +163,39 @@ Finally, I also learnt about Unified Modelling Language (UML), inlcuding how UML
 ![Lecturecast 1: Relating UML Models to SDLC](/Modules/4/img/7.png)
 
 - **Figure 12**: Lecturecast 1: Relating UML Models to SDLC (University of Essex Online, 2024)
+
+
+
+### Unit 2
+
+During unit 2 I gained some experiance creating Uniﬁed Modelling Language (UML) flowcharts in order to assist in the design of software. UML, a consolidation of the best practices refined over time, provides a way to present the diverse elements of a software system (e.g., requirements, data structures, data ﬂows, and information ﬂows) within a single framework (Seidl et al., 2015). 
+
+![Module 2 Activity: Collaborative Discussion: UML flowchart](/Modules/4/img/13.png)
+- **Figure x**: Collaborative Discussion: UML flowchart (University of Essex Online, 2024)
+
+We got to select a UML model to try. Once done we then uploaded them for peer review and had a collaborative discussion around them.
+
+During the live seminar we learnt mroe on how to align secure coding best practice to the agile development methodology, and familiarised ourselves with ISO 27000 by posting a blog using the ISO terminology.
+
+![Module 2 Activity: Unit 2 Seminar Blog Post](/Modules/4/img/14.png)
+- **Figure x**: Unit 2 Seminar Blog Post (University of Essex Online, 2024)
+
+### Unit 3: Introduction to Programming Languages
+
+During unit 3 we spent time investigating programming languages including the history, concepts and design that led to the languages we have today. 
+
+We completed a lecturecast on Programming Languages and Testing. The lecturecast helped me to better describe some key milestones in the development of programming languages, be able to outline some of the key paradigms that define the different types of languages, and describe the different testing strategies and when to apply them.
+
+![Lecturecast 2: Programming Languages and Testing](/Modules/4/img/14.png)
+
+- **Figure 4**: Lecturecast 2: Programming Languages and Testing (University of Essex Online, 2024)
+
+
+
+**Strategies for Security – Python**
+
+**Secure coding strategies**
+
 
 
 
