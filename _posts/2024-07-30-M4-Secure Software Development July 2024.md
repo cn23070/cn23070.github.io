@@ -190,10 +190,24 @@ We completed a lecturecast on Programming Languages and Testing. The lecturecast
 
 - **Figure 4**: Lecturecast 2: Programming Languages and Testing (University of Essex Online, 2024)
 
+![Lecturecast 2: History](/Modules/4/img/18.png)
+
+- **Figure 4**: Lecturecast 2: History (University of Essex Online, 2024)
+
 
 ![Lecturecast 2: Testing](/Modules/4/img/16.png)
 
 - **Figure 4**: Lecturecast 2: Testing (University of Essex Online, 2024)
+
+![Lecturecast 2: Blackbox & Whitebox Testing](/Modules/4/img/17.png)
+
+- **Figure 4**: Lecturecast 2: Blackbox & Whitebox Testing (University of Essex Online, 2024)
+
+Some key learning include:
+
+- Test early into the development process, and test often throughout the life cycle (OWASP)
+- Think like the attacker when defining tests
+- Ues frameworks like UML to ensure use cases are understood and agreed
 
 
 
