@@ -219,9 +219,35 @@ Finally we submitted our team project assignment, a high-level design document. 
 ### Unit 4: Introduction to Testing
 
 
+During unit 4 I gained experiance with using linters for testing Python code. We ran pylint against a number of python scripts and learnt how it tests for errors in the code and returns the results.
+
+- **Figure 4**: Running Pylint (Pylint 3.3.0-dev0 documentation, 2024)
+
+![Running Pylint](/Modules/4/img/20.png)
 
 
 ### Unit 5: Future trends in Secure Software Development
+
+We then moved onto looking to the future trends in the areas of secure design, development, programming languages and operating systems. 
+
+We began with a lecturecast on the topic
+
+![Lecturecast 3: Future Trends](/Modules/4/img/21.png)
+
+- **Figure 4**: Lecturecast 2: Future Trends (University of Essex Online, 2024)
+
+Here I learnt about future trends in this space including Blockchain, Fog Computing, the Internet of Things and Cyber Physical Systems.
+
+I found the overview of blockchain interesting and insightful. Blockchain is a relatively new technology that brings together encryption, distributed peer-to-peer networks and consensus mechanisms. If the technology can overcome its cost, it has the potential to disrupt a number of industries including healthcare and finance, and will likely become a significant technology disruptor over time.
+
+![Lecturecast 3: Blockchain](/Modules/4/img/22.png)
+
+- **Figure 4**: Lecturecast 2: Blockchain (University of Essex Online, 2024)
+
+![Lecturecast 3: Fog Computing](/Modules/4/img/23.png)
+
+- **Figure 4**: Lecturecast 2: Fog Computing (University of Essex Online, 2024)
+
 
 ### Unit 6: The Security of Programming Languages Debate
 
