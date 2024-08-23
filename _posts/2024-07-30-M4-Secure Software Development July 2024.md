@@ -186,9 +186,15 @@ During unit 3 we spent time investigating programming languages including the hi
 
 We completed a lecturecast on Programming Languages and Testing. The lecturecast helped me to better describe some key milestones in the development of programming languages, be able to outline some of the key paradigms that define the different types of languages, and describe the different testing strategies and when to apply them.
 
-![Lecturecast 2: Programming Languages and Testing](/Modules/4/img/14.png)
+![Lecturecast 2: Programming Languages and Testing](/Modules/4/img/15.png)
 
 - **Figure 4**: Lecturecast 2: Programming Languages and Testing (University of Essex Online, 2024)
+
+
+![Lecturecast 2: Testing](/Modules/4/img/16.png)
+
+- **Figure 4**: Lecturecast 2: Testing (University of Essex Online, 2024)
+
 
 
 
