@@ -17,7 +17,7 @@ tags: [Module 4]
 - **Figure 1**: Module Introduction (University of Essex Online, 2024)
 
 
-### Units 1
+### Unit 1: Introduction to Secure Software Development
 
 We begun the module with background core reading. Unit 1 reading covered two key topics:
 - Principles of Software Architecture
@@ -166,7 +166,7 @@ Finally, I also learnt about Unified Modelling Language (UML), inlcuding how UML
 
 
 
-### Unit 2
+### Unit 2 UML Modelling to Support Secure System Planning
 
 During unit 2 I gained some experiance creating Uniﬁed Modelling Language (UML) flowcharts in order to assist in the design of software. UML, a consolidation of the best practices refined over time, provides a way to present the diverse elements of a software system (e.g., requirements, data structures, data ﬂows, and information ﬂows) within a single framework (Seidl et al., 2015). 
 
@@ -207,10 +207,23 @@ Some key learning include:
 
 - Test early into the development process, and test often throughout the life cycle (OWASP)
 - Think like the attacker when defining tests
-- Ues frameworks like UML to ensure use cases are understood and agreed
+- Leverage frameworks like UML to ensure use cases are understood and agreed
+- Include the following into your testing techniques: developer interviews, threat modelling, source code reviews and penetration testing (white and black)
+
+Finally we submitted our team project assignment, a high-level design document. The design was for a proposed application, which provides secure storage, integrity validation, and role-based access control for music-related artefacts including lyrics, music scores, and recordings.
+
+- **Figure 4**: Assignment 1: Design Document (University of Essex Online, 2024)
+
+![Assignment 1: Design Document](/Modules/4/img/19.png)
+
+### Unit 4: Introduction to Testing
 
 
 
+
+### Unit 5: Future trends in Secure Software Development
+
+### Unit 6: The Security of Programming Languages Debate
 
 **Strategies for Security – Python**
 
