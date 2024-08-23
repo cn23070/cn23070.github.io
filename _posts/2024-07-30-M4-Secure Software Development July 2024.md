@@ -251,6 +251,12 @@ I found the overview of blockchain interesting and insightful. Blockchain is a r
 
 ### Unit 6: The Security of Programming Languages Debate
 
+ During the final unit, we researched the security properties of todays programming languages. We worked through the strengths and weaknesses of programming languages from the security perspective, and the ways in which they may need to be extended.In particular we compared the stregths and weaknesses of Python against Rust, Swift and F#.
+ 
+ ADD ARTIFACT HERE
+ 
+ We also submitted our final assignment, which required us to implement the application which you designed in Unit 3 using Python. 
+
 **Strategies for Security – Python**
 
 **Secure coding strategies**
