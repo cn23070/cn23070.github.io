@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Module 4 Development Individual Project: Coding Output September 2024
+title: Module 4 End of Module Assignment
 subtitle: Module 4 Secure Software Development July 2024 
 categories: Module_4
-tags: [Module 4, Secure Coding, Python]
+tags: [Module 4]
 ---
 
 ## **Introduction**
