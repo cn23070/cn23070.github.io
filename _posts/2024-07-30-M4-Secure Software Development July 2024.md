@@ -7,7 +7,7 @@ tags: [Module 4]
 ---
 	
 
-## 🔗 Links
+## 🔗 Links ##
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://cn23070.github.io/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/craig-norris-3b787610/)
 
@@ -38,7 +38,6 @@ Finally, unit 1 provided a lecturecast on secure development.
 - **Figure 4**: Lecturecast 1: Introduction to Secure Software Development (University of Essex Online, 2024)
 
 The lecturecast begun with areminder of the improtance of cyber crime as a problem today.
-
 
 ![Lecturecast 1: Cost of Cybercrime by Vector](/Modules/4/img/5.png)
 
