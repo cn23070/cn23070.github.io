@@ -157,13 +157,21 @@ We also submitted the final assignments that required us to implement the applic
 Learning how to code and test an application using Python was fun, challenging, insightful and something I will take away as a new skillset to use during my current cyber work activities.
 
 
+## Module 4: Artefacts ##
+
+
+| Parameter                                      | Type                        | Description                                                                                                       | References                 |
+| :--------                                      | :-------                    | :--------------------------                                                                                       | :------------------------- |
+| `Development Team Project: Design Document` | `Report`| Produce an application design for a secure enclave to store lyrics, music scores and musical recordings on behalf of copyright owners and performers.| [View Essay](https://essexuniversity-my.sharepoint.com/:w:/g/personal/cn23070_essex_ac_uk/xxx) |
+| `Development Individual Project: Coding Output` | `Code` | Using Python, implement the secure media application as per design (see design document artifact). | [View Application](https://essexuniversity-my.sharepoint.com/:u:/g/personal/cn23070_essex_ac_uk/EVVyq1UGgw1GqnhW8-ZmxVABs3Oe0mGVCOBJlCnoCv1nFg)| 
+| `Development Individual Project: README` | `Read Me` | Using Python, implement the application designed earlier (see design document artifact). | [View README File (DOC)](https://essexuniversity-my.sharepoint.com/:w:/g/personal/cn23070_essex_ac_uk/EW2xkEqAr8BFret9P3AVbyQBrUwlmwLVM23al4btFuELyw)|
+| `Individual Reflective Submission`    | `Essay` | Produce a summary report covering the learnings and reflections from module 4. | [View Essay](https://essexuniversity-my.sharepoint.com/:w:/g/personal/cn23070_essex_ac_uk/EcakW1itfi1PpZgewy2kGZkBMctFBkJ8qWICZHc-YU6miw)|
+| `e-Portfolio Submission`    | `Website` | Produce a e-Portfolio covering the learnings from module 4. | [View Website](https://essexuniversity-my.sharepoint.com/:w:/g/personal/cn23070_essex_ac_uk/xxx)|
+| `Colab Entry: Raw MD Notebook File`    | `ipynb file` | Backup of the README file this module | [View File](https://essexuniversity-my.sharepoint.com/:t:/g/personal/cn23070_essex_ac_uk/xxx)|
 
 
 
-
-
-
-References
+## References ## 
 
 Core Text: Pillai, A.B. (2017) Software Architecture with Python. Birmingham, UK. Packt Publishing Ltd.
 
@@ -181,20 +189,24 @@ University of Essex Online. (2024). Uni Unit 6: The Security of Programming Lang
 
 
 
+## Module 4: Learning Scope & Objectives
+
+*“All human endeavours involve uncertainty and risk.”(Olson, D.L. & Desheng D.W, 2020)*
+
+- Acquire a critical understanding of the concept of abstraction in programming.
+- Develop an understanding of the basic principles of secure development methodologies.
+- Explore how to undertake analysis, program design, software construction and testing required for software development.
+- Demonstrate an understanding of the basic principles of architecture, as well as traditional and contemporary Software Development Life Cycle (SDLC) models, such as TOGAF and Agile.
+- The ability to put into practice the techniques learned in a team environment, demonstrating how to deal with conflicts and how to make compromises, and be able to critically evaluate the effectiveness of the approaches.
+- Utilise the opportunity to reflect on and evaluate your own personal development.
+- Identify and manage security risks as part of a software development project.
+- Critically analyse development problems and determine appropriate methodologies, tools and techniques (including program design and development) to solve them.
+- Design and develop/adapt computer programs and to produce a solution that meets the design brief and critically evaluate solutions that are produced.
+- Systematically develop and implement the skills required to be effective member of a development team in a virtual professional environment, adopting real-life perspectives on team roles and organisation.
 
 
+##Notes##
 
-
-
-
-
-
-
-
-
-
-
-When taking on the module Secure Software Development, I was excited to learn more about industry best pratice for secure coding, but also apprehensive about coding and testing an application in Python knowing I have little coding experiance to date.
 
 ### Unit 1: Introduction to Secure Software Development
 
@@ -415,157 +427,5 @@ I found the overview of blockchain interesting and insightful. Blockchain is a r
 **Strategies for Security – Python**
 
 **Secure coding strategies**
-
-
-
-
-
-### References
-Core Text: Pillai, A.B. (2017) Software Architecture with Python. Birmingham, UK. Packt Publishing Ltd.
-
-
-*Royce, W. W. (1970) Managing the Development of Large Software Systems.
-
-*OMG (2017) Unified Modelling Language, Version 2.5.1.
-
-*Pohl, C. & Hof, H-J. (2015) Secure Scrum: Development of Secure Software with Scrum, in Proc. of the 9th International Conference on Emerging Security Information, Systems and Technologies.
-
-*ISO/IEC (2018) ISO/IEC Standard 27000 Section 3.
-
-
-
-
-
-
-
-
-	
-## Module 4: Summary Reflection
-
-xxx
-
-
-
-
-
-## Module 4: Learning Scope & Objectives
-
-*“All human endeavours involve uncertainty and risk.”(Olson, D.L. & Desheng D.W, 2020)*
-
-- Acquire a critical understanding of the concept of abstraction in programming.
-- Develop an understanding of the basic principles of secure development methodologies.
-- Explore how to undertake analysis, program design, software construction and testing required for software development.
-- Demonstrate an understanding of the basic principles of architecture, as well as traditional and contemporary Software Development Life Cycle (SDLC) models, such as TOGAF and Agile.
-- The ability to put into practice the techniques learned in a team environment, demonstrating how to deal with conflicts and how to make compromises, and be able to critically evaluate the effectiveness of the approaches.
-- Utilise the opportunity to reflect on and evaluate your own personal development.
-- Identify and manage security risks as part of a software development project.
-- Critically analyse development problems and determine appropriate methodologies, tools and techniques (including program design and development) to solve them.
-- Design and develop/adapt computer programs and to produce a solution that meets the design brief and critically evaluate solutions that are produced.
-- Systematically develop and implement the skills required to be effective member of a development team in a virtual professional environment, adopting real-life perspectives on team roles and organisation.
-
-## Module 4: Artefacts
-
-
-| Parameter                                      | Type                        | Description                                                                                                       | References                 |
-| :--------                                      | :-------                    | :--------------------------                                                                                       | :------------------------- |
-| `Development Team Project: Design Document` | `Report`| Produce an application design for a secure enclave to store lyrics, music scores and musical recordings on behalf of copyright owners and performers.| [View Essay](https://essexuniversity-my.sharepoint.com/:w:/g/personal/cn23070_essex_ac_uk/xxx) |
-| `Development Individual Project: Coding Output` | `Code` | Using Python, implement the application designed earlier (see design document artifact). | [View ip](https://essexuniversity-my.sharepoint.com/:w:/g/personal/cn23070_essex_ac_uk/xxx)| 
-| `Development Individual Project: README`    | `Read Me` | Using Python, implement the application designed earlier (see design document artifact). | [View README File](https://essexuniversity-my.sharepoint.com/:w:/g/personal/cn23070_essex_ac_uk/xxx)|
-| `Individual Reflective Submission`    | `Essay` | Produce a summary report covering the learnings from module 4. | [View Essay](https://cn23070.github.io/module_3/2024/07/12/M3-Security-and-Risk-Management-April-2024.html)|
-| `Individual Reflective Submission`    | `Website` | Produce a e-Portfolio covering the learnings from module 4. | [View Website](https://essexuniversity-my.sharepoint.com/:w:/g/personal/cn23070_essex_ac_uk/xxx)|
-| `Backup: e-Portfolio Submission Post Raw MD File`    | `MD file` | Backup of the E-Portfolio Post for this module | [View File](https://essexuniversity-my.sharepoint.com/:t:/g/personal/cn23070_essex_ac_uk/xxx)|
-
-
-####Notes
-
-##### Principles of Software Architecture
-- Defining software architecture: According to Pillai (2017), software architecture is a description of the subsystems or components of a software
-system, and the relationships between them.
-
-**Software architecture versus design**
-
-Although used interchangeably, Pillai (2017) argues that there are distinctions:
- 
-- Software Architecture (higher abstraction / larger scope) is about the design of the entire system.
-	- It covers the higher level structures and interactions of the system and is closer to questions about the systems functional, technical, organizational, business and quality attributes, 
-
-- Wheras Software Design covers the organization of parts of the sub system and system invovled in making the system
-	 - Mostly about the details of the subsystems
-	 - It is closer to questions around the code itself
-
-• Aspects of software architecture include a System(collection of components orangazed in such a way as to achieve a specific function), Structure (set of software or hardware elements grouped together accordign to a guiding principle), Enviroment (context(technical, business, operational ...) or circumstances in which a system is built), and Stakeholders (person(s0 who is interested in or concered about the success of the system.))
-
-**Characteristics of software architecture**
-
-An Architecture of a system: 
-
-- is represented as structual details. of the sytem, often depicted using a class diagram
-- picks a core set of elements and does not setout to document everything about every component of the system
-- captures early design decisions based on requirements and constraints of its context. These decisionsplay a major role in further development
-- manages stakeholders requirements
-- influences the organizational structure
-- is influenced by its enviroment. The envioment often imposes limits that the architecture must function within.
-- documents the system (stakeholders, requirements, decisions) and often conforms to a pattern (architecture patterns include client server, pipes and filters ect..)
-
-**Why is software architecture important?**
-- A number of reasons including technical aspects such as helping manage changes, ensuring component based design, and facilitates early prototyping. I also an architecture balances and optimizes stakeholder requirements and formalises it, helping ensure good documentation best pratice as well as producing a system that is etensible and moifiable.
-
-
-**System versus Enterprise Architecture**
-
-"Enterprise Architecture is a conceptual blueprint that defines the structure and behavior of an organization. It determines how the organization's structure,
-processes, personnel and flow of information is aligned to its core goals to efficiently achieve its current and future objectives."
-
-"A system architecture is the fundamental organization of a system, represented by its structural and behavioral views. The structure is determined by the components of the system and the behavior by the relationships between them and their interaction with external systems."
-
-![Scope and focus of various architect roles](/Modules/4/img/2.png)
-
-- **Figure 3**: Scope and focus of various architect roles (Pillai, 2017)
-
-**Architectural quality attributes**
-
-"A quality attribute is a measurable and testable property of a system which can be used to evaluate the performance of a system within its prescribed environment with respect to its non-functional aspects".(Pillai, 2017)
-
-°° Modifiability: the ease with which changes can be made to a system, and the flexibility with which the system adjusts to the changes
-°° Testability: how much a software system is amenable to demonstrating its faults through testing
-°° Scalability/performance: capacity to accommodate increasing workload on demand while keeping its performance within acceptable limits
-°° Availability: the property of readiness of a software system to carry out its operations when the need arises.
-°° Security: in the software domain, can be defined as the degree of ability of a system to avoid damage to its data and logic from unauthenticated access, while continuing to provide services to other systems and roles that are properly authenticated.
-°° Deployability: the degree of ease with which software can be taken from the development to the production environment. 
-
-
-We also reviewed our first case study, a paper by Kovaitė and Stankevičienė (2019),that illustrates some of the risks introduced by industry 4.0 when applying digitalisation to more traditional business processes. The study also covered a methodology for carrying out the risk assessment of the digitalisation process as well as some common definitions of risk.
-
-##### Writing Secure Code
-
-**Information security architecture**
-A secure architecture involves creating a system that is able to provide access to data and information to authorized people and systems while preventing any unauthorized access.(Pillai, 2017)
-
-You protect the CIA of the system and its data through security mechanisms such as authetication, authorization and non-reputability
-
-**Secure coding**
-
-Secure coding is the practice of software development that guards programs against security vulnerabilities, and makes it resistant to malicious attacks right from program design to implementation.(Pillai, 2017). It is important to identify assets of value (code/data), then decompose the application into components followed by identifying and categorizing threats to each asset or component and ranking the threats following a risk model. You should then develop strategies to mitigate the identifed threats
-
-**Common security vulnerabilities**
-
-*Overflow errors* such as *buffer overflow*(attackers take control of systems by gaining access to teh systems application stack or heap memory due to code error allowing an application to write past the end of a buffer), and *Integer or arithmetic overflow* (an operation on an integerproduces a result that is too large to be used or stored)
-
-*Lack of validated input* (comon security issue on web application where unvalidated input is injected by an attacker, tricking the system into accepting malicious code or system commands leading to system compromise)
-Common examples include Cross-Site-Scripting(XSS), SQL Injections and Shel Execution Exploits.
-
-*Poor Access control* (lack of seperation of super user rights between user groups may be leveraged by an attacker through things like exposed routes (URLs) or workflows)
-
-**Is Python secure?**
-°° Reading input
-°° Evaluating arbitrary input
-°° Overflow errors
-°° Serializing objects
-°° Security issues with web applications
-
-
-
-
-
 
 
