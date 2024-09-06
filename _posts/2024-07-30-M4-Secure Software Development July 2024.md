@@ -11,10 +11,188 @@ tags: [Module 4]
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://cn23070.github.io/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/craig-norris-3b787610/)
 
+###**Introduction**### 
+
+When taking on the module Secure Software Development, I was excited to learn more about developing secure applications, but also apprehensive about any coding knowledge required as I had little coding experience to date.
 
 ![Module Introduction](/Modules/4/img/3.png)
 
 - **Figure 1**: Module Introduction (University of Essex Online, 2024)
+
+####**Unit 1**####
+
+We began with background research around the principles of software architecture and secure coding with python. 
+
+![Module Core Reading](/Modules/4/img/1.png)
+
+- **Figure 2**: Module Core Reading (Pillai, 2017)
+
+The reading provided clarification on the difference between software architecture and software design. According to Pillai (2017), software architecture is a description of a software system, and the relationships between them. Software Design covers the organization of parts of the sub system involved in making the system. 
+
+We also covered secure coding including common vulnerabilities to address such as overflow errors, lack of validation input and poor access controls. 
+
+Finally, unit 1 provided a lecturecast on secure development.
+
+![Lecturecast 1: Introduction to Secure Software Development](/Modules/4/img/4.png)
+
+- **Figure 4**: Lecturecast 1: Introduction to Secure Software Development (University of Essex Online, 2024)
+
+The lecturecast begun with areminder of the improtance of cyber crime as a problem today.
+
+
+![Lecturecast 1: Cost of Cybercrime by Vector](/Modules/4/img/5.png)
+
+- **Figure 5**: Lecturecast 1: Cost of Cybercrime by Vector (University of Essex Online, 2024)
+
+I then learnt more about OWASP and the benefits of following OWASP best practices during application design.
+
+![Lecturecast 1: OWASP Top 10 Proactive Controls](/Modules/4/img/6.png)
+
+- **Figure 6**: Lecturecast 1: OWASP Top 10 Proactive Controls (University of Essex Online, 2024)
+
+####**Unit 2**#### 
+
+Unit 2 continued building on UML knowledge, providing practical skills in the creation of UML flow charts through a blog activity. We submitted a UML diagram for a given scenario and then took and provided feedback from our peers. The feedback I received was positive and I enjoyed their expansive input to my initial justification post.
+
+![Module 2 Activity: Collaborative Discussion: UML flowchart](/Modules/4/img/13.png)
+- **Figure x**: Collaborative Discussion: UML flowchart (University of Essex Online, 2024)
+
+We got to select a UML model to try. Once done we then uploaded them for peer review and had a collaborative discussion around them.
+
+During the live seminar we learnt mroe on how to align secure coding best practice to the agile development methodology, and familiarised ourselves with ISO 27000 by posting a blog using the ISO terminology.
+
+![Module 2 Activity: Unit 2 Seminar Blog Post](/Modules/4/img/14.png)
+- **Figure x**: Unit 2 Seminar Blog Post (University of Essex Online, 2024)
+
+
+
+####**Unit 3**####
+
+The next unit took us through programming languages in detail via a lecturecast that looked at the history, concepts and design that led to the languages in use today.
+
+![Lecturecast 2: Programming Languages and Testing](/Modules/4/img/15.png)
+
+- **Figure 4**: Lecturecast 2: Programming Languages and Testing (University of Essex Online, 2024)
+
+![Lecturecast 2: History](/Modules/4/img/18.png)
+
+- **Figure 4**: Lecturecast 2: History (University of Essex Online, 2024)
+
+
+![Lecturecast 2: Testing](/Modules/4/img/16.png)
+
+- **Figure 4**: Lecturecast 2: Testing (University of Essex Online, 2024)
+
+![Lecturecast 2: Blackbox & Whitebox Testing](/Modules/4/img/17.png)
+
+- **Figure 4**: Lecturecast 2: Blackbox & Whitebox Testing (University of Essex Online, 2024)
+
+Some key learning include:
+
+- Test early into the development process, and test often throughout the life cycle (OWASP)
+- Think like the attacker when defining tests
+- Leverage frameworks like UML to ensure use cases are understood and agreed
+- Include the following into your testing techniques: developer interviews, threat modelling, source code reviews and penetration testing (white and black)
+
+We also submitted our first assignment, a team project that required us to submit a proposed design report for an application that can be used as a secure enclave to store lyrics, music scores and musical recordings. 
+
+- **Figure 4**: Assignment 1: Design Document (University of Essex Online, 2024)
+
+![Assignment 1: Design Document](/Modules/4/img/19.png)
+
+The project was fun, and our team worked well together to produce a quality submission, even though we faced time zone and business travel challenges.
+
+
+####**Unit 4**####
+
+Next, we learnt about testing software, both for general quality and security using Linters and Python. 
+
+We ran pylint against several python scripts and learnt how it tests for errors in the code and returns the results.
+
+- **Figure 4**: Running Pylint (Pylint 3.3.0-dev0 documentation, 2024)
+
+![Running Pylint](/Modules/4/img/20.png)
+
+
+####**Unit 5**####
+
+During unit 5 we researched the security properties of today’s programming languages. We worked through the strengths and weaknesses of programming languages from the security perspective, and the ways in which they may need to be extended. We compared the strengths and weaknesses of Python against Rust, Swift and F#.
+
+![Lecturecast 3: Future Trends](/Modules/4/img/21.png)
+
+- **Figure 4**: Lecturecast 2: Future Trends (University of Essex Online, 2024)
+
+DUring the lecturecast we also about future trends including Blockchain, Fog Computing, the Internet of Things and Cyber Physical Systems.
+
+I found the overview of blockchain interesting and insightful. Blockchain is a relatively new technology that brings together encryption, distributed peer-to-peer networks and consensus mechanisms. If the technology can overcome its cost, it has the potential to disrupt a number of industries including healthcare and finance, and will likely become a significant technology disruptor over time.
+
+![Lecturecast 3: Blockchain](/Modules/4/img/22.png)
+
+- **Figure 4**: Lecturecast 2: Blockchain (University of Essex Online, 2024)
+
+![Lecturecast 3: Fog Computing](/Modules/4/img/23.png)
+
+- **Figure 4**: Lecturecast 2: Fog Computing (University of Essex Online, 2024)
+
+
+####**Unit 6**####
+
+We then concluded the module by learning about future trends in the areas of secure design, development, programming languages and operating systems. 
+
+We also submitted the final assignments that required us to implement the application which we designed in Unit 3, as well provide a reflection report on the module overall.
+
+
+- **Figure 4**: Running Pylint (Pylint 3.3.0-dev0 documentation, 2024)
+
+![README File](/Modules/4/img/24.png)
+
+
+
+- **Figure 4**: Running Pylint (Pylint 3.3.0-dev0 documentation, 2024)
+
+![Running Application](/Modules/4/img/25.png)
+
+####**Conclusion**####
+
+Learning how to code and test an application using Python was fun, challenging, insightful and something I will take away as a new skillset to use during my current cyber work activities.
+
+
+
+
+
+
+
+
+References
+
+Core Text: Pillai, A.B. (2017) Software Architecture with Python. Birmingham, UK. Packt Publishing Ltd.
+
+University of Essex Online. (2024). Unit 1: Introduction to Secure Software Development, Secure Software Development July 2024. Available at: https://www.my-course.co.uk/course/view.php?id=12058&section=7 (Accessed: 5 September 2024).
+
+University of Essex Online. (2024). Unit 2: UML Modelling to Support Secure System Planning, Secure Software Development July 2024. Available at: https://www.my-course.co.uk/course/view.php?id=12058&section=8 (Accessed: 5 September 2024).
+
+University of Essex Online. (2024). Unit 3: Introduction to Programming Languages, Secure Software Development July 2024. Available at: https://www.my-course.co.uk/course/view.php?id=12058&section=9 (Accessed: 5 September 2024).
+
+University of Essex Online. (2024). Unit 4: Introduction to Testing, Secure Software Development July 2024. Available at: https://www.my-course.co.uk/course/view.php?id=12058&section=10 (Accessed: 5 September 2024).
+
+University of Essex Online. (2024). Unit 5: Future trends in Secure Software Development, Secure Software Development July 2024. Available at: https://www.my-course.co.uk/course/view.php?id=12058&section=11 (Accessed: 5 September 2024).
+
+University of Essex Online. (2024). Uni Unit 6: The Security of Programming Languages Debate, Secure Software Development July 2024. Available at: https://www.my-course.co.uk/course/view.php?id=12058&section=12 (Accessed: 5 September 2024).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 When taking on the module Secure Software Development, I was excited to learn more about industry best pratice for secure coding, but also apprehensive about coding and testing an application in Python knowing I have little coding experiance to date.
 
