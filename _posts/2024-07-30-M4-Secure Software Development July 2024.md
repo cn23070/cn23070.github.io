@@ -49,7 +49,7 @@ I then learnt more about OWASP and the benefits of following OWASP best practice
 
 - **Figure 6**: Lecturecast 1: OWASP Top 10 Proactive Controls (University of Essex Online, 2024)
 
-#### **Unit 2**
+####  Unit 2
 
 Unit 2 continued building on UML knowledge, providing practical skills in the creation of UML flow charts through a blog activity. We submitted a UML diagram for a given scenario and then took and provided feedback from our peers. The feedback I received was positive and I enjoyed their expansive input to my initial justification post.
 
@@ -65,7 +65,7 @@ During the live seminar we learnt mroe on how to align secure coding best practi
 
 
 
-####**Unit 3**####
+#### Unit 3
 
 The next unit took us through programming languages in detail via a lecturecast that looked at the history, concepts and design that led to the languages in use today.
 
@@ -102,7 +102,7 @@ We also submitted our first assignment, a team project that required us to submi
 The project was fun, and our team worked well together to produce a quality submission, even though we faced time zone and business travel challenges.
 
 
-####**Unit 4**####
+#### Unit 4
 
 Next, we learnt about testing software, both for general quality and security using Linters and Python. 
 
@@ -113,7 +113,7 @@ We ran pylint against several python scripts and learnt how it tests for errors 
 ![Running Pylint](/Modules/4/img/20.png)
 
 
-####**Unit 5**####
+#### Unit 5
 
 During unit 5 we researched the security properties of today’s programming languages. We worked through the strengths and weaknesses of programming languages from the security perspective, and the ways in which they may need to be extended. We compared the strengths and weaknesses of Python against Rust, Swift and F#.
 
@@ -134,7 +134,7 @@ I found the overview of blockchain interesting and insightful. Blockchain is a r
 - **Figure 4**: Lecturecast 2: Fog Computing (University of Essex Online, 2024)
 
 
-####**Unit 6**####
+#### Unit 6
 
 We then concluded the module by learning about future trends in the areas of secure design, development, programming languages and operating systems. 
 
@@ -151,12 +151,12 @@ We also submitted the final assignments that required us to implement the applic
 
 ![Running Application](/Modules/4/img/25.png)
 
-####**Conclusion**####
+#### Conclusion
 
 Learning how to code and test an application using Python was fun, challenging, insightful and something I will take away as a new skillset to use during my current cyber work activities.
 
 
-## Module 4: Artefacts ##
+## Module 4: Artefacts 
 
 
 | Parameter                                      | Type                        | Description                                                                                                       | References                 |
@@ -170,7 +170,7 @@ Learning how to code and test an application using Python was fun, challenging, 
 
 
 
-## References ## 
+## References 
 
 Core Text: Pillai, A.B. (2017) Software Architecture with Python. Birmingham, UK. Packt Publishing Ltd.
 
