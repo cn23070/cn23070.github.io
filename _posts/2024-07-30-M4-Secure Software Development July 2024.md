@@ -11,7 +11,7 @@ tags: [Module 4]
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://cn23070.github.io/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/craig-norris-3b787610/)
 
-##Introduction##
+## Introduction
 
 When taking on the module Secure Software Development, I was excited to learn more about developing secure applications, but also apprehensive about any coding knowledge required as I had little coding experience to date.
 
@@ -19,7 +19,7 @@ When taking on the module Secure Software Development, I was excited to learn mo
 
 - **Figure 1**: Module Introduction (University of Essex Online, 2024)
 
-####Unit 1
+#### Unit 1
 
 We began with background research around the principles of software architecture and secure coding with python. 
 
@@ -49,7 +49,7 @@ I then learnt more about OWASP and the benefits of following OWASP best practice
 
 - **Figure 6**: Lecturecast 1: OWASP Top 10 Proactive Controls (University of Essex Online, 2024)
 
-####**Unit 2**#### 
+#### **Unit 2**
 
 Unit 2 continued building on UML knowledge, providing practical skills in the creation of UML flow charts through a blog activity. We submitted a UML diagram for a given scenario and then took and provided feedback from our peers. The feedback I received was positive and I enjoyed their expansive input to my initial justification post.
 
