@@ -153,7 +153,7 @@ Next we submitted our end of module assignment. This involved selecting a securi
 
 ![README File](/Modules/5/img/xx.png)
 
-We then reflected on the module including 
+We then reflected on the learnings taken from the module, including looking at my final report (unit 6) vs. the proposal/design document (unit 3. 
 
 
 - **Figure 13**: Reflective Piece (University of Essex Online, 2024)
@@ -161,14 +161,9 @@ We then reflected on the module including
 ![Reflective Piece](/Modules/5/img/xx.png)
 
 
-
-- **Figure 4**: Running Pylint (Pylint 3.3.0-dev0 documentation, 2024)
-
-![Running Application](/Modules/5/img/xx.png)
-
 #### Conclusion
 
-Learning how to code and test an application using Python was fun, challenging, insightful and something I will take away as a new skillset to use during my current cyber work activities.
+Building on my learnings on how to code and test an application using Python was fun, challenging and insightful. The feedback from my peers was positive, constructive and actionable. I plan to take my further experiance of development and testing prototypes using python into my current cyber work activities.
 
 
 ## Module 5: Artefacts 
@@ -176,11 +171,11 @@ Learning how to code and test an application using Python was fun, challenging, 
 
 | Parameter                                      | Type                        | Description                                                                                                       | References                 |
 | :--------                                      | :-------                    | :--------------------------                                                                                       | :------------------------- |
-| `Development Team Project: Design Document` | `Report`| Produce an application design for a secure enclave to store lyrics, music scores and musical recordings on behalf of copyright owners and performers.| [View Essay](https://essexuniversity-my.sharepoint.com/:w:/g/personal/cn23070_essex_ac_uk/EaZmN6H9rCtHhfohFYtpdbUBDmccwuN3__P5FkGjI8z8kw) |
-| `Development Individual Project: Coding Output` | `Code` | Using Python, implement the secure media application as per design (see design document artifact). | [View Application](https://essexuniversity-my.sharepoint.com/:u:/g/personal/cn23070_essex_ac_uk/EVVyq1UGgw1GqnhW8-ZmxVABs3Oe0mGVCOBJlCnoCv1nFg)| 
-| `Development Individual Project: README` | `Read Me` | Using Python, implement the application designed earlier (see design document artifact). | [View README File (DOC)](https://essexuniversity-my.sharepoint.com/:w:/g/personal/cn23070_essex_ac_uk/EW2xkEqAr8BFret9P3AVbyQBrUwlmwLVM23al4btFuELyw)|
-| `Individual Reflective Submission`    | `Essay` | Produce a summary report covering the learnings and reflections from module 4. | [View Essay](https://essexuniversity-my.sharepoint.com/:w:/g/personal/cn23070_essex_ac_uk/EcakW1itfi1PpZgewy2kGZkBMctFBkJ8qWICZHc-YU6miw)|
-| `e-Portfolio Submission`    | `Website` | Produce a e-Portfolio covering the learnings from module 4. | [View Website](https://cn23070.github.io/)|
+| `Development Team Project: Design Document` | `Report`| Produce a praposed design report for a Attack-Defence Tree (AD) that models the activities associated with the networked devices in a Systems of Systems (SoS)..| [View Essay](https://essexuniversity-my.sharepoint.com/:w:/g/personal/cn23070_essex_ac_uk/EaZmN6H9rCtHhfohFYtpdbUBDmccwuN3__P5FkGjI8z8kw) |
+| `Development Individual Project: Coding Output` | `Code` | Using Python, design and build a prototype system to investigate a selected problem – create a number of experiments to test the hypothesis, analyse your results. | [View Application](https://essexuniversity-my.sharepoint.com/:u:/g/personal/cn23070_essex_ac_uk/EVVyq1UGgw1GqnhW8-ZmxVABs3Oe0mGVCOBJlCnoCv1nFg)| 
+| `Development Individual Project: README` | `Read Me` | Produce a summary paper that discusses the problem / question, model, experiments, analysis and the conclusion addressed with the prototype. | [View README File (DOC)](https://essexuniversity-my.sharepoint.com/:w:/g/personal/cn23070_essex_ac_uk/EW2xkEqAr8BFret9P3AVbyQBrUwlmwLVM23al4btFuELyw)|
+| `Individual Reflective Submission`    | `Essay` | Produce a summary report covering the learnings and reflections from module 5. | [View Essay](https://essexuniversity-my.sharepoint.com/:w:/g/personal/cn23070_essex_ac_uk/EcakW1itfi1PpZgewy2kGZkBMctFBkJ8qWICZHc-YU6miw)|
+| `e-Portfolio Submission`    | `Website` | Produce a e-Portfolio covering the learnings from module 5. | [View Website](https://cn23070.github.io/)|
 | `Colab Entry: Raw MD Notebook File`    | `ipynb file` | Backup of the README file this module | [View File](https://essexuniversity-my.sharepoint.com/:u:/g/personal/cn23070_essex_ac_uk/EZyvTYklV31Ku9Cu47JZpLEBw7p0hT27OyrbaE37aXi0rg)|
 
 
