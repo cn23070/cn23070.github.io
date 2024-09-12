@@ -138,9 +138,14 @@ We then concluded the module by learning more about the challenges of assessing 
 The unit seminar was fun, we got to debate Formal Modelling vs. Automated Testing. My peers shared some great perspectives on this.
 
 
-- **Figure 12**: Development Individual Project: Code Development (Pylint 3.3.0-dev0 documentation, 2024)
+- **Figure 12**: Development Individual Project: Code Development (University of Essex Online, 2024)
 
 ![README File](/Modules/5/img/xx.png)
+
+
+- **Figure 13**: Reflective Piece (University of Essex Online, 2024)
+
+![Reflective Piece](/Modules/5/img/xx.png)
 
 
 
