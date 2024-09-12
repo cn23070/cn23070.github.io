@@ -2,8 +2,8 @@
 layout: post
 title: Module 5 Secure Systems Architecture September 2024
 subtitle: Introduction to the underpinning concepts and principles of Secure Systems Architecture (SSA). 
-categories: Module_4
-tags: [Module 4]
+categories: Module_5
+tags: [Module 5]
 ---
 	
 
