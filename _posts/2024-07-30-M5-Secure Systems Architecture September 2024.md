@@ -93,7 +93,7 @@ The project was fun, and our team worked well together to produce a quality subm
 
 #### Unit 4
 
-Next, we ltook on a fundamental question: Is Cybersecurity a science? Here I learnt what is meant by ‘Quality of Service’ when applied to distributed communications, and how to apply ‘The Scientific Method’ to Cybersecurity problems.
+Next, we ltook on a fundamental question: Is Cybersecurity a science? Here I learnt what is meant by ‘Quality of Service’ when applied to distributed communications, and how to apply ‘The Scientific Method’ to Cybersecurity problems. The seminar was a key contributor to being able to answer this question.
 
 
 ![Module Unit 4 Modelling of Distributed Systems](/Modules/5/img/8.png)
@@ -109,41 +109,44 @@ We completed a collaborative Discussion on Solutions to the NSA/ Science of Secu
 
 #### Unit 5
 
-During unit 5 we researched txxx
+During unit 5 we researched current and future challenges of Operating Systems and Distributed Systems.
 
-![Lecturecast 3: Future Trends](/Modules/4/img/21.png)
+![Module Unit 5 Current and Future Challenges of Operating Systems and Distributed Systems](/Modules/5/img/9.png)
 
-- **Figure 4**: Lecturecast 2: Future Trends (University of Essex Online, 2024)
+- **Figure 9**: Unit 5 Homepage (University of Essex Online, 2024)
 
-DUring the lecturecast we also about future trends including Blockchain, Fog Computing, the Internet of Things and Cyber Physical Systems.
+During the lecturecast we also about future trends including Blockchain, Fog Computing, the Internet of Things and Cyber Physical Systems.
 
 I found the overview of blockchain interesting and insightful. Blockchain is a relatively new technology that brings together encryption, distributed peer-to-peer networks and consensus mechanisms. If the technology can overcome its cost, it has the potential to disrupt a number of industries including healthcare and finance, and will likely become a significant technology disruptor over time.
 
-![Lecturecast 3: Blockchain](/Modules/4/img/22.png)
+![Lecturecast: Current and Future Challenges of Operating Systems and Distributed Systems](/Modules/4/img/10.png)
 
-- **Figure 4**: Lecturecast 2: Blockchain (University of Essex Online, 2024)
+- **Figure 10**: Lecturecast: Current and Future Challenges of Operating Systems and Distributed Systems (University of Essex Online, 2024)
 
-![Lecturecast 3: Fog Computing](/Modules/4/img/23.png)
-
-- **Figure 4**: Lecturecast 2: Fog Computing (University of Essex Online, 2024)
+I came away from this unit wit han appreciatiation of the challenges of running secure operating and distributed systems in the modern world.
 
 
 #### Unit 6
 
-We then concluded the module by learning about future trends in the areas of secure design, development, programming languages and operating systems. 
+We then concluded the module by learning more about the challenges of assessing and assuring the security of distributed systems and processes.
 
-We also submitted the final assignments that required us to implement the application which we designed in Unit 3, as well provide a reflection report on the module overall.
+![Module Unit 6 Formal Modelling vs. Automated Testing](/Modules/5/img/11.png)
+
+- **Figure 11**: Unit 6 Homepage (University of Essex Online, 2024)
+
+
+The unit seminar was fun, we got to debate Formal Modelling vs. Automated Testing. My peers shared some great perspectives on this.
+
+
+- **Figure 12**: Development Individual Project: Code Development (Pylint 3.3.0-dev0 documentation, 2024)
+
+![README File](/Modules/5/img/xx.png)
+
 
 
 - **Figure 4**: Running Pylint (Pylint 3.3.0-dev0 documentation, 2024)
 
-![README File](/Modules/4/img/24.png)
-
-
-
-- **Figure 4**: Running Pylint (Pylint 3.3.0-dev0 documentation, 2024)
-
-![Running Application](/Modules/4/img/25.png)
+![Running Application](/Modules/5/img/xx.png)
 
 #### Conclusion
 
