@@ -13,7 +13,7 @@ tags: [Module 5]
 
 ## Introduction
 
-Hot off the back of Secure Software Design, we moved onto the module Secure Software Architecture(SSA). This was another topic I started with minimal experiance at hand, and I was excited to learn more especially about distributed systems and operating systems including the role of virtualisation.
+Hot off the completion of module 4: Secure Software Design, we moved onto the module Secure Software Architecture(SSA). This was another topic I started with minimal experiance at hand, and I was excited to learn more especially about distributed systems and operating systems including the role of virtualisation.
 
 ![Module Introduction](/Modules/5/img/1.png)
 
@@ -45,9 +45,9 @@ We completed an individual formative exercise where we evaluated Alternative Ope
 
 Finally, we also completed a unit 1 lecturecast that introduced to Secure Systems Architecture.
 
-![Lecturecast 1: Introduction to Secure Systems Architecture](/Modules/5/img/4.png)
+![Lecturecast: Introduction to Secure Systems Architecture](/Modules/5/img/4.png)
 
-- **Figure 5**: Lecturecast 1: Introduction to Secure Systems Architecture (University of Essex Online, 2024)
+- **Figure 5**: Lecturecast: Introduction to Secure Systems Architecture (University of Essex Online, 2024)
 
 We learnt the difference between distributed systems and operating systems, how to define the type and functions of a typical operating system, and some basic understandings of the design approaches of secure distributed systems.
 
@@ -55,19 +55,25 @@ We learnt the difference between distributed systems and operating systems, how 
 
 ####  Unit 2
 
-Unit 2 continued building on xxx
+Unit 2 introduced me to a number of modelling tools and languages including threat modelling and SysML. We got to build on our python skills during coding exercises implementing a distributed communication system.
 
 ![Module Unit 2 Modelling and Socket Programming](/Modules/5/img/6.png)
 
 - **Figure 6**: Unit 2 Homepage (University of Essex Online, 2024)
 
 
-We got to select a UML model to try. Once done we then uploaded them for peer review and had a collaborative discussion around them.
+I learnt how to implement the sockets which support distributed computing using Python, with a client enabled in one process and a server enabled on the other.
 
-During the live seminar we learnt mroe on how to align secure coding best practice to the agile development methodology, and familiarised ourselves with ISO 27000 by posting a blog using the ISO terminology.
+![Module 5 Activity: Socket Programming](/Modules/5/img/13.png)
 
-![Module 5 Activity: Unit 2 Seminar Blog Post](/Modules/5/img/xx.png)
-- **Figure x**: Unit 2 Seminar Blog Post (University of Essex Online, 2024)
+- **Figure x**: Unit 2 Activity: Socket Programming (University of Essex Online, 2024)
+
+
+During the seminar I also learnt about the AD modelling tool and how to use it for threat modelling techniques to model the threats to a system.
+
+![Module Unit 2 ADTool](/Modules/5/img/12.png)
+
+- **Figure 6**: Unit 2 ADTool (Kordy and Schweitzer, 2012)
 
 
 
@@ -80,9 +86,13 @@ The next unit took us through xxx via
 
 - **Figure 7**: Unit 3 Homepage (University of Essex Online, 2024)
 
+The lecturecast taught me aspects of System Engineering. It explained the use of System modelling and describeb the different models available. I also learnt the differences between Distributed and Concurrent Systems
 
+![Lecturecast: Systems Engineering and Modelling](/Modules/5/img/14.png)
 
-We also submitted our first assignment, a team project that required us to submit a proposed design report for a Attack-Defence Tree (AD) that models the activities associated with the networked devices in a Systems of Systems (SoS). 
+- **Figure 5**: Lecturecast: Systems Engineering and Modelling (University of Essex Online, 2024)
+
+Finally submitted our first assignment, a team project that required us to submit a proposed design report for a Attack-Defence Tree (AD) that models the activities associated with the networked devices in a Systems of Systems (SoS). 
 
 - **Figure 8**: Assignment 1: Design Document (University of Essex Online, 2024)
 
@@ -187,6 +197,9 @@ University of Essex Online. (2024). Unit 4: Modelling of Distributed Systems, Se
 University of Essex Online. (2024). Unit 5: Current and Future Challenges of Operating Systems and Distributed Systems, Secure Systems Architecture September 2024. Available at: https://www.my-course.co.uk/course/view.php?id=12295&section=11 (Accessed: 12 September 2024).
 
 University of Essex Online. (2024). Unit 6: Formal Modelling vs. Automated Testing, Secure Systems Architecture September 2024. Available at: https://www.my-course.co.uk/course/view.php?id=12295&section=12 (Accessed: 12 September 2024).
+
+Piotr Kordy and Patrick Schweitzer. (2012)The ADTool. 
+Available at: http://satoss.uni.lu/members/piotr/ adtool/index.php (Accessed: 12 September 2024).
 
 
 
