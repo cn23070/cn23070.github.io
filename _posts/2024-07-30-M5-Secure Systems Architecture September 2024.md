@@ -103,7 +103,7 @@ The project was fun, and our team worked well together to produce a quality subm
 
 #### Unit 4
 
-Next, we ltook on a fundamental question: Is Cybersecurity a science? Here I learnt what is meant by ‘Quality of Service’ when applied to distributed communications, and how to apply ‘The Scientific Method’ to Cybersecurity problems. The seminar was a key contributor to being able to answer this question.
+Next, we took on a fundamental question: Is Cybersecurity a science? Here I learnt what is meant by ‘Quality of Service’ when applied to distributed communications, and how to apply ‘The Scientific Method’ to Cybersecurity problems. The seminar was a key contributor to being able to answer this question.
 
 
 ![Module Unit 4 Modelling of Distributed Systems](/Modules/5/img/8.png)
@@ -146,11 +146,14 @@ We then concluded the module by learning more about the challenges of assessing 
 
 
 The unit seminar was fun, we got to debate Formal Modelling vs. Automated Testing. My peers shared some great perspectives on this.
+Next we submitted our end of module assignment. This involved selecting a security problem, then designing and building a prototype system that investigated a selected problem, along with a analysis summary paper that discusse the question, model, experiments, analysis and the conclusion.
 
 
 - **Figure 12**: Development Individual Project: Code Development (University of Essex Online, 2024)
 
 ![README File](/Modules/5/img/xx.png)
+
+We then reflected on the module including 
 
 
 - **Figure 13**: Reflective Piece (University of Essex Online, 2024)
