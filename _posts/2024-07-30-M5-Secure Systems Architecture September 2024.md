@@ -37,92 +37,79 @@ The reading provided research in architectural tranformations in Distributed Sys
 
 Summary of reading learning here 
 
+We completed an individual formative exercise where we evaluated Alternative Operating Systems that helped build on operating system knowledge. I selected MS DOS.
+
+[Individual Formative Exercise: Evaluating Alternative Operating Systems](/Modules/5/img/5.png)
+
+- **Figure 4**: Individual Formative Exercise: Evaluating Alternative Operating Systems (University of Essex Online, 2024)
+
 Finally, we also completed a unit 1 lecturecast that introduced to Secure Systems Architecture.
 
 ![Lecturecast 1: Introduction to Secure Systems Architecture](/Modules/5/img/4.png)
 
-- **Figure 4**: Lecturecast 1: Introduction to Secure Systems Architecture (University of Essex Online, 2024)
+- **Figure 5**: Lecturecast 1: Introduction to Secure Systems Architecture (University of Essex Online, 2024)
 
 We learnt the difference between distributed systems and operating systems, how to define the type and functions of a typical operating system, and some basic understandings of the design approaches of secure distributed systems.
 
 
-![Lecturecast 1: Cost of Cybercrime by Vector](/Modules/4/img/5.png)
-
-- **Figure 5**: Lecturecast 1: Cost of Cybercrime by Vector (University of Essex Online, 2024)
-
-I then learnt more about OWASP and the benefits of following OWASP best practices during application design.
-
-![Lecturecast 1: OWASP Top 10 Proactive Controls](/Modules/4/img/6.png)
-
-- **Figure 6**: Lecturecast 1: OWASP Top 10 Proactive Controls (University of Essex Online, 2024)
 
 ####  Unit 2
 
-Unit 2 continued building on UML knowledge, providing practical skills in the creation of UML flow charts through a blog activity. We submitted a UML diagram for a given scenario and then took and provided feedback from our peers. The feedback I received was positive and I enjoyed their expansive input to my initial justification post.
+Unit 2 continued building on xxx
 
-![Module 2 Activity: Collaborative Discussion: UML flowchart](/Modules/4/img/13.png)
-- **Figure x**: Collaborative Discussion: UML flowchart (University of Essex Online, 2024)
+![Module Unit 2 Modelling and Socket Programming](/Modules/5/img/6.png)
+
+- **Figure 6**: Unit 2 Homepage (University of Essex Online, 2024)
+
 
 We got to select a UML model to try. Once done we then uploaded them for peer review and had a collaborative discussion around them.
 
 During the live seminar we learnt mroe on how to align secure coding best practice to the agile development methodology, and familiarised ourselves with ISO 27000 by posting a blog using the ISO terminology.
 
-![Module 2 Activity: Unit 2 Seminar Blog Post](/Modules/4/img/14.png)
+![Module 5 Activity: Unit 2 Seminar Blog Post](/Modules/5/img/xx.png)
 - **Figure x**: Unit 2 Seminar Blog Post (University of Essex Online, 2024)
 
 
 
 #### Unit 3
 
-The next unit took us through programming languages in detail via a lecturecast that looked at the history, concepts and design that led to the languages in use today.
-
-![Lecturecast 2: Programming Languages and Testing](/Modules/4/img/15.png)
-
-- **Figure 4**: Lecturecast 2: Programming Languages and Testing (University of Essex Online, 2024)
-
-![Lecturecast 2: History](/Modules/4/img/18.png)
-
-- **Figure 4**: Lecturecast 2: History (University of Essex Online, 2024)
+The next unit took us through xxx via 
 
 
-![Lecturecast 2: Testing](/Modules/4/img/16.png)
+![Module Unit 3 Systems Engineering and Modelling](/Modules/5/img/7.png)
 
-- **Figure 4**: Lecturecast 2: Testing (University of Essex Online, 2024)
+- **Figure 7**: Unit 3 Homepage (University of Essex Online, 2024)
 
-![Lecturecast 2: Blackbox & Whitebox Testing](/Modules/4/img/17.png)
 
-- **Figure 4**: Lecturecast 2: Blackbox & Whitebox Testing (University of Essex Online, 2024)
 
-Some key learning include:
+We also submitted our first assignment, a team project that required us to submit a proposed design report for a Attack-Defence Tree (AD) that models the activities associated with the networked devices in a Systems of Systems (SoS). 
 
-- Test early into the development process, and test often throughout the life cycle (OWASP)
-- Think like the attacker when defining tests
-- Leverage frameworks like UML to ensure use cases are understood and agreed
-- Include the following into your testing techniques: developer interviews, threat modelling, source code reviews and penetration testing (white and black)
+- **Figure 8**: Assignment 1: Design Document (University of Essex Online, 2024)
 
-We also submitted our first assignment, a team project that required us to submit a proposed design report for an application that can be used as a secure enclave to store lyrics, music scores and musical recordings. 
-
-- **Figure 4**: Assignment 1: Design Document (University of Essex Online, 2024)
-
-![Assignment 1: Design Document](/Modules/4/img/19.png)
+![Assignment 1: Design Document](/Modules/5/img/xx.png)
 
 The project was fun, and our team worked well together to produce a quality submission, even though we faced time zone and business travel challenges.
 
 
 #### Unit 4
 
-Next, we learnt about testing software, both for general quality and security using Linters and Python. 
+Next, we ltook on a fundamental question: Is Cybersecurity a science? Here I learnt what is meant by ‘Quality of Service’ when applied to distributed communications, and how to apply ‘The Scientific Method’ to Cybersecurity problems.
 
-We ran pylint against several python scripts and learnt how it tests for errors in the code and returns the results.
 
-- **Figure 4**: Running Pylint (Pylint 3.3.0-dev0 documentation, 2024)
+![Module Unit 4 Modelling of Distributed Systems](/Modules/5/img/8.png)
 
-![Running Pylint](/Modules/4/img/20.png)
+- **Figure 9**: Unit 4 Homepage (University of Essex Online, 2024)
+
+We completed a collaborative Discussion on Solutions to the NSA/ Science of Security Hard Problems. This activity helped me identify and critically analyse operating system risks and issues, and identify appropriate methodologies, tools and techniques to solve them.
+
+![Module 5 Activity: Unit 4 Seminar Blog Post](/Modules/5/img/xx.png)
+
+- **Figure 10**: Unit 4 Seminar Blog Post (University of Essex Online, 2024)
 
 
 #### Unit 5
 
-During unit 5 we researched the security properties of today’s programming languages. We worked through the strengths and weaknesses of programming languages from the security perspective, and the ways in which they may need to be extended. We compared the strengths and weaknesses of Python against Rust, Swift and F#.
+During unit 5 we researched txxx
 
 ![Lecturecast 3: Future Trends](/Modules/4/img/21.png)
 
