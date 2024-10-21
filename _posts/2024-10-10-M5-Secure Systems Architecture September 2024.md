@@ -66,14 +66,14 @@ I learnt how to implement the sockets which support distributed computing using 
 
 ![Module 5 Activity: Socket Programming](/Modules/5/img/13.png)
 
-- **Figure x**: Unit 2 Activity: Socket Programming (University of Essex Online, 2024)
+- **Figure 7**: Unit 2 Activity: Socket Programming (University of Essex Online, 2024)
 
 
 During the seminar I also learnt about the AD modelling tool and how to use it for threat modelling techniques to model the threats to a system.
 
 ![Module Unit 2 ADTool](/Modules/5/img/12.png)
 
-- **Figure 6**: Unit 2 ADTool (Kordy and Schweitzer, 2012)
+- **Figure 8**: Unit 2 ADTool (Kordy and Schweitzer, 2012)
 
 
 
@@ -84,26 +84,26 @@ Unit 3 introduced us to systems engineering and modelling techniques followed by
 
 ![Module Unit 3 Systems Engineering and Modelling](/Modules/5/img/7.png)
 
-- **Figure 7**: Unit 3 Homepage (University of Essex Online, 2024)
+- **Figure 9**: Unit 3 Homepage (University of Essex Online, 2024)
 
 The lecturecast taught me aspects of System Engineering. It explained the use of System modelling and describeb the different models available. I also learnt the differences between Distributed and Concurrent Systems
 
 ![Lecturecast: Systems Engineering and Modelling](/Modules/5/img/14.png)
 
-- **Figure 5**: Lecturecast: Systems Engineering and Modelling (University of Essex Online, 2024)
+- **Figure 10**: Lecturecast: Systems Engineering and Modelling (University of Essex Online, 2024)
 
 The team assignment was challenging but fun. We had representation from across the globel including Africa, Middle East and Europe.
 
 I took the lead in ramping the operating mechanisms up for the project, and suggested a number of proposals that the team agreed to including:
 The use case to cover including the team contract, the use case to cover, the supporting tool to generate the ADt and the risk methodology.
 
-- **Figure 8**: WhatsApp for team collaboration (University of Essex Online, 2024)
+- **Figure 11**: WhatsApp for team collaboration (University of Essex Online, 2024)
 
 ![WhatsApp for team collaboration](/Modules/5/img/28.png)
 
 With all that in place we allocated portions of work across the team and set about getting it done in time.  
 
-- **Figure 9**: Team media repository (University of Essex Online, 2024)
+- **Figure 12**: Team media repository (University of Essex Online, 2024)
 
 ![Team media repository](/Modules/5/img/29.png)
 
@@ -112,13 +112,13 @@ This project work helped contributed to a number of proffesional development are
 
 Finally we submitted our first assignment, a team project that required us to submit a proposed design report for a Attack-Defence Tree (AD) that models the activities associated with the networked devices in a Systems of Systems (SoS). 
 
-- **Figure 10**: Assignment 1: Design Document (University of Essex Online, 2024)
+- **Figure 13**: Assignment 1: Design Document (University of Essex Online, 2024)
 
 ![Assignment 1: Design Document](/Modules/5/img/30.png)
 
 The project was fun, and our team worked well together to produce a quality submission, with excellent feedback including very positive input from my peers around my contribution.
 
-- **Figure 11**: Assignment 1: Feedback (University of Essex Online, 2024)
+- **Figure 14**: Assignment 1: Feedback (University of Essex Online, 2024)
 
 ![Assignment 1: Feedback](/Modules/5/img/31.png)
 
@@ -130,13 +130,13 @@ Next, we took on a fundamental question: Is Cybersecurity a science? Here I lear
 
 ![Module Unit 4 Modelling of Distributed Systems](/Modules/5/img/8.png)
 
-- **Figure 12**: Unit 4 Homepage (University of Essex Online, 2024)
+- **Figure 15**: Unit 4 Homepage (University of Essex Online, 2024)
 
 We completed a collaborative Discussion on Solutions to the NSA/ Science of Security Hard Problems. This activity helped me identify and critically analyse operating system risks and issues, and identify appropriate methodologies, tools and techniques to solve them.
 
-![Module 5 Activity: Unit 4 Seminar Blog Post](/Modules/5/img/xx.png)
+![Module 5 Activity: Unit 4 Seminar Blog Post](/Modules/5/img/36.png)
 
-- **Figure 13**: Unit 4 Seminar Blog Post (University of Essex Online, 2024)
+- **Figure 16**: Unit 4 Seminar Blog Post (University of Essex Online, 2024)
 
 
 #### Unit 5
@@ -145,13 +145,13 @@ During unit 5 we researched current and future challenges of Operating Systems a
 
 ![Module Unit 5 Current and Future Challenges of Operating Systems and Distributed Systems](/Modules/5/img/9.png)
 
-- **Figure 14**: Unit 5 Homepage (University of Essex Online, 2024)
+- **Figure 17**: Unit 5 Homepage (University of Essex Online, 2024)
 
 During the lecturecast we also about future trends around Fog Computing, IoT and how they interoperate includings networking and operating systems standards and protocols commonly used.
 
 ![Lecturecast: Current and Future Challenges of Operating Systems and Distributed Systems](/Modules/5/img/32.png)
 
-- **Figure 15**: Lecturecast: Current and Future Challenges of Operating Systems and Distributed Systems (University of Essex Online, 2024)
+- **Figure 18**: Lecturecast: Current and Future Challenges of Operating Systems and Distributed Systems (University of Essex Online, 2024)
 
 I came away from this unit wit han appreciatiation of the challenges of running secure operating and distributed systems in the modern world.
 
@@ -162,7 +162,7 @@ We then concluded the module by learning more about the challenges of assessing 
 
 ![Module Unit 6 Formal Modelling vs. Automated Testing](/Modules/5/img/11.png)
 
-- **Figure 16**: Unit 6 Homepage (University of Essex Online, 2024)
+- **Figure 19**: Unit 6 Homepage (University of Essex Online, 2024)
 
 
 The unit seminar was fun, we got to debate Formal Modelling vs. Automated Testing. Although I was unable to attend live due ot work committments, I was able to listen back using the recording. My peers shared some great perspectives on this.
@@ -170,14 +170,14 @@ The unit seminar was fun, we got to debate Formal Modelling vs. Automated Testin
 Next we submitted our end of module assignment. This involved selecting a security problem, then designing and building a prototype system that investigated a selected problem, along with a analysis summary paper that discusse the question, model, experiments, analysis and the conclusion.
 
 
-- **Figure 12**: Development Individual Project: Code Development (University of Essex Online, 2024)
+- **Figure 20**: Development Individual Project: Code Development (University of Essex Online, 2024)
 
 ![README File](/Modules/5/img/xx.png)
 
 We then reflected on the learnings taken from the module, including looking at my final report (unit 6) vs. the proposal/design document (unit 3. 
 
 
-- **Figure 13**: E-Portfolio Reflective Piece (University of Essex Online, 2024)
+- **Figure 21**: E-Portfolio Reflective Piece (University of Essex Online, 2024)
 
 ![E-Portfolio Reflective Piece](/Modules/5/img/34.png)
 
@@ -190,7 +190,7 @@ Building on my learnings on how to code and test an application using Python was
 ## Professional Skills matrix and action plan (PDP)
 
 
-- **Figure 14**: PDP (University of Essex Online, 2024)
+- **Figure 22**: PDP (University of Essex Online, 2024)
 
 ![PDP](/Modules/5/img/35.png)
 
