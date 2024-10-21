@@ -52,9 +52,8 @@ This section provides guidance on how to simulate plain and encrypted message co
 The following video provides evidence of application testing including results of code quality, security and custom configurations.
 
 
-![Evidence of testing](/Modules/5/Screen Recording 2024-10-21 at 14.04.24.mov)
 
-- **Figure 3**: Evidence of testing
+![Link to evidence of testing video - You need a university account to access](https://essexuniversity-my.sharepoint.com/personal/cn23070_essex_ac_uk/Documents/Forms/All.aspx?RootFolder=%2Fpersonal%2Fcn23070%5Fessex%5Fac%5Fuk%2FDocuments%2FEPortfolio%2FModule%205&FolderCTID=0x012000E9F3DF33B2C5AC4C85CD4518324E3046&View=%7BF7F8CAD4%2D851C%2D4F76%2D80BF%2DF79D7E847F4A%7D#:~:text=https%3A//essexuniversity%2Dmy.sharepoint.com/%3Av%3A/g/personal/cn23070_essex_ac_uk/EQPW5ugarK1Dst3XjAA1jEMBew8bI%2D9X2U9PScO4MNOlGw)
 
 
 
