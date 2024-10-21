@@ -1,26 +1,17 @@
-"""
-This basic application simulates communication between IoT devices and a central controller 
-to measure the impact of encryption in transit. 
-"""
-
-import time  # measure the time taken for message transmission
-import random  # generate random encryption keys
-import string  # work with ASCII characters for key generation
-import pandas as pd  # generating and displaying the results summary table in a human friendly readable format
+import time  # Import time module to measure the time taken for message transmission
+import random  # Import random module to generate random encryption keys
+import string  # Import string module to work with ASCII characters for key generation
+import pandas as pd  # Import pandas for generating and displaying the results summary table in a human friendly readable format
 
 
 class IoTDevice:
-    """
-    Represents an IoT device that can send encrypted and unencrypted messages to a controller.
-    """
-
     def __init__(self, device_id):
         """
         Initializes an IoT Device instance with a unique device ID and generates an encryption key.
 
         :param device_id: Unique identifier for the IoT device.
         """
-        self.device_id = device_id  # Store the unique device ID
+        self.device_id = device_id  # Store the unique ID for this device
         self.key = self.generate_key()  # Generate a random encryption key for the device
 
     def generate_key(self):
@@ -29,7 +20,7 @@ class IoTDevice:
 
         :return: A string representing the encryption key.
         """
-        return ''.join(random.choice(string.ascii_letters + string.digits) for _ in range(8))
+        return ''.join(random.choice(string.ascii_letters + string.digits) for _ in range(8))  # Return a random 8-character key
 
     def encrypt_message(self, message):
         """
@@ -38,6 +29,7 @@ class IoTDevice:
         :param message: The plain text message to encrypt.
         :return: The encrypted message as a string.
         """
+        # XOR each character of the message with the corresponding character of the key
         encrypted_message = ''.join(chr(ord(c) ^ ord(k)) for c, k in zip(message, self.key))
         return encrypted_message  # Return the encrypted message
 
@@ -48,6 +40,7 @@ class IoTDevice:
         :param encrypted_message: The message to decrypt.
         :return: The decrypted message as plain text.
         """
+        # XOR the encrypted message with the key to retrieve the original message
         decrypted_message = ''.join(chr(ord(c) ^ ord(k)) for c, k in zip(encrypted_message, self.key))
         return decrypted_message  # Return the decrypted message
 
@@ -60,25 +53,33 @@ class IoTDevice:
         :param encrypted: A boolean flag indicating whether to encrypt the message (default is True).
         """
         if encrypted:
+            # If encryption is enabled, encrypt the message before sending
             encrypted_message = self.encrypt_message(message)
             print(f"Device {self.device_id} sending encrypted message...")
 
+            # Simulate message interception by an attacker
             intercepted = controller.intercept_message(encrypted_message, encrypted=True)
 
+            # Measure the time taken to send the message to the controller
             start_time = time.time()
             controller.receive_message(encrypted_message, self, encrypted=True)
             end_time = time.time()
         else:
+            # If encryption is not enabled, send the plain message
             print(f"Device {self.device_id} sending plain message...")
 
+            # Simulate message interception by an attacker
             intercepted = controller.intercept_message(message, encrypted=False)
 
+            # Measure the time taken to send the plain message to the controller
             start_time = time.time()
             controller.receive_message(message, self, encrypted=False)
             end_time = time.time()
 
+        # Calculate the time taken to transmit the message
         time_taken = end_time - start_time
 
+        # Log the message transmission details in the controller's log
         controller.log_message(
             device_id=self.device_id,
             message=message if not encrypted else encrypted_message,
@@ -89,10 +90,6 @@ class IoTDevice:
 
 
 class Controller:
-    """
-    Manages communication with IoT devices and logs message transmissions.
-    """
-
     def __init__(self):
         """
         Initializes a Controller instance, which will manage communication with IoT devices.
@@ -108,9 +105,11 @@ class Controller:
         :param encrypted: A boolean flag indicating whether the message is encrypted.
         """
         if encrypted:
+            # If the message is encrypted, decrypt it using the device's key
             decrypted_message = device.decrypt_message(message)
             print(f"Controller received encrypted message: {message} (decrypted: {decrypted_message})")
         else:
+            # If the message is not encrypted, display the plain message
             print(f"Controller received plain text message: {message}")
 
     def intercept_message(self, message, encrypted=True):
@@ -122,9 +121,11 @@ class Controller:
         :return: True, indicating the message was intercepted.
         """
         if encrypted:
+            # If the message is encrypted, the attacker cannot decrypt it without the key
             print(f"\n[ATTACKER] Intercepted encrypted message: {message}")
             print("[ATTACKER] Attacker failed to decrypt the message without the key.\n")
         else:
+            # If the message is not encrypted, the attacker can read it
             print(f"\n[ATTACKER] Intercepted plain text message: {message}")
             print("[ATTACKER] Attacker successfully read the message.\n")
         return True  # Indicate that the message was intercepted
@@ -139,6 +140,7 @@ class Controller:
         :param intercepted: Whether the message was intercepted.
         :param time_taken: The time taken to transmit the message.
         """
+        # Append a dictionary containing message details to the log
         self.message_log.append({
             'Device ID': device_id,
             'Message': message,
@@ -151,24 +153,27 @@ class Controller:
         """
         Prints a summary table of all messages logged during the simulation, including encryption and interception status.
         """
+        # Convert the log of messages to a pandas DataFrame for a tabular summary
         df = pd.DataFrame(self.message_log)
         print("\n--- Summary Table ---")
         print(df)  # Display the summary table
 
 
-def simulate_devices(device_count, controller, encrypted=True):
+def simulate_devices(num_devices, controller, encrypted=True):
     """
     Simulates multiple IoT devices sending messages to the controller, with optional encryption.
 
-    :param device_count: The number of IoT devices to simulate.
+    :param num_devices: The number of IoT devices to simulate.
     :param controller: The controller that receives the messages.
     :param encrypted: A boolean flag to indicate whether to encrypt the messages.
     """
-    devices = [IoTDevice(device_id=i) for i in range(1, device_count + 1)]
+    # Create a list of IoTDevice objects, one for each device
+    devices = [IoTDevice(device_id=i) for i in range(1, num_devices + 1)]
 
+    # Loop through each device and send a message to the controller
     for device in devices:
-        message = f"Hi Controller! This is device {device.device_id}"
-        device.send_message(message, controller, encrypted=encrypted)
+        message = f"Hi Controller! This is device {device.device_id}"  # Create a unique message for each device
+        device.send_message(message, controller, encrypted=encrypted)  # Send the message (encrypted or plain)
 
 
 if __name__ == "__main__":
@@ -176,16 +181,15 @@ if __name__ == "__main__":
     controller = Controller()
 
     # Specify the number of IoT devices to simulate. Default is 10 but this can be changed.
-    DEVICE_COUNT = 20
+    num_devices = 10
 
     # Simulate devices sending plain messages
     print("Simulation with plain messages:")
-    simulate_devices(DEVICE_COUNT, controller, encrypted=False)
+    simulate_devices(num_devices, controller, encrypted=False)
 
     # Simulate devices sending encrypted messages
     print("\nSimulation with encrypted messages:")
-    simulate_devices(DEVICE_COUNT, controller, encrypted=True)
+    simulate_devices(num_devices, controller, encrypted=True)
 
     # Print the summary of all messages transmitted
     controller.print_summary()
-

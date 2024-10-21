@@ -47,6 +47,16 @@ You can install the required Python packages using pip.
 
 This section provides guidance on how to simulate plain and encrypted message communication using the provided script.
 
+### **Evidence of testing**
+
+The following video provides evidence of application testing including results of code quality, security and custom configurations.
+
+
+![Evidence of testing](/Modules/5/Screen Recording 2024-10-21 at 14.04.24.mov)
+
+- **Figure 3**: Evidence of testing
+
+
 
 ### **Example 1: Default simulation with 10 devices**
 
@@ -55,7 +65,7 @@ The following command will execute the application and in doing so simulate 10 I
 
 ![Launching the application](/Modules/5/img/17.png)
 
-- **Figure 3**: Launching the application
+- **Figure 4**: Launching the application
 
 
 ## **Expected Output:**
@@ -68,7 +78,7 @@ The following command will execute the application and in doing so simulate 10 I
 
 ![Example of expected output](/Modules/5/img/18.png)
 
-- **Figure 4**: Example of expected output
+- **Figure 5**: Example of expected output
 
 
 ### **Example 2: Customisations**
@@ -80,26 +90,26 @@ Change the number of devices simulated.
 
 ![Customising number of devices](/Modules/5/img/19.png)
 
-- **Figure 5**: Customising number of devices
+- **Figure 6**: Customising number of devices
 
 
 ![Example evidence of customised testing with 40 devices](/Modules/5/img/20.png)
 
-- **Figure 6**: Example evidence of customised testing with 40 devices
+- **Figure 7**: Example evidence of customised testing with 40 devices
 
 
 ## **Code Structure and Usage**
 
 ![Application code structure](/Modules/5/img/21.png)
 
-- **Figure 7**: Application code structure
+- **Figure 8**: Application code structure
 
 
 ## **Experiments**
 
 ![Table of experiments](/Modules/5/img/22.png)
 
-- **Figure 8**: Table of experiments
+- **Figure 9**: Table of experiments
 
 
 ## **Results**
@@ -108,7 +118,7 @@ Change the number of devices simulated.
 
 ![Experiment 1 results](/Modules/5/img/23.png)
 
-- **Figure 9**: Experiment 1 results
+- **Figure 10**: Experiment 1 results
 
 The difference in response time between plain text messages and encrypted messages is negligible, with encryption introducing an overhead of only a few microseconds.
 
@@ -118,12 +128,12 @@ The difference in response time between plain text messages and encrypted messag
 
 ![Evidence of experiment results](/Modules/5/img/24.png)
 
-- **Figure 10**: Evidence of experiment results
+- **Figure 11**: Evidence of experiment results
 
 
 ![Experiment 2 results](/Modules/5/img/25.png)
 
-- **Figure 11**: Experiment 2 results
+- **Figure 12**: Experiment 2 results
 
 
 Encrypted messages provide a reasonable safeguard against any messages intercepted by an attacker
@@ -134,7 +144,7 @@ Encrypted messages provide a reasonable safeguard against any messages intercept
 
 ![Experiment 3 results](/Modules/5/img/26.png)
 
-- **Figure 12**: Experiment 3 results
+- **Figure 13**: Experiment 3 results
 
 
 As the number of devices increased, the response time for both plain text and encrypted messages increased.
@@ -150,7 +160,7 @@ The hypothesis that encrypting individual messages between IoT devices and the c
 
 ![Conclusion](/Modules/5/img/27.png)
 
-- **Figure 13**: Conclusion
+- **Figure 14**: Conclusion
 
 
 
