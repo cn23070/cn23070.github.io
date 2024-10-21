@@ -11,9 +11,215 @@ tags: [Module 5]
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://cn23070.github.io/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/craig-norris-3b787610/)
 
+# Summary Reflection
+
 ## Introduction
 
-Hot off the completion of module 4: Secure Software Design, we moved onto the module Secure Software Architecture(SSA). This was another topic I started with minimal experiance at hand, and I was excited to learn more especially about distributed systems and operating systems including the role of virtualisation.
+I started Secure Software Architecture (SSA) knowing this was another new topic to me, and I was excited to learn more.
+
+![Module Introduction](/Modules/5/img/1.png)
+
+- **Figure 1**: Module Introduction (University of Essex Online, 2024)
+
+### Unit 1
+
+Unit 1 introduced the concept of secure systems architectures, considered from the perspectives of operating systems and distributed systems, and their associated security challenges.
+
+![Module Unit 1 Introduction](/Modules/5/img/2.png)
+
+- **Figure 2**: Unit 1 Homepage (University of Essex Online, 2024)
+
+![Module Core Reading](/Modules/5/img/3.png)
+
+- **Figure 3**: Module Core Reading (Luntovskyy & Spillner, 2017)
+
+We also completed a lecturecast and an individual formative exercise. 
+
+[Individual Formative Exercise: Evaluating Alternative Operating Systems](/Modules/5/img/5.png)
+
+- **Figure 4**: Individual Formative Exercise: Evaluating Alternative Operating Systems (University of Essex Online, 2024)
+
+![Lecturecast: Introduction to Secure Systems Architecture](/Modules/5/img/4.png)
+
+- **Figure 5**: Lecturecast: Introduction to Secure Systems Architecture (University of Essex Online, 2024)
+
+
+###  Unit 2
+
+Unit 2 covered several modelling tools and languages including SysML. 
+
+![Module Unit 2 Modelling and Socket Programming](/Modules/5/img/6.png)
+
+- **Figure 6**: Unit 2 Homepage (University of Essex Online, 2024)
+
+We also learnt about ADT modelling for system threat modelling.
+
+![Module 5 Activity: Socket Programming](/Modules/5/img/13.png)
+
+- **Figure 7**: Unit 2 Activity: Socket Programming (University of Essex Online, 2024)
+
+![Module Unit 2 ADTool](/Modules/5/img/12.png)
+
+- **Figure 8**: Unit 2 ADTool (Kordy and Schweitzer, 2012)
+
+
+### Unit 3
+
+Unit 3 introduced us to systems engineering and modelling techniques followed by our first assignment. 
+
+
+![Module Unit 3 Systems Engineering and Modelling](/Modules/5/img/7.png)
+
+- **Figure 9**: Unit 3 Homepage (University of Essex Online, 2024)
+
+The lecturecast taught aspects of system modelling including the different models available. 
+
+![Lecturecast: Systems Engineering and Modelling](/Modules/5/img/14.png)
+
+- **Figure 10**: Lecturecast: Systems Engineering and Modelling (University of Essex Online, 2024)
+
+We then started our team assignment: submit a design document that attempts to provide an Attack-Defence Tree that models the security vulnerabilities in an IoT-based System as discussed in the paper by Kodali et al, (2016).  
+
+I took the lead in getting team consensus on project objectives, plans and tooling.
+
+- **Figure 11**: WhatsApp for team collaboration (University of Essex Online, 2024)
+
+![WhatsApp for team collaboration](/Modules/5/img/28.png)
+
+- **Figure 12**: Team media repository (University of Essex Online, 2024)
+
+![Team media repository](/Modules/5/img/29.png)
+
+This project contributed to several professional development areas for me, most notably time management and digital platforms collaboration use. 
+I learnt about tool limitation use by countries, and the need to consider regional working days and holidays.
+I used these learnings to update my Professional Skills matrix and action plan below.
+
+- **Figure 13**: Assignment 1: Design Document (University of Essex Online, 2024)
+
+![Assignment 1: Design Document](/Modules/5/img/30.png)
+
+The project was fun, and our team worked well together, producing a quality submission which received strong feedback.
+
+- **Figure 14**: Assignment 1: Feedback (University of Essex Online, 2024)
+
+![Assignment 1: Feedback](/Modules/5/img/31.png)
+
+
+### Unit 4
+
+Unit 4 asked Is Cybersecurity a science? Here I learnt what is meant by ‘Quality of Service’ when applied to distributed communications, and how to apply ‘The Scientific Method’ to Cybersecurity problems. 
+
+
+![Module Unit 4 Modelling of Distributed Systems](/Modules/5/img/8.png)
+
+- **Figure 15**: Unit 4 Homepage (University of Essex Online, 2024)
+
+![Module 5 Activity: Unit 4 Seminar Blog Post](/Modules/5/img/36.png)
+
+- **Figure 16**: Unit 4 Seminar Blog Post (University of Essex Online, 2024)
+
+
+### Unit 5
+
+Next we looked at current and future challenges of Operating Systems and Distributed Systems.
+
+![Module Unit 5 Current and Future Challenges of Operating Systems and Distributed Systems](/Modules/5/img/9.png)
+
+- **Figure 17**: Unit 5 Homepage (University of Essex Online, 2024)
+
+![Lecturecast: Current and Future Challenges of Operating Systems and Distributed Systems](/Modules/5/img/32.png)
+
+- **Figure 18**: Lecturecast: Current and Future Challenges of Operating Systems and Distributed Systems (University of Essex Online, 2024)
+
+I came away with an appreciation of the challenges of running modern secure operating and distributed systems.
+
+### Unit 6
+
+During the final seminar there was a debate on Modelling vs. Automated Testing. 
+
+
+![Module Unit 6 Formal Modelling vs. Automated Testing](/Modules/5/img/11.png)
+
+- **Figure 19**: Unit 6 Homepage (University of Essex Online, 2024)
+
+
+We then submitted our final individual assignments: define a hypothesis from assignment 1, use python to build a prototype to test it, and document the experiments, analysis and the conclusion.
+
+
+- **Figure 20**: Development Individual Project: Code Development (University of Essex Online, 2024)
+
+![Application code](/Modules/5/img/37.png)
+
+We then reflected on the learnings taken from the module. 
+
+- **Figure 21**: E-Portfolio Reflective Piece (University of Essex Online, 2024)
+
+![E-Portfolio Reflective Piece](/Modules/5/img/34.png)
+
+
+## Conclusion
+
+Gaining more experience with Python was fun, challenging and insightful. The feedback from my peers was positive, constructive and actionable and I am far more aware of modern distributed systems. 
+
+
+## Professional Skills matrix and action plan (PDP)
+
+
+- **Figure 22**: PDP (University of Essex Online, 2024)
+
+![PDP](/Modules/5/img/35.png)
+
+## Module 5: Artefacts 
+
+
+| Parameter                                      | Type                        | Description                                                                                                       | References                 |
+| :--------                                      | :-------                    | :--------------------------                                                                                       | :------------------------- |
+| `Development Team Project: Design Document` | `Report`| Produce a praposed design report for a Attack-Defence Tree (AD) that models the activities associated with the networked devices in a Systems of Systems (SoS)..| [View Essay](https://essexuniversity-my.sharepoint.com/:w:/g/personal/cn23070_essex_ac_uk/EbZa3ByAcy9KgY3S1Nd7I7YBeeyX-PNdI8Rb06ol6b6Rsw) |
+| `Development Individual Project: Coding Output` | `Code` | Using Python, design and build a prototype system to investigate a selected problem – create a number of experiments to test the hypothesis, analyse your results. | [View Application](https://essexuniversity-my.sharepoint.com/:u:/g/personal/cn23070_essex_ac_uk/EcLM_RWy5ohJuGiRJbKiEW0BrN48PyD8AaohfE1MIr1SEQ)| 
+| `Development Individual Project: README` | `Read Me` | Produce a summary paper that discusses the problem / question, model, experiments, analysis and the conclusion addressed with the prototype. | [View README File (DOC)](https://essexuniversity-my.sharepoint.com/:w:/g/personal/cn23070_essex_ac_uk/EW__fFUzQrlDtulyeaPZQ3ABT0BR53m3SH1UwVijoxhuew)|
+| `Individual Reflective Submission`    | `Essay` | Produce a summary report covering the learnings and reflections from module 5. | [View Essay](https://essexuniversity-my.sharepoint.com/:w:/g/personal/cn23070_essex_ac_uk/EcakW1itfi1PpZgewy2kGZkBMctFBkJ8qWICZHc-YU6miw)|
+| `e-Portfolio Submission`    | `Website` | Produce a e-Portfolio covering the learnings from module 5. | [View Website](https://cn23070.github.io/)|
+
+
+
+
+## References 
+
+Core Text: Luntovskyy, A. & Spillner, J. (2017) Architectural Transformations in Network Services and Distributed Systems. Springer.
+
+University of Essex Online. (2024). Unit 1: Introduction to Operating Systems and Secure Systems Architecture, Secure Systems Architecture September 2024. Available at: https://www.my-course.co.uk/course/view.php?id=12295&section=7 (Accessed: 12 September 2024).
+
+University of Essex Online. (2024). Unit 2: Modelling and Socket Programming, Secure Systems Architecture September 2024. Available at: https://www.my-course.co.uk/course/view.php?id=12295&section=8 (Accessed: 12 September 2024).
+
+University of Essex Online. (2024). Unit 3: Systems Engineering and Modelling, Secure Systems Architecture September 2024. Available at: https://www.my-course.co.uk/course/view.php?id=12295&section=9 (Accessed: 12 September 2024).
+
+University of Essex Online. (2024). Unit 4: Modelling of Distributed Systems, Secure Systems Architecture September 2024. Available at: https://www.my-course.co.uk/course/view.php?id=12295&section=10 (Accessed: 12 September 2024).
+
+University of Essex Online. (2024). Unit 5: Current and Future Challenges of Operating Systems and Distributed Systems, Secure Systems Architecture September 2024. Available at: https://www.my-course.co.uk/course/view.php?id=12295&section=11 (Accessed: 12 September 2024).
+
+University of Essex Online. (2024). Unit 6: Formal Modelling vs. Automated Testing, Secure Systems Architecture September 2024. Available at: https://www.my-course.co.uk/course/view.php?id=12295&section=12 (Accessed: 12 September 2024).
+
+Piotr Kordy and Patrick Schweitzer. (2012)The ADTool. 
+Available at: http://satoss.uni.lu/members/piotr/ adtool/index.php (Accessed: 12 September 2024).
+
+
+
+## Module 5: Learning Scope & Objectives
+
+*“All human endeavours involve uncertainty and risk.”(Olson, D.L. & Desheng D.W, 2020)*
+
+- Identify and critically analyse operating system risks and issues, and identify appropriate methodologies, tools and techniques to solve them.
+- Evaluate and adapt platforms and systems, using processes such as code refactoring, to produce secure distributed system solutions.
+- Critically analyse and evaluate solutions produced.
+- Systematically develop and implement the skills required to be effective member of a development team in a virtual professional environment, adopting real-life perspectives on team roles and organisation.
+
+
+## Notes
+
+
+## Introduction
+
+I started Secure Software Architecture (SSA) knowing this was another new topic to me, and I was excited to learn more.
 
 ![Module Introduction](/Modules/5/img/1.png)
 
@@ -181,74 +387,6 @@ We then reflected on the learnings taken from the module, including looking at m
 
 ![E-Portfolio Reflective Piece](/Modules/5/img/34.png)
 
-
-#### Conclusion
-
-Building on my learnings on how to code and test an application using Python was fun, challenging and insightful. The feedback from my peers was positive, constructive and actionable. I plan to take my further experiance of development and testing prototypes using python into my current cyber work activities.
-
-
-## Professional Skills matrix and action plan (PDP)
-
-
-- **Figure 22**: PDP (University of Essex Online, 2024)
-
-![PDP](/Modules/5/img/35.png)
-
-## Module 5: Artefacts 
-
-
-| Parameter                                      | Type                        | Description                                                                                                       | References                 |
-| :--------                                      | :-------                    | :--------------------------                                                                                       | :------------------------- |
-| `Development Team Project: Design Document` | `Report`| Produce a praposed design report for a Attack-Defence Tree (AD) that models the activities associated with the networked devices in a Systems of Systems (SoS)..| [View Essay](https://essexuniversity-my.sharepoint.com/:w:/g/personal/cn23070_essex_ac_uk/EbZa3ByAcy9KgY3S1Nd7I7YBeeyX-PNdI8Rb06ol6b6Rsw) |
-| `Development Individual Project: Coding Output` | `Code` | Using Python, design and build a prototype system to investigate a selected problem – create a number of experiments to test the hypothesis, analyse your results. | [View Application](https://essexuniversity-my.sharepoint.com/:u:/g/personal/cn23070_essex_ac_uk/EcLM_RWy5ohJuGiRJbKiEW0BrN48PyD8AaohfE1MIr1SEQ)| 
-| `Development Individual Project: README` | `Read Me` | Produce a summary paper that discusses the problem / question, model, experiments, analysis and the conclusion addressed with the prototype. | [View README File (DOC)](https://essexuniversity-my.sharepoint.com/:w:/g/personal/cn23070_essex_ac_uk/EW__fFUzQrlDtulyeaPZQ3ABT0BR53m3SH1UwVijoxhuew)|
-| `Individual Reflective Submission`    | `Essay` | Produce a summary report covering the learnings and reflections from module 5. | [View Essay](https://essexuniversity-my.sharepoint.com/:w:/g/personal/cn23070_essex_ac_uk/EcakW1itfi1PpZgewy2kGZkBMctFBkJ8qWICZHc-YU6miw)|
-| `e-Portfolio Submission`    | `Website` | Produce a e-Portfolio covering the learnings from module 5. | [View Website](https://cn23070.github.io/)|
-
-
-
-
-## References 
-
-Core Text: Luntovskyy, A. & Spillner, J. (2017) Architectural Transformations in Network Services and Distributed Systems. Springer.
-
-University of Essex Online. (2024). Unit 1: Introduction to Operating Systems and Secure Systems Architecture, Secure Systems Architecture September 2024. Available at: https://www.my-course.co.uk/course/view.php?id=12295&section=7 (Accessed: 12 September 2024).
-
-University of Essex Online. (2024). Unit 2: Modelling and Socket Programming, Secure Systems Architecture September 2024. Available at: https://www.my-course.co.uk/course/view.php?id=12295&section=8 (Accessed: 12 September 2024).
-
-University of Essex Online. (2024). Unit 3: Systems Engineering and Modelling, Secure Systems Architecture September 2024. Available at: https://www.my-course.co.uk/course/view.php?id=12295&section=9 (Accessed: 12 September 2024).
-
-University of Essex Online. (2024). Unit 4: Modelling of Distributed Systems, Secure Systems Architecture September 2024. Available at: https://www.my-course.co.uk/course/view.php?id=12295&section=10 (Accessed: 12 September 2024).
-
-University of Essex Online. (2024). Unit 5: Current and Future Challenges of Operating Systems and Distributed Systems, Secure Systems Architecture September 2024. Available at: https://www.my-course.co.uk/course/view.php?id=12295&section=11 (Accessed: 12 September 2024).
-
-University of Essex Online. (2024). Unit 6: Formal Modelling vs. Automated Testing, Secure Systems Architecture September 2024. Available at: https://www.my-course.co.uk/course/view.php?id=12295&section=12 (Accessed: 12 September 2024).
-
-Piotr Kordy and Patrick Schweitzer. (2012)The ADTool. 
-Available at: http://satoss.uni.lu/members/piotr/ adtool/index.php (Accessed: 12 September 2024).
-
-
-
-## Module 5: Learning Scope & Objectives
-
-*“All human endeavours involve uncertainty and risk.”(Olson, D.L. & Desheng D.W, 2020)*
-
-- Identify and critically analyse operating system risks and issues, and identify appropriate methodologies, tools and techniques to solve them.
-- Evaluate and adapt platforms and systems, using processes such as code refactoring, to produce secure distributed system solutions.
-- Critically analyse and evaluate solutions produced.
-- Systematically develop and implement the skills required to be effective member of a development team in a virtual professional environment, adopting real-life perspectives on team roles and organisation.
-
-
-## Notes
-
-
-### Unit 1: Introduction to Secure Software Development
-
-xxx
-
-![Module Core Reading](/Modules/5/img/x.png)
-
-- **Figure x**: Module Core Reading (xxx, 2017)
 
 
 
