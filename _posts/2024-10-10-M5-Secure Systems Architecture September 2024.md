@@ -187,6 +187,13 @@ We then reflected on the learnings taken from the module, including looking at m
 Building on my learnings on how to code and test an application using Python was fun, challenging and insightful. The feedback from my peers was positive, constructive and actionable. I plan to take my further experiance of development and testing prototypes using python into my current cyber work activities.
 
 
+## Professional Skills matrix and action plan (PDP)
+
+
+- **Figure 14**: PDP (University of Essex Online, 2024)
+
+![PDP](/Modules/5/img/35.png)
+
 ## Module 5: Artefacts 
 
 
