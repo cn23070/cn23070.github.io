@@ -79,7 +79,7 @@ During the seminar I also learnt about the AD modelling tool and how to use it f
 
 #### Unit 3
 
-The next unit took us through xxx via 
+Unit 3 introduced us to systems engineering and modelling techniques followed by our first assignment. 
 
 
 ![Module Unit 3 Systems Engineering and Modelling](/Modules/5/img/7.png)
@@ -92,13 +92,35 @@ The lecturecast taught me aspects of System Engineering. It explained the use of
 
 - **Figure 5**: Lecturecast: Systems Engineering and Modelling (University of Essex Online, 2024)
 
-Finally submitted our first assignment, a team project that required us to submit a proposed design report for a Attack-Defence Tree (AD) that models the activities associated with the networked devices in a Systems of Systems (SoS). 
+The team assignment was challenging but fun. We had representation from across the globel including Africa, Middle East and Europe.
 
-- **Figure 8**: Assignment 1: Design Document (University of Essex Online, 2024)
+I took the lead in ramping the operating mechanisms up for the project, and suggested a number of proposals that the team agreed to including:
+The use case to cover including the team contract, the use case to cover, the supporting tool to generate the ADt and the risk methodology.
 
-![Assignment 1: Design Document](/Modules/5/img/xx.png)
+- **Figure 8**: WhatsApp for team collaboration (University of Essex Online, 2024)
 
-The project was fun, and our team worked well together to produce a quality submission, even though we faced time zone and business travel challenges.
+![WhatsApp for team collaboration](/Modules/5/img/28.png)
+
+With all that in place we allocated portions of work across the team and set about getting it done in time.  
+
+- **Figure 9**: Team media repository (University of Essex Online, 2024)
+
+![Team media repository](/Modules/5/img/29.png)
+
+This project work helped contributed to a number of proffesional development areas for myself, most notably time management and using digital platforms for remote teamwork and collaboration.the I learnt that ceratin countries have significant limitations on common collaboration tools by law, and that timezone considerations should include working days and holidays that are specific to countries I used these learning to update my Professional Skills matrix and action plan (PDP) with addtional actions that will help me further grow in these skill areas.
+
+
+Finally we submitted our first assignment, a team project that required us to submit a proposed design report for a Attack-Defence Tree (AD) that models the activities associated with the networked devices in a Systems of Systems (SoS). 
+
+- **Figure 10**: Assignment 1: Design Document (University of Essex Online, 2024)
+
+![Assignment 1: Design Document](/Modules/5/img/30.png)
+
+The project was fun, and our team worked well together to produce a quality submission, with excellent feedback including very positive input from my peers around my contribution.
+
+- **Figure 11**: Assignment 1: Feedback (University of Essex Online, 2024)
+
+![Assignment 1: Feedback](/Modules/5/img/31.png)
 
 
 #### Unit 4
