@@ -130,13 +130,13 @@ Next, we took on a fundamental question: Is Cybersecurity a science? Here I lear
 
 ![Module Unit 4 Modelling of Distributed Systems](/Modules/5/img/8.png)
 
-- **Figure 9**: Unit 4 Homepage (University of Essex Online, 2024)
+- **Figure 12**: Unit 4 Homepage (University of Essex Online, 2024)
 
 We completed a collaborative Discussion on Solutions to the NSA/ Science of Security Hard Problems. This activity helped me identify and critically analyse operating system risks and issues, and identify appropriate methodologies, tools and techniques to solve them.
 
 ![Module 5 Activity: Unit 4 Seminar Blog Post](/Modules/5/img/xx.png)
 
-- **Figure 10**: Unit 4 Seminar Blog Post (University of Essex Online, 2024)
+- **Figure 13**: Unit 4 Seminar Blog Post (University of Essex Online, 2024)
 
 
 #### Unit 5
@@ -145,15 +145,13 @@ During unit 5 we researched current and future challenges of Operating Systems a
 
 ![Module Unit 5 Current and Future Challenges of Operating Systems and Distributed Systems](/Modules/5/img/9.png)
 
-- **Figure 9**: Unit 5 Homepage (University of Essex Online, 2024)
+- **Figure 14**: Unit 5 Homepage (University of Essex Online, 2024)
 
-During the lecturecast we also about future trends including Blockchain, Fog Computing, the Internet of Things and Cyber Physical Systems.
+During the lecturecast we also about future trends around Fog Computing, IoT and how they interoperate includings networking and operating systems standards and protocols commonly used.
 
-I found the overview of blockchain interesting and insightful. Blockchain is a relatively new technology that brings together encryption, distributed peer-to-peer networks and consensus mechanisms. If the technology can overcome its cost, it has the potential to disrupt a number of industries including healthcare and finance, and will likely become a significant technology disruptor over time.
+![Lecturecast: Current and Future Challenges of Operating Systems and Distributed Systems](/Modules/5/img/32.png)
 
-![Lecturecast: Current and Future Challenges of Operating Systems and Distributed Systems](/Modules/4/img/10.png)
-
-- **Figure 10**: Lecturecast: Current and Future Challenges of Operating Systems and Distributed Systems (University of Essex Online, 2024)
+- **Figure 15**: Lecturecast: Current and Future Challenges of Operating Systems and Distributed Systems (University of Essex Online, 2024)
 
 I came away from this unit wit han appreciatiation of the challenges of running secure operating and distributed systems in the modern world.
 
@@ -164,10 +162,11 @@ We then concluded the module by learning more about the challenges of assessing 
 
 ![Module Unit 6 Formal Modelling vs. Automated Testing](/Modules/5/img/11.png)
 
-- **Figure 11**: Unit 6 Homepage (University of Essex Online, 2024)
+- **Figure 16**: Unit 6 Homepage (University of Essex Online, 2024)
 
 
-The unit seminar was fun, we got to debate Formal Modelling vs. Automated Testing. My peers shared some great perspectives on this.
+The unit seminar was fun, we got to debate Formal Modelling vs. Automated Testing. Although I was unable to attend live due ot work committments, I was able to listen back using the recording. My peers shared some great perspectives on this.
+
 Next we submitted our end of module assignment. This involved selecting a security problem, then designing and building a prototype system that investigated a selected problem, along with a analysis summary paper that discusse the question, model, experiments, analysis and the conclusion.
 
 
@@ -178,9 +177,9 @@ Next we submitted our end of module assignment. This involved selecting a securi
 We then reflected on the learnings taken from the module, including looking at my final report (unit 6) vs. the proposal/design document (unit 3. 
 
 
-- **Figure 13**: Reflective Piece (University of Essex Online, 2024)
+- **Figure 13**: E-Portfolio Reflective Piece (University of Essex Online, 2024)
 
-![Reflective Piece](/Modules/5/img/xx.png)
+![E-Portfolio Reflective Piece](/Modules/5/img/34.png)
 
 
 #### Conclusion
