@@ -35,7 +35,7 @@ A simplified IoT-based Smart Home Automation System was modelled using Python. T
 - **Figure 1**: System model description
 
 
-### **Prerequisites**
+## **Prerequisites**
 
 ![Application Prerequisites](/Modules/5/img/16.png)
 
@@ -43,7 +43,7 @@ A simplified IoT-based Smart Home Automation System was modelled using Python. T
 
 You can install the required Python packages using pip.
 
-### **Usage Example:**
+## **Usage Example:**
 
 This section provides guidance on how to simulate plain and encrypted message communication using the provided script.
 
@@ -58,7 +58,7 @@ The following command will execute the application and in doing so simulate 10 I
 - **Figure 3**: Launching the application
 
 
-###**Expected Output:**
+## **Expected Output:**
 
 
 •	It will show messages being sent by each device.
@@ -71,7 +71,7 @@ The following command will execute the application and in doing so simulate 10 I
 - **Figure 4**: Example of expected output
 
 
-###**Example 2: Customisations**
+### **Example 2: Customisations**
 
 You can adjust parameters to modify the experiment:
 
@@ -88,23 +88,23 @@ Change the number of devices simulated.
 - **Figure 6**: Example evidence of customised testing with 40 devices
 
 
-###**Code Structure and Usage**
+## **Code Structure and Usage**
 
 ![Application code structure](/Modules/5/img/21.png)
 
 - **Figure 7**: Application code structure
 
 
-###**Experiments**
+## **Experiments**
 
 ![Table of experiments](/Modules/5/img/22.png)
 
 - **Figure 8**: Table of experiments
 
 
-###**Results**
+## **Results**
 
-###**Experiment ID 1**
+### **Experiment ID 1**
 
 ![Experiment 1 results](/Modules/5/img/23.png)
 
@@ -113,7 +113,7 @@ Change the number of devices simulated.
 The difference in response time between plain text messages and encrypted messages is negligible, with encryption introducing an overhead of only a few microseconds.
 
 
-###**Experiment ID 2**
+### **Experiment ID 2**
 
 
 ![Evidence of experiment results](/Modules/5/img/24.png)
@@ -129,7 +129,7 @@ The difference in response time between plain text messages and encrypted messag
 Encrypted messages provide a reasonable safeguard against any messages intercepted by an attacker
 
 
-###**Experiment ID 3**
+### **Experiment ID 3**
 
 
 ![Experiment 3 results](/Modules/5/img/26.png)
@@ -143,7 +143,7 @@ Although encryption does consistently introduce a small overhead of additional t
 
 
 
-###**Conclusion**
+### **Conclusion**
 
 The hypothesis that encrypting individual messages between IoT devices and the central controller enhances security without significantly affecting performance is supported by the results of our experiments. 
 
@@ -154,9 +154,9 @@ The hypothesis that encrypting individual messages between IoT devices and the c
 
 
 
-### **References**
+## **References**
 
-###References for Libraries Used
+### References for Libraries Used
 
 **Time library:**
 
