@@ -57,6 +57,7 @@ The following video provides evidence of application testing including results o
 
 
 
+
 ### **Example 1: Default simulation with 10 devices**
 
 The following command will execute the application and in doing so simulate 10 IoT devices sending both plain and encrypted messages to the controller.
