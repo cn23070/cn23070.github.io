@@ -158,40 +158,22 @@ The hypothesis that encrypting individual messages between IoT devices and the c
 
 ###References for Libraries Used
 
-**sqlite3:**
+**Time library:**
 
-Reference: SQLite Consortium. (n.d.). SQLite Documentation. Retrieved from https://www.sqlite.org/docs.html
+Python Software Foundation. (n.d.). time — Time access and conversions. Available at: https://docs.python.org/3/library/time.html [Accessed: 21 October 2024].
 
-Usage: Used as a lightweight database engine by the application.
+**Random library:**
 
-**hashlib:**
+Python Software Foundation. (n.d.). random — Generate pseudo-random numbers. Available at: https://docs.python.org/3/library/random.html [Accessed: 21 October 2024].
 
-Reference: Python Software Foundation. (n.d.). hashlib — Secure hashes and message digests. In Python 3.x Library Documentation. Retrieved from https://docs.python.org/3/library/hashlib.html
+**String library:**
 
-Usage: Provides secure hash and message digest algorithms, including SHA-256, used for password hashing.
+Python Software Foundation. (n.d.). string — Common string operations. Available at: https://docs.python.org/3/library/string.html [Accessed: 21 October 2024].
 
-**datetime:**
+**Pandas library (imported as pd):**
 
-Reference: Python Software Foundation. (n.d.). datetime — Basic date and time types. In Python 3.x Library Documentation. Retrieved from https://docs.python.org/3/library/datetime.html
+The Pandas Development Team. (n.d.). pandas: powerful Python data analysis toolkit. Available at: https://pandas.pydata.org/ [Accessed: 21 October 2024].
 
-Usage: Used for creating and managing timestamps of key events in the application.
-
-**cryptography:**
-
-Reference: The Cryptography Developers. (n.d.). Cryptography Library Documentation. Retrieved from https://cryptography.io/en/latest/
-Usage: Provides the Fernet symmetric encryption scheme for securely encrypting and decrypting content.
-
-**os:**
-
-Reference: Python Software Foundation. (n.d.). os — Miscellaneous operating system interfaces. In Python 3.x Library Documentation. Retrieved from https://docs.python.org/3/library/os.html
-
-Usage: Allows interaction with the underlying operating system, allowing local file upload by the application.   
-
-**getpass:**
-
-Reference: Python Software Foundation. (n.d.). getpass — Portable password input. In Python 3.x Library Documentation. Retrieved from https://docs.python.org/3/library/getpass.html
-
-Usage: Used to securely capture password input from the user without showing charachters on screen.
 
 ### Other References
 
