@@ -18,9 +18,11 @@ tags: [Module 7]
 
 <iframe src="https://essexuniversity-my.sharepoint.com/:p:/g/personal/cn23070_essex_ac_uk/EWnjHbHCo2pAu63pEJvr884Bmt4RAjWJuJHEDgCuhzf9BA?e=sAa0ii" width="600" height="400"></iframe>
 
+- **Figure 1**:Presentation!
+
 <iframe src="https://drive.google.com/file/d/1PrwThhg34D6luXJMQwRbvVPeFqCZuiuJ/view?usp=drive_link" width="600" height="400"></iframe>
 
-
+- **Figure 2**: Video
 
 ## Case Study: Data Privacy Issues in the United Kingdom
 #### Issue: NHS Data Sharing Controversy
