@@ -12,6 +12,16 @@ tags: [Module 7]
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/craig-norris-3b787610/)
 
 
+## Mid-Module Assignment 1: Presentation
+### EncroChat hacking and its effect in investigating cybercrime for the UK
+#### Individual Presentation By Craig Norris
+
+<iframe src="https://essexuniversity-my.sharepoint.com/:p:/g/personal/cn23070_essex_ac_uk/EWnjHbHCo2pAu63pEJvr884Bmt4RAjWJuJHEDgCuhzf9BA?e=sAa0ii" width="600" height="400"></iframe>
+
+<iframe src="https://drive.google.com/file/d/1PrwThhg34D6luXJMQwRbvVPeFqCZuiuJ/view?usp=drive_link" width="600" height="400"></iframe>
+
+
+
 ## Case Study: Data Privacy Issues in the United Kingdom
 #### Issue: NHS Data Sharing Controversy
 In January 2025, the UK government faced a backlash over plans to share NHS patient data with private companies for research purposes. The proposal aimed to leverage NHS patient data for medical advancements but raised significant concerns about patient privacy and consent (The Conversation, 2023).
