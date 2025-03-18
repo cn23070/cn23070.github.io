@@ -13,7 +13,7 @@ tags: [Module 7]
 
 
 ## Case Study: Data Privacy Issues in the United Kingdom
-####Issue: NHS Data Sharing Controversy
+#### Issue: NHS Data Sharing Controversy
 In January 2025, the UK government faced a backlash over plans to share NHS patient data with private companies for research purposes. The proposal aimed to leverage NHS patient data for medical advancements but raised significant concerns about patient privacy and consent (The Conversation, 2023).
 
 ![Module Introduction](/Modules/7/img/1.png)
