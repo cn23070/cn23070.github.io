@@ -60,7 +60,7 @@ The Conversation. (2023). Palantir: privacy fears over handing NHS data to US de
 
 | Parameter                                      | Type                        | Description                                                                                                       | References                 |
 | :--------                                      | :-------                    | :--------------------------                                                                                       | :------------------------- |
-| `Mid-Module Assignment 1: Presentation` | `Presentation`| Demonstrate my analysis of the EncroChat hacking and its impact on cybercrime investigations in the United Kingdom| [View Essay](https://xxxx) |
+| `Mid-Module Assignment 1: Presentation` | `Presentation`| Demonstrate my analysis of the EncroChat hacking and its impact on cybercrime investigations in the United Kingdom| [View Essay](https://essexuniversity-my.sharepoint.com/:p:/g/personal/cn23070_essex_ac_uk/EWnjHbHCo2pAu63pEJvr884Bmt4RAjWJuJHEDgCuhzf9BA?e=MDyisx) |
 | `xxx` | `Code` | xxx | [View Application](https://xxx)|
 
 
