@@ -16,7 +16,7 @@ tags: [Module 7]
 ### EncroChat hacking and its effect in investigating cybercrime for the UK
 #### Individual Presentation By Craig Norris
 
-<iframe src="https://youtu.be/VSJKWOc-FvU" width="600" height="400"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VSJKWOc-FvU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - **Figure 1**: Video Presentation
 
