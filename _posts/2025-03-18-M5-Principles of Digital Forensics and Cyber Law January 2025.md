@@ -20,6 +20,12 @@ tags: [Module 7]
 
 - **Figure 1**: Video Presentation
 
+[![Final video of fixing issues in your code in VS Code]
+(https://img.youtube.com/vi/VSJKWOc-FvU/maxresdefault.jpg)]
+(https://www.youtube.com/watch?v=VSJKWOc-FvU)
+
+https://youtu.be/VSJKWOc-FvU
+
 ## Case Study: Data Privacy Issues in the United Kingdom
 #### Issue: NHS Data Sharing Controversy
 In January 2025, the UK government faced a backlash over plans to share NHS patient data with private companies for research purposes. The proposal aimed to leverage NHS patient data for medical advancements but raised significant concerns about patient privacy and consent (The Conversation, 2023).
