@@ -12,8 +12,8 @@ tags: [Module 6]
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/craig-norris-3b787610/)
 
 
-## Mid-Module Assignment 1: Presentation
-### EncroChat hacking and its effect in investigating cybercrime for the UK
+## Individual Presentation
+### Solutions to Human Factor Cybersecurity Issues For Start-Ups
 #### Individual Presentation By Craig Norris
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OLwBkkqqzhA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
