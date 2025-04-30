@@ -1,33 +1,33 @@
 ---
 layout: post
-title: Module 2 Network Security March 2024
+title: Module 8 Research Methods and Professional Practice April 2025 B
 subtitle: How cyber security impacts on network systems and designs, focused especially on network vulnerability assessments. 
-categories: Module_2
-tags: [Module 2]
+categories: Module_8
+tags: [Module 8]
 ---
 
-*Module 2 will cover the impact of cyber security on network systems and designs, focusing especially on network vulnerability assessments. We will discuss techniques that can be used to scan, evaluate and in some case mitigate network vulnerabilities. It also will consider the area of vulnerability assessments and explain the various mechanisms and approaches encapsulated in the Vulnerability Assessment Continuum.*
+*Module 8 provided a practical foundation in research methods for conducting research in real-world settings. It covered essential tools and techniques, provided feedback through cases and projects, and addressed legal, social, ethical, and professional issues in computing projects, along with relevant codes of practice.*
 
 
-## Module 2: Learning Scope & Objectives
+## Module 8: Learning Scope & Objectives
 
 *“To realize a defendable environment, you must adopt a proactive approach to security—one that starts with assessment to understand your exposure. ”(McNab, C., 2017)*
 
-- Understand the fundamentals of vulnerability assessment in various systems.
-- Understand of the fundamentals of the provision of security in information networks.
-- Be aware of the various protocols and architectures used by various network systems.
-- An understanding of the use and benefits of various monitoring and logging tools
-- An understanding of how to create and use security vulnerability and assessment tools.
-- The ability to present critical arguments for specific actions or outcomes to a diverse audience.
-- The opportunity to reflect on and evaluate their personal development.
+- Gain skills to study and reflect on key research principles and methods across disciplines. 
+- Examine various research strategies and designs for projects. 
+- Develop competencies in data collection and analysis for independent research. Embrace a reflective and independent learning approach.
+- Assess the professional, legal, social, cultural, and ethical issues impacting computing professionals. 
+- Apply academic investigation principles to a computing research topic. 
+- Critically evaluate existing literature, research design, methodology, and data analysis. 
+- Create and critically assess a research proposal for the chosen topic.
 	
 
-## Module 2: Artefacts
+## Module 8: Artefacts
 
 
 | Parameter                                      | Type                        | Description                                                                                                       | References                 |
 | :--------                                      | :-------                    | :--------------------------                                                                                       | :------------------------- |
-| `Collaborative Discussion Forum 1 - Units 1-2` | `Student Forum Posts`       | Post a message that reflects your thoughts on what a digital enterprise is, what are the cyber security challenges and concerns with a fully digital enterprise, what are the cyber security challenges for a brick and mortar SME wanting to become a digital enterprise, and wether or not you agree with the views expressed |[All Forum Posts](https://www.my-course.co.uk/mod/forum/view.php?id=959185), [My Post](https://www.my-course.co.uk/mod/forum/discuss.php?d=218007)|
+| `Collaborative Discussion 1 - Units 1-3` | `Student Forum Posts`       | Post a message that reflects your thoughts on what a digital enterprise is, what are the cyber security challenges and concerns with a fully digital enterprise, what are the cyber security challenges for a brick and mortar SME wanting to become a digital enterprise, and wether or not you agree with the views expressed |[All Forum Posts](https://www.my-course.co.uk/mod/forum/view.php?id=959185), [My Post](https://www.my-course.co.uk/mod/forum/discuss.php?d=218007)|
 | `Collaborative Discussion Forum 2 - Unit 4` | `Student Forum Posts` | Post your thoughts on the issues of logging for security analysis versus the issues of log-related exploits. You should support your arguments with appropriate academic references. | [All Forum Posts](https://www.my-course.co.uk/mod/forum/view.php?id=959211), [My Initial Post](https://www.my-course.co.uk/mod/forum/discuss.php?d=224400)|
 | `Vulnerability Audit and Assessment - Baseline Analysis and Plan` | `Report`  | Vulnerability Audit and Assessment - Baseline Analysis and Plan | [View Report](https://essexuniversity-my.sharepoint.com/:w:/g/personal/cn23070_essex_ac_uk/EU1BCa9NCCdJofUkBG35xFUBgYDwyVE46-R-viPg_45TVA) 
 | `Vulnerability Audit and Assessment - Results and Executive Summary`         | `Report` | Following your analysis document that you submitted in Unit 3, you should now produce an executive summary that pulls together your findings, recommendations and conclusions in a clear and unambiguous format. | [View Report](https://essexuniversity-my.sharepoint.com/:w:/g/personal/cn23070_essex_ac_uk/EdvRgQGF-1RDgLo7qPxvFWkBunnNszOSRAuhaMk45YHe1A) 
