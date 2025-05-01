@@ -20,6 +20,10 @@ tags: [Module 8]
 - Apply academic investigation principles to a computing research topic. 
 - Critically evaluate existing literature, research design, methodology, and data analysis. 
 - Create and critically assess a research proposal for the chosen topic.
+
+## Module 8: Collaborative Discussion 1
+
+*“To realize a defendable environment, you must adopt a proactive approach to security—one that starts with assessment to understand your exposure. ”(McNab, C., 2017)*
 	
 
 ## Module 8: Artefacts
@@ -35,7 +39,7 @@ tags: [Module 8]
 
 
 
-## Module 2: Reflections
+## Module 8: Reflections
 
 *Information about what I learnt during this module and how*
 
@@ -64,7 +68,7 @@ Reviewing and discussing the assessment template from PurpleSec, helped with fra
 In conclusion this module has equipped me with a solid foundation in network security including the importance of protecting your network even though I began this module with little knowledge on networks. Importantly I also now know how using vulnerability assessments is a key part in securing a network or solution. I have a lot to learn still having only produced one vulnerability assessment report to date, but I am confident in my ability to help a business determine what cyber security threats they may be vulnerable to, and the importance of addressing them including remediation recommendations. I also now know such assessments must be replayed to continuously prepare for the ever-changing cyber risk landscape.
 
 
-#### Module 2 Reflection References
+#### Module 8 Reflection References
 
 Korateng, D. (2024). Peer Response. 23 December 2023. Collaborative Learning Discussion 1 [online forum]. Available from: https://www.my-course.co.uk/mod/forum/view.php?id=959185&forceview=1 [Accessed 17 April 2024].
 
