@@ -30,12 +30,23 @@ Different countries have adopted varied approaches to AI governance, reflecting 
 The RAND Corporation paper compares U.S. and Chinese AI governance approaches, noting key differences in domestic regulation focus, principles, and international governance implementation (RAND Corporation, 2023).
 
 #### Personal Views and Recommendations
-Given the diverse approaches to AI governance, I believe a balanced strategy that combines regulatory oversight with industry self-regulation could be effective. This hybrid approach would ensure that AI systems are developed and deployed responsibly while fostering innovation.
+Given the diverse approaches to AI governance, I believe a focus on areas of consesus should be priortised, whilst in parallel areas of contetion worked through with the aim of better allignment. Risk should be leveraged in order to determine objective and agreed areas to further advance globally, and existing international organisations and their functions such as the UNited Nations and World Health Organisation should be leveraged to facilaite this work. This view is supported by the Inter-Agency Working Group on Artificial Intelligence (2024), who states that AI governance within the UN system should focus on ethical considerations, international cooperation, and leveraging existing normative frameworks.
+
+![Leveraging existing instruments for technology governance](/Modules/8/img/4.png)
+
+- **Figure 4**: Leveraging existing instruments for technology governance (Inter-Agency Working Group on Artificial Intelligence, 2024)
 
 #### Justification from Literature
-The OECD AI Principles provide a solid foundation for international cooperation and interoperability, promoting innovative and trustworthy AI that respects human rights and democratic values 2. These principles emphasize inclusive growth, sustainable development, and well-being, which are essential for harnessing AI's potential while mitigating risks 2.
 
-Additionally, the Deloitte AI Governance Roadmap highlights the importance of transparency, fairness, accountability, and privacy in AI governance 4. These principles align with the findings of Corrêa et al. (2023) and underscore the need for robust governance frameworks to address ethical and legal challenges 1.
+The work by Corrêa et al. (2023) provides an oppurtuntiy for the international community to focus on common principles and areas of consensus that could inform future regulatory efforts.  
+
+![Top AI ethical principles and frameworks proposed by various organizations](/Modules/8/img/3.png)
+
+- **Figure 3**: Top AI ethical principles and frameworks proposed by various organizations (Corrêa et al., 2023)
+
+
+Both the OECD AI Principles and he Deloitte AI Governance Roadmap (2024) further support this by also highlighting and promoting a number of the same common AI priciples including transparency and explainability, security and reliability, as well as fairness and privacy. 
+
 
 #### Impact on Legal, Social, and Professional Issues
 Implementing a balanced AI governance strategy would have several implications:
@@ -69,6 +80,8 @@ Deloitte LLP, 2025. Strategic Governance of AI: A Roadmap for the Future. Availa
 RAND Corporation, 2023. Bridging the Artificial Intelligence Governance Gap. Available at: https://www.rand.org/content/dam/rand/pubs/perspectives/PEA3700/PEA3703-1/RAND_PEA3703-1.pdf [Accessed 2 May 2025]
 
 OECD, 2024. AI principles. Available at: https://www.oecd.org/en/topics/ai-principles.html.
+
+Inter-Agency Working Group on Artificial Intelligence, 2024. United Nations System White Paper on AI Governance. Chief Executives Board for Coordination. Available at: https://unsceb.org/sites/default/files/2024-04/United%20Nations%20System%20White%20Paper%20on%20AI%20Governance.pdf [Accessed 2 May 2025].
 
 ## e-Portfolio Activity: Collaborative Discussion 1
 
