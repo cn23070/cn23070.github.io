@@ -45,29 +45,85 @@ tags: [Module 8]
 
 #### Unit 1
 
-In the first week, we were introduced to Research Methods as a subject, beginning with an overview of the Scientific Method and ethical considerations in research.
+![Module Introduction](/Modules/8/img/1.png)
 
-Some key take aways include addressing the following questions:
+- **Figure 1**: Module Introduction (University of Essex Online, 2024)
 
-what is the Purpose of Research? To explore (gain familiarity with a topic or situation), to describe (detail your findings), and to explain (address the question "why?") (QuestionPro, 2021).
+In the first week of our unit on Research Methods, we explored the Scientific Method and ethical considerations in research. Key takeaways included understanding the purpose of research (explore, describe, explain (QuestionPro, 2021)), the importance of the scientific method for problem-solving (Andersen & Hepburn, 2020), and the two core types of reasoning: deductive and inductive (Miessler, D, 2018). 
 
+![The Difference Between Deductive and Inductive Reasoning](/Modules/8/img/2.png)
 
+- **Figure 2**: The Difference Between Deductive and Inductive Reasoning (Miessler, D, 2018)
 
+Deductive reasoning moves from an idea to an observation, while inductive reasoning goes from an observation to an idea. Both are forms of inference, drawing conclusions based on evidence and reasoning. We also emphasized the importance of research ethics, requiring ethical approval before data collection, and highlighted key principles as described in the Menlo Report(2023) such as respect, beneficence, justice, and respect for law and public interest. Additionally, we learnt the significance of professionalism and ethics in computing such as respecting others' rights, and promoting equal access to IT benefits(British Computer Society (BCS), n.d.), especially in the age of generative AI .
 
 #### Module 8 Reflection References
 
-Korateng, D. (2024). Peer Response. 23 December 2023. Collaborative Learning Discussion 1 [online forum]. Available from: https://www.my-course.co.uk/mod/forum/view.php?id=959185&forceview=1 [Accessed 17 April 2024].
+Anderson, H. and Hepburn, B. (2020) 'Scientific Method' in: Zalta, E. (Edns) The Stanford Encyclopedia of Philosophy (Winter 2020 edition). Metaphysics Research Lab, Stanford University.
 
-Hill, M. & Swinhoe, D. (2021). The 15 biggest data breaches of the 21st century. Available from: https://www.csoonline.com/article/534628/the-biggest-data-breaches-of-the-21st-century.html[Accessed 17 April 2024].
+Finn, M. and Shilton, K. (2023) 'Ethics governance development: The case of the Menlo Report', Social Studies of Science, 53(3), pp. 315-340.
 
-McNab, C. (2016). Network Security Assessment. 3rd Edition. Unknown Location: O'Reilly Media, Inc..
+QuestionPro. (2021) What is research?
 
-Ekelhart, A., Kiesling, E. and Kurniawan, K., 2018. Taming the logs-Vocabularies for semantic security analysis. Procedia Computer Science, 137, pp.109-119.
+British Computer Society (BCS). (n.d.). BCS Code of Conduct. Retrieved May 2, 2025, from https://www.bcs.org/membership-and-registrations/become-a-member/bcs-code-of-conduct/
 
-Temple-Raston, D. (2021). A 'Worst Nightmare' Cyberattack: The Untold Story Of The SolarWinds Hack. Available from: https://www.npr.org/2021/04/16/985439655/a-worst-nightmare-cyberattack-the-untold-story-of-the-solarwinds-hack [Accessed 17 April 2024].
+Miessler, D. (2018). The Difference Between Deductive and Inductive Reasoning. Retrieved May 2, 2025, from https://danielmiessler.com/blog/the-difference-between-deductive-and-inductive-reasoning
 
-SANS Institute. (2010). Successful SIEM and Log Management Strategies for Audit and Compliance. Available from: https://sansorg.egnyte.com/dl/GXxMMgSwsV [Accessed 17 April 2024].
-Bhatt, D. (2018). Modern day penetration testing distribution open source platform-Kali Linux-study paper. International Journal of Scientific and Technology Research. 7. 233-237.
+##### Key Takeaways:
+
+##### Purpose of Research:
+
+- Explore: Gain familiarity with a topic or situation.
+- Describe: Detail your findings.
+- Explain: Address the question "why?" (QuestionPro, 2021).
+
+##### Research Approach:
+
+- Follow the scientific method: Hypothesis formulation, reasoning, and testing, crucial for problem-solving (Andersen & Hepburn, 2020).
+
+##### Types of Reasoning:
+
+###### Deductive Reasoning:
+
+- Idea → Observation → Conclusion.
+- Example: "All men are mortal" → "Jason is a man" → "Jason is mortal."
+- Moves from idea to observation.
+- Perfect conclusions if assumptions are 100% correct.
+- Harder to use outside lab settings due to lack of fully agreed-upon facts.
+
+###### Inductive Reasoning:
+- Observation → Analysis → Theory.
+- Example: "I break out when I eat peanuts" → "Symptom of being allergic" → "I am allergic to peanuts."
+- Moves from observation to idea.
+- Useful for everyday problems with partial information.
+- Practical but conclusions may not always be right.
+
+##### Inference:
+
+Both deduction and induction involve drawing conclusions based on evidence and reasoning.
+
+##### Research Ethics:
+
+- Crucial for all research, especially involving people.
+- Ethical approval required before collecting data or conducting primary research.
+- Applies to both qualitative (interviews, focus groups) and quantitative (experiments, questionnaires) research.
+- Necessary for secondary data if it includes sensitive or personal information.
+- Permission needed for non-freely accessible secondary data.
+K
+##### Key Principles of Research Ethics (Menlo Report):
+
+**Respect**: Voluntary participation, consent, and anonymity.
+**Beneficence**: Balance benefits and risks for participants.
+**Justice**: Equal treatment and fair distribution of research benefits.
+**Respect for Law and Public Interest**: Legal due diligence, accountability, integrity, quality, and transparency.
+**Ethics vs. Morals**: Both concern 'right' and 'wrong' but differ in context.
+
+Ethics in Computing ncludes additional considerations in the age of generative AI.
+
+##### Professionalism:
+
+- Essential in all research areas. BCS Code of Conduct provides guidance on professionalism, data protection, and intellectual property.
+
 
 #### Professional Skills Matrix and Action Plan
 
