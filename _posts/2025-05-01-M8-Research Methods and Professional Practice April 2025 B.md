@@ -55,7 +55,13 @@ In the first week of our unit on Research Methods, we explored the Scientific Me
 
 - **Figure 2**: The Difference Between Deductive and Inductive Reasoning (Miessler, D, 2018)
 
-Deductive reasoning moves from an idea to an observation, while inductive reasoning goes from an observation to an idea. Both are forms of inference, drawing conclusions based on evidence and reasoning. We also emphasized the importance of research ethics, requiring ethical approval before data collection, and highlighted key principles as described in the Menlo Report(2023) such as respect, beneficence, justice, and respect for law and public interest. Additionally, we learnt the significance of professionalism and ethics in computing such as respecting others' rights, and promoting equal access to IT benefits(British Computer Society (BCS), n.d.), especially in the age of generative AI .
+Deductive reasoning moves from an idea to an observation, while inductive reasoning goes from an observation to an idea. Both are forms of inference, drawing conclusions based on evidence and reasoning. We also emphasized the importance of research ethics, requiring ethical approval before data collection, and highlighted key principles as described in the Menlo Report(2023) such as respect, beneficence, justice, and respect for law and public interest. 
+
+Additionally, we learnt the significance of professionalism and ethics in computing.
+
+"Ethical issues in computer science and information systems projects occur in three areas – how the research is performed, how you deal with participants and how you present your results." (Dawson, C, 2015) 
+
+Key considerations include integrity, competence, and committment to public interest (British Computer Society (BCS), n.d.), especially in the age of generative AI.
 
 #### Module 8 Reflection References
 
@@ -65,11 +71,32 @@ Finn, M. and Shilton, K. (2023) 'Ethics governance development: The case of the 
 
 QuestionPro. (2021) What is research?
 
+Dawson, C. (2015). Projects in Computing and Information Systems. 3rd Edition. [Insert Publisher Location]: Pearson International Content.
+
 British Computer Society (BCS). (n.d.). BCS Code of Conduct. Retrieved May 2, 2025, from https://www.bcs.org/membership-and-registrations/become-a-member/bcs-code-of-conduct/
 
 Miessler, D. (2018). The Difference Between Deductive and Inductive Reasoning. Retrieved May 2, 2025, from https://danielmiessler.com/blog/the-difference-between-deductive-and-inductive-reasoning
 
-##### Key Takeaways:
+
+#### Professional Skills Matrix and Action Plan
+
+*What skills have I gained or enhanced as a result of this module and how can I use it? What else do I need to learn?*
+
+- Abiltiy to identify and analyse security threats and vulnerabilities in network systems and determine appropriate methodologies, tools and techniques to manage and/or solve them.
+- ability to design and critically appraise computer programs and systems to produce solutions that help manage and audit risk and security issues.
+- Experiance gathering and synthesising information from multiple sources (including internet security alerts and warning sites) to aid in the systematic analysis of security breaches and issues.
+- Aility to articulate the legal, social, ethical and professional issues faced by information security and risk professionals.
+
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://cn23070.github.io/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/craig-norris-3b787610/)
+
+
+### Module 8: Notes
+
+#### Unit 1
 
 ##### Purpose of Research:
 
@@ -125,19 +152,5 @@ Ethics in Computing ncludes additional considerations in the age of generative A
 - Essential in all research areas. BCS Code of Conduct provides guidance on professionalism, data protection, and intellectual property.
 
 
-#### Professional Skills Matrix and Action Plan
-
-*What skills have I gained or enhanced as a result of this module and how can I use it? What else do I need to learn?*
-
-- Abiltiy to identify and analyse security threats and vulnerabilities in network systems and determine appropriate methodologies, tools and techniques to manage and/or solve them.
-- ability to design and critically appraise computer programs and systems to produce solutions that help manage and audit risk and security issues.
-- Experiance gathering and synthesising information from multiple sources (including internet security alerts and warning sites) to aid in the systematic analysis of security breaches and issues.
-- Aility to articulate the legal, social, ethical and professional issues faced by information security and risk professionals.
-
-
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://cn23070.github.io/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/craig-norris-3b787610/)
 
 
