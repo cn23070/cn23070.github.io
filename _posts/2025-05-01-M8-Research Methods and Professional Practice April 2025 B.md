@@ -21,9 +21,11 @@ tags: [Module 8]
 - Critically evaluate existing literature, research design, methodology, and data analysis. 
 - Create and critically assess a research proposal for the chosen topic.
 
-## Module 8: Collaborative Discussion 1
+## e-Portfolio Activity: Reflective Activity 1 – Ethics in Computing in the age of Generative AI
 
-*“To realize a defendable environment, you must adopt a proactive approach to security—one that starts with assessment to understand your exposure. ”(McNab, C., 2017)*
+## e-Portfolio Activity: Collaborative Discussion 1
+
+
 	
 
 ## Module 8: Artefacts
@@ -63,6 +65,10 @@ Additionally, we learnt the significance of professionalism and ethics in comput
 
 Key considerations include integrity, competence, and committment to public interest (British Computer Society (BCS), n.d.), especially in the age of generative AI.
 
+![Top AI ethical principles and frameworks proposed by various organizations](/Modules/8/img/3.png)
+
+- **Figure 3**: Top AI ethical principles and frameworks proposed by various organizations (Corrêa et al., 2023)
+
 #### Module 8 Reflection References
 
 Anderson, H. and Hepburn, B. (2020) 'Scientific Method' in: Zalta, E. (Edns) The Stanford Encyclopedia of Philosophy (Winter 2020 edition). Metaphysics Research Lab, Stanford University.
@@ -76,6 +82,8 @@ Dawson, C. (2015). Projects in Computing and Information Systems. 3rd Edition. [
 British Computer Society (BCS). (n.d.). BCS Code of Conduct. Retrieved May 2, 2025, from https://www.bcs.org/membership-and-registrations/become-a-member/bcs-code-of-conduct/
 
 Miessler, D. (2018). The Difference Between Deductive and Inductive Reasoning. Retrieved May 2, 2025, from https://danielmiessler.com/blog/the-difference-between-deductive-and-inductive-reasoning
+
+Corrêa, N.K., Galvão, C., Santos, J.W., Del Pino, C., Pinto, E.P., Barbosa, C., Massmann, D., Mambrini, R., Galvão, L., Terem, E. and de Oliveira, N., 2023. Worldwide AI ethics: A review of 200 guidelines and recommendations for AI governance. Patterns, 4(10).
 
 
 #### Professional Skills Matrix and Action Plan
