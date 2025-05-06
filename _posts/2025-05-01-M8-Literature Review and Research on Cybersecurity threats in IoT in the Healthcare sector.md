@@ -8,35 +8,95 @@ tags: [Module 8]
 
 ## Module 8 Literature Review and Research on Cybersecurity Threats in IoT in the Healthcare Sector
 
-*Modulxxx*
-
-- xxx
-
-
-
 #### Introduction
 
-![Introduction](/Modules/8/img/x.png)
+*Background information*
 
-- **Figure 1**: Introduction (University of Essex Online, 2024)
+- Overview of IoT in healthcare sector
+- Importance of cybersecurity and protection of patient data in healthcare IoT
 
-xxxx. 
+*Research Problem*
+
+- Identification of prevalent cyber threats in healthcare IoT
+
+*Purpose and Scope*
+
+- Literature review objectives
+- Scope of review
+
+*Thesis Statement*
+
+- The critical need to address cybersecurity threats in healthcare IoT to ensure patient safety and data security (CIA)
+
+#### Theoretical Framework
+
+*Cybersecurity concepts*
+
+- Definitions and key concepts related to cybersecurity
+- Specific theories and models relevant to IoT security
+
+
+*IoT in Healthcare*
+
+- Overview of IoT applications / technologies used in Healthcare
+- Benefits and challenges of IoT adoption in Healthcare
+
+
+#### Review of Literature
+
+*Types of Cybersecurity Threats*
+
+- Malware: prevalence and impact in healthcare IoT
+- Denial of Service (DoS) Attacks: prevalence and impact in healthcare IoT
+- Man-in-the-Middle (MitM) Attacks: prevalence and impact in healthcare IoT
+- Other Attacks: prevalence and impact in healthcare IoT
+
+*Vulnerabilities in IoT Devices*
+
+- Device Security Flaws: Studies covering common security flaws in IoT devices
+- Network Security Issues: Studies covering common network security flaws relevant to IoT Healthcare devices
+
+
+*Impact on Healthcare*
+
+- Patient Safety: Impact analysis from cyber threats
+- Operational / Regulatory / Other: Studies covering impacts caused by cyberattacks on IoT devices
+- Financial Implications: Financial impact analysis covering cybersecurity data breeches in Healthcare
+
+#### Mitigation Strategies
+
+*Technical Solutions*
+
+- Studies on impact of relevant cybersecurity technical countermeasures to address the threats and vulnerabilities
+
+*Policy & Regulation*
+
+- Overview of regulations covering IoT in Healthcare and their impact
+
+*Best Practice*
+
+- Studies covering best practice for securing IoT devices in Healthcare
+
+*Future Direction*
+
+- Studies covering emerging technologies that may potentially enhance the security IoT devices in Healthcare
+
+
+#### Conclusion
+
+*Summary of Findings*
+
+- Recap of key findings
+
+*Implications of Practice*
+
+- Discussion on practical implications of the findings 
+
+*Recommendations for Future Research*
+
+- Suggestions for areas that require further investigations
 
 
 #### References
 
-Anderson, H. and Hepburn, B. (2020) 'Scientific Method' in: Zalta, E. (Edns) The Stanford Encyclopedia of Philosophy (Winter 2020 edition). Metaphysics Research Lab, Stanford University.
-
-Finn, M. and Shilton, K. (2023) 'Ethics governance development: The case of the Menlo Report', Social Studies of Science, 53(3), pp. 315-340.
-
-QuestionPro. (2021) What is research?
-
-Dawson, C. (2015). Projects in Computing and Information Systems. 3rd Edition. [Insert Publisher Location]: Pearson International Content.
-
-British Computer Society (BCS). (n.d.). BCS Code of Conduct. Retrieved May 2, 2025, from https://www.bcs.org/membership-and-registrations/become-a-member/bcs-code-of-conduct/
-
-Miessler, D. (2018). The Difference Between Deductive and Inductive Reasoning. Retrieved May 2, 2025, from https://danielmiessler.com/blog/the-difference-between-deductive-and-inductive-reasoning
-
-Corrêa, N.K., Galvão, C., Santos, J.W., Del Pino, C., Pinto, E.P., Barbosa, C., Massmann, D., Mambrini, R., Galvão, L., Terem, E. and de Oliveira, N., 2023. Worldwide AI ethics: A review of 200 guidelines and recommendations for AI governance. Patterns, 4(10).
-
-
+*List of all cited resources*
