@@ -6,12 +6,9 @@ categories: Module_8
 tags: [Module 8]
 ---
 
-*Module 8 provided a practical foundation in research methods for conducting research in real-world settings. It covered essential tools and techniques, provided feedback through cases and projects, and addressed legal, social, ethical, and professional issues in computing projects, along with relevant codes of practice.*
-
-
 ## Module 8: Learning Scope & Objectives
 
-*“To realize a defendable environment, you must adopt a proactive approach to security—one that starts with assessment to understand your exposure. ”(McNab, C., 2017)*
+*Module 8 provided a practical foundation in research methods for conducting research in real-world settings. It covered essential tools and techniques, provided feedback through cases and projects, and addressed legal, social, ethical, and professional issues in computing projects, along with relevant codes of practice.*
 
 - Gain skills to study and reflect on key research principles and methods across disciplines. 
 - Examine various research strategies and designs for projects. 
