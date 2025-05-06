@@ -6,9 +6,9 @@ categories: Module_8
 tags: [Module 8]
 ---
 
-## e-Portfolio Activity: Reflective Activity 1 – Ethics in Computing in the age of Generative AI
+## Reflective Activity 1Ethics in Computing in the age of Generative AI
 
-*In the Correa et al (2023) paper, the authors state that “a lot of work is taking place to define the values and ideas that should guide AI advances. A key challenge, however, lies in establishing a consensus on these values, given the diverse perspectives of various stakeholders worldwide and the abstraction of normative discourse. Researchers and policy makers need better tools to catalogue and compare AI governance documents from around the world and to identify points of divergence and commonality.” After reviewing the article and reading how different countries across the world deal with the generative AI revolution, discuss your views on the subject and recommend what you think could be a suitable course of action..*
+* In the Correa et al (2023) paper, the authors state that “a lot of work is taking place to define the values and ideas that should guide AI advances. A key challenge, however, lies in establishing a consensus on these values, given the diverse perspectives of various stakeholders worldwide and the abstraction of normative discourse. Researchers and policy makers need better tools to catalogue and compare AI governance documents from around the world and to identify points of divergence and commonality.” After reviewing the article and reading how different countries across the world deal with the generative AI revolution, discuss your views on the subject and recommend what you think could be a suitable course of action.. *
 
 
 ##  Introduction
