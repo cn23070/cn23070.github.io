@@ -8,7 +8,7 @@ tags: [Module 8]
 
 ## Reflective Activity 1 Ethics in Computing in the age of Generative AI
 
-##  Introduction
+###  Introduction
 
 Corrêa et al. (2023) conducted a comprehensive meta-analysis of 200 governance policies and ethical guidelines for AI usage published by various entities worldwide, including public bodies, academic institutions, private companies, and civil society organizations. The study aimed to identify common principles and areas of consensus that could inform future regulatory efforts. The authors found 17 prevalent principles, such as transparency, accountability, privacy, and fairness, which are crucial for ethical AI governance.
 
