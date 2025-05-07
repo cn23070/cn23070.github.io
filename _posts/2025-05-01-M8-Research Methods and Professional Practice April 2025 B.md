@@ -58,6 +58,56 @@ Key considerations include integrity, competence, and committment to public inte
 
 - **Figure 3**: Top AI ethical principles and frameworks proposed by various organizations (Corrêa et al., 2023)
 
+#### Unit 2
+
+In Week 2, we covered defining a research question, conducting a literature review, and presenting the review.
+
+![Lecturecast: Research Questions, the Literature Review and the Research Proposal](/Modules/8/img/4b.png)
+
+- **Figure 4**: Lecturecast: Research Questions, the Literature Review and the Research Proposal (University of Essex Online, 2025)
+
+![Lecturecast: Understanding Research Questions](/Modules/8/img/5.png)
+
+- **Figure 5**: Lecturecast: Understanding Research Questions (University of Essex Online, 2025)
+
+A key lecturecast outcome was that a good research question focuses your project, sets boundaries, guides data collection and methods, and evolves iteratively (University of Essex Online, 2025).
+
+![Lecturecast: Mind Maps to illustrate the process](/Modules/8/img/6.png)
+
+- **Figure 6**: Lecturecast: Mind Maps to illustrate the process (University of Essex Online, 2025)
+
+Mind Maps start with an interest, generate questions, guide investigation steps, and lead to new discoveries.
+
+![Lecturecast: Research Question Guidelines](/Modules/8/img/7.png)
+
+- **Figure 7**: Research Question Guidelines (University of Essex Online, 2025)
+
+![Lecturecast: Assessing your working research questions](/Modules/8/img/8.png)
+
+- **Figure 8**: Assessing your working research questions (University of Essex Online, 2025)
+
+A key lecturecast learning outcome was that a good research question focuses your project, guiding readers to the specific subject within a broad topic. It sets boundaries, determines necessary data and methods, and evolves as you collect data. Developing research questions is an iterative process (University of Essex Online, 2025).
+
+Also, a literature review critically evaluates sources to answer research questions and meet objectives. It involves comparing, contrasting, and discussing strengths and limitations. Literature is searched, assessed for relevance, and properly cited. It identifies relevant sources to inform data collection and potentially answer research questions. It highlights key ideas, strengths, limitations, and gaps in existing literature, ensuring relevance and value to the research project (University of Essex Online, 2025).
+
+Sarantakos (2005) describes a literature review as a secondary analysis of existing information, placing the current study in its historical context. It involves finding various sources like reports, theses, journals, and databases (Saunders et al., 2012).
+
+“...research questions turn a general purpose or aim into specific questions to which specific, data-driven, concrete, answers can be given” (Cohen et al., 2018)
+
+![Lecturecast: Analysing research questions](/Modules/8/img/9.png)
+
+- **Figure 9**: Analysing research questions (University of Essex Online, 2025)
+
+![Lecturecast: Example Literature Review Structure](/Modules/8/img/10.png)
+
+- **Figure 10**: Example Literature Review Structure (University of Essex Online, 2025)
+
+![Lecturecast: Sections required for the Research Proposal](/Modules/8/img/11.png)
+
+- **Figure 11**: Sections required for the Research Proposal (University of Essex Online, 2025)
+
+Following on from the lecturecast we began a literature review for my chosen area of investigation.
+
 #### Module 8 Reflection References
 
 Anderson, H. and Hepburn, B. (2020) 'Scientific Method' in: Zalta, E. (Edns) The Stanford Encyclopedia of Philosophy (Winter 2020 edition). Metaphysics Research Lab, Stanford University.
@@ -73,6 +123,13 @@ British Computer Society (BCS). (n.d.). BCS Code of Conduct. Retrieved May 2, 20
 Miessler, D. (2018). The Difference Between Deductive and Inductive Reasoning. Retrieved May 2, 2025, from https://danielmiessler.com/blog/the-difference-between-deductive-and-inductive-reasoning
 
 Corrêa, N.K., Galvão, C., Santos, J.W., Del Pino, C., Pinto, E.P., Barbosa, C., Massmann, D., Mambrini, R., Galvão, L., Terem, E. and de Oliveira, N., 2023. Worldwide AI ethics: A review of 200 guidelines and recommendations for AI governance. Patterns, 4(10).
+
+Cohen, L., Manion, L. & Morrison, K. (2018) Research Methods in Education. 8th Ed. Abingdon: Routledge
+
+Sarantakos, S. (2005), Social Research. 3rd ed. New York: Palgrave Macmillan
+
+Saunders, M., Lewis, P. & Thornhill, A. (2007) Research Methods for Business Students. 4th ed. Essex: Pearson Education
+Limited
 
 
 #### Professional Skills Matrix and Action Plan
