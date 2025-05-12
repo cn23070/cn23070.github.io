@@ -108,6 +108,22 @@ Sarantakos (2005) describes a literature review as a secondary analysis of exist
 
 Following on from the lecturecast we began a literature review for my chosen area of investigation.
 
+#### Unit 3
+
+In Week 3, we learned about research methods and how to plan a research project. 
+
+They found out that researchers make certain assumptions about the world, knowledge, and personal values, which affect how they do research. 
+
+Research design was explained as the plan for answering a research question. 
+
+There were two main types: exploratory (to understand a problem better) and conclusive (to get clear answers). 
+
+![Two Main Types Of Research](/Modules/8/img/12.png)
+
+- **Figure 12**: Two Main Types Of Research (University of Essex Online, 2025)
+
+Students also learned about three main research methods: qualitative (based on experiences), quantitative (based on numbers), and mixed methods (a mix of both). Data could be collected directly or from existing sources.
+
 #### Module 8 Reflection References
 
 Anderson, H. and Hepburn, B. (2020) 'Scientific Method' in: Zalta, E. (Edns) The Stanford Encyclopedia of Philosophy (Winter 2020 edition). Metaphysics Research Lab, Stanford University.
