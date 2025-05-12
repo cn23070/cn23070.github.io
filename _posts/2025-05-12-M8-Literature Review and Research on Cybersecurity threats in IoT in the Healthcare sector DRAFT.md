@@ -40,49 +40,27 @@ What are the most prevelant cyber threats targeting healthcare Internet of Thing
 
 #### Methodology (Approx. 200 words)
 
+#### Methodology (Approx. 200 words)
+
 *Conduct a comprehensive systematic literature review*
 
 This project uses a qualitative, exploratory approach based on a systematic literature review (SLR) to identify cyber threats in healthcare IoT (H-IoT) and assess mitigation strategies using threat intelligence and vulnerability databases. It aligns with CyBOK's Cyber-Physical Systems Security and Cyber Threat Intelligence areas and meets BCS-aligned MSc academic and ethical standards.
 
-*Search strategy*
-
-A structured SLR protocol will be followed using guidelines adapted from Kitchenham’s framework for software engineering research:
-
-- Databases to be searched include: IEEE Xplore, ACM Digital Library, ScienceDirect, PubMed Central, SpringerLink, Google Scholar
-- Search terms will include a combination of : "Healthcare IoT" or "H-IoT" and "cyber threats" and "attack vectors" or "vulnerabilities" or "security risks" and "mitigation" or "cybersecurity countermeasures"
-- Inclusion criteria is peer reviewed papers published betweeen 2018 and 2025, in english, focusing on healthcare IoT threats, vulnerabilities and defences 
+- Databases: IEEE Xplore, Scopus, PubMed, ACM Digital Library, ScienceDirect, PubMed Central, SpringerLink, Google Scholar.
+- Inclusion criteria: Peer-reviewed publications (2018–2025), peer reviewed papers, in english, focusing on healthcare IoT threats, vulnerabilities and defences 
+- Search strategy: “Healthcare IoT cyber threats,” “H-IoT vulnerabilities,” “medical IoT security,” “threat intelligence healthcare,” “CVE medical devices,” "Healthcare IoT" or "H-IoT" and "cyber threats" and "attack vectors" or "vulnerabilities" or "security risks" and "mitigation" or "cybersecurity countermeasures" etc.
 - Exclusion criteria include studies not related to healthcare, papers focusing only on general IoT and not healthcare IoT, articles with insufficient technical detail on threats and countermeasures
 
-*Threat Intelligence and Vulnerability Data Analysis*
+*Data Extraction and Synthesis*
 
-To complement the literature review, structured data will be extracted from reputable threat intelligence sources, including MITRE ATT&CK for ICS/IoT, Nist National Vulnerability Database (NVD), Common Vulnerabilities and Exposures (CVE) records, and CISA Healthcare Cybersecurity Bulletins.
-
+- Threat Intelligence and Vulnerability Data Analysis
+- Structured data extracted from reputable threat intelligence sources, including MITRE ATT&CK for ICS/IoT, Nist National Vulnerability Database (NVD), Common Vulnerabilities and Exposures (CVE) records, and CISA Healthcare Cybersecurity Bulletins.
 - Threat instances will be classified by: Type, Impact, Affected device and / or system, Mitigation
 - Data will be organised into a Threat / Mitigation Table, which will form a key project artifact.
 
-*Ethical Considerations*
-
-Using insights from both the literature and intelligence data, the project will develop a A Risk Assessment Matrix that categorizes common threats by impact and likelihood which will form a key project artefact.
-
-*Risk and Mitigation Framework Development*
-
-An ethical self-assessment form covering ethical considerations and response to be submitted to the University Ethics Board for approval
-
-#### Theoretical Framework
-
-*Cybersecurity concepts*
-
-- Definitions and key concepts related to cybersecurity
-- Specific theories and models relevant to IoT security
 
 
-*IoT in Healthcare*
-
-- Overview of IoT applications / technologies used in Healthcare
-- Benefits and challenges of IoT adoption in Healthcare
-
-
-#### Review of Literature
+#### Review of Literature (Approx. 800 words)
 
 *Types of Cybersecurity Threats*
 
@@ -125,8 +103,6 @@ Luna, R., Rhine, E., Myhra, M., Sullivan, R. and Kruse, C.S., 2016. Cyber threat
     -- Limitations: Old paper (2016) that does not address modern day IoT complexities and is not device specific.
 	-- Gaps: No threat intelligence integation and limited applicability to IoT enviroments.
 	
-
-
 *Mitigation Strategies*
 
 - Studies on impact of relevant cybersecurity technical countermeasures to address the threats and vulnerabilities
@@ -142,59 +118,13 @@ Khatun, M.A., Memon, S.F., Eising, C. and Dhirani, L.L., 2023. Machine learning 
     -- Limitations: Lacking empirical validation of proposals
 	-- Gaps: No coverage of integation with existing healthcare IT systems.
 
-#### Ethical considerations and risk assessment
+#### Critical Evaluation (Approx. 400 words)
 
-SUmmary: With no human subjects involved, the project poses minimal ethical risk. It uses data from public or academically licensed sources and adheres to responsible disclosure principles, avoiding detailed discussion of unpatched vulnerabilities.
 
-- Concern: Published explicit, detailed exploit mechanisms might aid malicious actors.
-- Response: Emphasise reponsible disclosure and avoid uneceserary technical details or breakdowns of active vulnerabilities unless already mitigated or published in advisories.
-- Concern: Skewed representaiton due to undereported threats in developing countries can lead to solutions that are not applicable globally.
-- Response: Acknowledge source bias, seek complementary database or litereture covering global context where possible
+#### Conclusion and Future Directions (Approx. 150 words)
 
-![Risk Assessment Matrix](/Modules/8/img/x.png)
-
-- **Figure 1**: Risk Assessment Matrix (Norris, 2025)
-
-#### Description of artifact(s) that will be created
-
-*Literature Review Document (Primary Academic Output)*
-
-- Content: A concise, critical review of peer-reviewed sources on key threats to Healthcare IoT (H-IoT), covering categories like ransomware, data breaches, and DoS attacks, along with mitigation strategies such as threat intelligence sharing, machine learning-based anomaly detection, and encryption practices.
-	-- Mapped CyBOK Area: Cyber-Physical Systems Security, Security Operations & Incident Management, Risk Management & Governance.
-	-- Value: Offers a scholarly basis and valuable insights for practitioners aiming to comprehend H-IoT threat patterns and the effectiveness of mitigation strategies.
-	
-*Threat Intelligence Mapping Dataset (Supplementary Artefact)*
-
-- Content: A structured table or spreadsheet documenting known threats (CVE entries, known attacks), related IoT devices or systems, and associated mitigation strategies from sources like MITRE ATT&CK, NIST NVD, and peer-reviewed papers.
-	-- Mapped CyBOK Area: Cyber Threat Intelligence.
-	-- Value: Demonstrates application of academic and technical knowledge to collate actionable intelligence from real-world data.
-	
-*Risk Assessment Matrix (Supplementary Artefact)*
-
-- Content: A risk matrix evaluating the impact and likelihoodof cyber threats on various H-IoT environments (e.g., remote patient monitoring, smart implants).
-	-- Mapped CyBOK Area: Risk Management & Governance.
-	-- Value: Applies theory to practical decision-making frameworks that healthcare organisations might adopt.
-	
-	
-#### Timeline and proposed activities
-
-![Timeline](/Modules/8/img/x.png)
-
-- **Figure 1**: Timeline (Norris, 2025)
-
-#### Conclusion
-
-*Summary of Findings*
-
-- Recap of key findings
-
-*Implications of Practice*
-
-- Discussion on practical implications of the findings 
-
-*Recommendations for Future Research*
-
-- Suggestions for areas that require further investigations
+- Conclusions 
+- Recommendations 
 
 
 #### References

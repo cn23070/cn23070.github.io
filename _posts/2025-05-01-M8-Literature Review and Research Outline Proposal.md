@@ -10,14 +10,14 @@ tags: [Module 8]
 
 #### Introduction (Approx. 200 words)
 
-- The aim of the review 
-- The target audience for this research
+- Aim of the review 
+- Target audience for this research
 - Significance to the research problem
 
 - Overview of IoT in healthcare sector
 - Importance of cybersecurity and protection of patient data in healthcare IoT
 
-#### Context, Perspective, and Theoretical Framework (Approx. 250 words)
+#### Context, Perspective, and Theoretical Framework (Approx. 200 words)
 
 - Context 
 
@@ -25,10 +25,7 @@ tags: [Module 8]
 
 - security risk management perspective
 - What are the most prevelant cyber threats targeting healthcare Internet of Things (IoT) systems, and how can these threats be best mitigated using current threat intelligence and vulnerability data?
-- Frameworks:
-
-*Framework*
-
+- *Frameworks:*
 - STRIDE model to categorize threats.
 - MITRE ATT&CK and Cyber Kill Chain to assess threat behaviors and mitigation tactics.
 - CyBOK framework to map findings to recognized domains of cybersecurity knowledge.
@@ -50,7 +47,7 @@ tags: [Module 8]
 - Data will be organised into a Threat / Mitigation Table, which will form a key project artifact.
 
 
-#### Review of Literature (Approx. 700 words)
+#### Review of Literature (Approx. 800 words)
 
 *Types of Cybersecurity Threats*
 	
