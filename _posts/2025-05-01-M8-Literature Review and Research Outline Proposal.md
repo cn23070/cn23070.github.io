@@ -8,10 +8,9 @@ tags: [Module 8]
 
 ## Project Title: Module 8 Literature Review  on Cybersecurity Threats in IoT in the Healthcare Sector
 
-#### Introduction (Approx. 200 words)
+#### Introduction (Approx. 250 words)
 
 - Aim of the review 
-- Target audience for this research
 - Significance to the research problem
 
 - Overview of IoT in healthcare sector
@@ -23,7 +22,7 @@ tags: [Module 8]
 
 *Research Question*
 
-- security risk management perspective
+- security risk management perspective covering multi layer nature of h-IoT (physical, connectivty, application)
 - What are the most prevelant cyber threats targeting healthcare Internet of Things (IoT) systems, and how can these threats be best mitigated using current threat intelligence and vulnerability data?
 - *Frameworks:*
 - STRIDE model to categorize threats.
