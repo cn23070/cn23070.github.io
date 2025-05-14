@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Module 8 e-Portfolio Activity 2: Literature Review Proposed Outline for Topic:  Cybersecurity Threats in IoT in the Healthcare Sector
+title: Module 8 e-Portfolio Activity 2 Literature Review Proposed Outline for topic Cybersecurity Threats in IoT in the Healthcare Sector
 subtitle: Provide a outline for the proposed literature review for assigment 1 of module 8
 categories: Module_8
 tags: [Module 8]
 ---
 
-## Project Title: Module 8 Literature Review  on Cybersecurity Threats in IoT in the Healthcare Sector
+## Project Title: Module 8 Literature Review Proposed Outline for Topic: Cybersecurity Threats in IoT in the Healthcare Sector
 
 #### Introduction (Approx. 250 words)
 
