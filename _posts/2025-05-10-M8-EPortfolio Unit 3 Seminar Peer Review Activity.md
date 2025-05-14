@@ -6,6 +6,73 @@ categories: Module_8
 tags: [Module 8]
 ---
 
+## 🎓 Reflective Activity 2 – Unit 3 Seminar: Peer Review Activity
+
+### ✍️ *Summary Overview of Two Selected Papers*
+
+| **Paper** | **Title & Authors** | **Summary** |
+|----------|---------------------|-------------|
+| **Paper 1** | *Blockchain and Lightweight Deep Learning-Based DDoS Mitigation Framework for H-IoT Security* <br> ElSayed et al. (2025a) | Proposes a decentralized security framework combining blockchain and lightweight deep learning to protect H-IoT systems from DDoS attacks. |
+| **Paper 2** | *Security and Privacy Threats in H-IoT: A Comprehensive Taxonomy, Challenges, and Future Directions* <br> Alzahrani et al. (2024) | Offers a detailed taxonomy of security and privacy threats in H-IoT, highlighting key challenges and future research directions. |
+
+---
+
+### 🎯 *Purpose, Problem, and Research Questions*
+
+| **Paper** | **Research Question** | **Contribution** |
+|----------|------------------------|------------------|
+| **Paper 1** | How can a decentralized framework combining blockchain and lightweight deep learning be designed to effectively detect and mitigate DDoS attacks in H-IoT while preserving privacy and reducing overhead? | Introduces a scalable, privacy-preserving, and technically innovative solution beyond just DDoS mitigation. |
+| **Paper 2** | What are the key security and privacy threats in H-IoT, and how can they be categorized to guide future research? | Provides a structured classification of threats and highlights technical, regulatory, and privacy challenges. |
+
+---
+
+### 🧪 *Research Methodology Evaluation*
+
+| **Paper** | **Methodology** | **Appropriateness** |
+|----------|------------------|----------------------|
+| **Paper 1** | Design Science + Experimental Evaluation | ✅ Suitable for solution-focused research; validated through simulations using real datasets. |
+| **Paper 2** | Systematic Literature Review + Taxonomical Analysis | ✅ Ideal for exploratory research; lacks empirical data but offers a strong conceptual foundation. |
+
+---
+
+### 📊 *Data Collection & Analysis*
+
+- **Paper 1:**  
+  ✔️ Used real-world datasets (e.g., CICIDS2017, CICDoS2016) and machine learning models (e.g., Random Forest) to evaluate performance.
+
+- **Paper 2:**  
+  ✔️ Synthesizes existing literature; while it lacks empirical data, this aligns with its conceptual and exploratory goals.
+
+---
+
+### 🔍 *Support for Claims & Conclusions*
+
+- **Paper 1:**  
+  ✔️ Supports claims with measurable evidence from simulations and performance metrics.
+
+- **Paper 2:**  
+  ✔️ Provides a rigorous, literature-backed foundation for its taxonomy and conclusions.
+
+---
+
+### 💡 *Enhancement Suggestions*
+
+| **Paper** | **Suggestions** |
+|----------|------------------|
+| **Paper 1** | Expand scope beyond DDoS to include other threat types; evaluate energy efficiency. |
+| **Paper 2** | Add case studies, real-world incident reports, or survey data to enrich findings. |
+
+---
+
+### 📚 References
+
+- ElSayed, A., Zhang, Y., Khan, M.A. and Alazab, M., 2025. *Blockchain and lightweight deep learning-based DDoS mitigation framework for H-IoT security*. Sensors, 25(5), p.1346. Available at: [https://doi.org/10.3390/s25051346[Accessed 12 May 2025].
+
+- Alzahrani, B., Alotaibi, F. and Alghamdi, A., 2024. *Security and privacy threats in H-IoT: A comprehensive taxonomy, challenges, and future directions*. Computers, Materials & Continua, 80(2), pp.2511–2533. Available at: https://doi.org/10.32604/cmc.2024.052994 [Accessed 12 May 2025].
+
+
+
+
 ## Reflective Activity 2 Unit 3 Seminar Peer Review Activity
 
 ###  *Provde a summary overview of two papers selected*
