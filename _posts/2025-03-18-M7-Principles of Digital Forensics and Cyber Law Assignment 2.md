@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Module 7 Principles of Digital Forensics and Cyber Law January 2025
+title: Module 7 Principles of Digital Forensics and Cyber Law January 2025 Assignment 2
 subtitle: Introduction to key aspects of law and the legal system, and the principles of evidence collection and forensic analysis, different types of evidence and methods of evidence presentation, in a cyber security context.. 
 categories: Module_7
 tags: [Module 7]
@@ -12,24 +12,7 @@ tags: [Module 7]
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/craig-norris-3b787610/)
 
 
-# 🎓 Mid-Module Assignment 1: Presentation
-
-## 🔍 EncroChat Hacking and Its Effect in Investigating Cybercrime for the UK
-
-### 👤 Individual Presentation by *Craig Norris*
-
----
-
-<div align="center">
-
-🎥  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VSJKWOc-FvU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-
-**Figure 1**: *Video Presentation*
-
-</div>
-
----
+# 🎓 Mid-Module Assignment 2
 
 # 🕵️ Case Study: Data Privacy Issues in the United Kingdom
 
