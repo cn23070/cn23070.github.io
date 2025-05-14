@@ -14,7 +14,7 @@ tags: [Module 7]
 
 # 🎓 Mid-Module Assignment 1: Presentation
 
-## 🔍 EncroChat Hacking and Its Effect in Investigating Cybercrime for the UK
+## 🔍 EncroChat Hacking and Its Effect in Investigating Cybercrime in the UK
 
 ### 👤 Individual Presentation by *Craig Norris*
 
@@ -25,7 +25,7 @@ tags: [Module 7]
 🎥  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VSJKWOc-FvU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-**Figure 1**: *Video Presentation*
+**Figure 1**: *Embedded video presentation on EncroChat and UK cybercrime investigations.*
 
 </div>
 
