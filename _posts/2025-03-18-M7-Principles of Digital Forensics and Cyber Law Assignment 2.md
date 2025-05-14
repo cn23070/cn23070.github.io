@@ -7,14 +7,27 @@ tags: [Module 7]
 ---
 	
 
-## 🔗 Links 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://cn23070.github.io/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/craig-norris-3b787610/)
+## 🔗 Useful Links
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://cn23070.github.io/">
+        <img src="https://img.shields.io/badge/My_Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio Badge"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/craig-norris-3b787610/">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
-# 🎓 Mid-Module Assignment 2
+## 🎓 Mid-Module Assignment 2
 
-# 🕵️ Case Study: Data Privacy Issues in the United Kingdom
+## 🕵️ Case Study: Data Privacy Issues in the United Kingdom
 
 ### ⚠️ Issue: NHS Data Sharing Controversy
 
