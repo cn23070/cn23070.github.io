@@ -40,8 +40,6 @@ What are the most prevelant cyber threats targeting healthcare Internet of Thing
 
 #### Methodology (Approx. 200 words)
 
-#### Methodology (Approx. 200 words)
-
 *Conduct a comprehensive systematic literature review*
 
 This project uses a qualitative, exploratory approach based on a systematic literature review (SLR) to identify cyber threats in healthcare IoT (H-IoT) and assess mitigation strategies using threat intelligence and vulnerability databases. It aligns with CyBOK's Cyber-Physical Systems Security and Cyber Threat Intelligence areas and meets BCS-aligned MSc academic and ethical standards.
