@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Module 8 Assignment 3 DRAFT Research Methods and Professional Practice April 2025 B
-subtitle: How cyber security impacts on network systems and designs, focused especially on network vulnerability assessments. 
+subtitle: How cyber security impacts on network systems and designs focused especially on network vulnerability assessments. 
 categories: Module_8
 tags: [Module 8]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Module 8 ePortfolio Activity One: Ethics in Computing in the age of Generative AI
-subtitle: How cyber security impacts on network systems and designs, focused especially on network vulnerability assessments. 
+title: Module 8 ePortfolio Activity One Ethics in Computing in the age of Generative AI
+subtitle: Ethics in Computing in the age of Generative AI. 
 categories: Module_8
 tags: [Module 8]
 ---
