@@ -110,6 +110,7 @@ Following on from the lecturecast we began a literature review for my chosen are
 
 #### Unit 3
 
+
 In Week 3, we learned about research methods and how to plan a research project. 
 
 They found out that researchers make certain assumptions about the world, knowledge, and personal values, which affect how they do research. 
@@ -122,7 +123,24 @@ There were two main types: exploratory (to understand a problem better) and conc
 
 - **Figure 12**: Two Main Types Of Research (University of Essex Online, 2025)
 
-Students also learned about three main research methods: qualitative (based on experiences), quantitative (based on numbers), and mixed methods (a mix of both). Data could be collected directly or from existing sources.
+Students also learned about three main research methods: qualitative (based on experiences), quantitative (based on numbers), and mixed methods (a mix of both). Data could be collected directly or from existing
+ sources.
+ 
+#### Unit 4
+
+This unit introduced key qualitative data collection methods (case studies, focus groups, and observations), while also noting how some of these methods can be adapted for quantitative research. AN important point was that you may need to combine multiple methods to gather comprehensive data for your research.
+ 
+ 
+
+| **Method**                | **Purpose**                                                                 | **Method Details**                                               | **Key Considerations**                                                                                                                                         |
+|---------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Case Studies**          | In depth exploration of individuals or groups to generate hypotheses.       | In depth research and study of individuals or groups.            | Not suitable for determining cause and effect. May suffer from researcher bias. Risk of weak generalizations due to atypical cases. Limited external validity. |
+| **Focus Groups**          | Gather insights from a small, targeted group to answer “why,” “what,” “how”.| Group of people chosen to express their insights on the topic.   | Participants should share common backgrounds and experiences. Useful for understanding perceptions. Can also inform quantitative research.                    |
+| **Quantitative Observation** | Collects numerical data (e.g., weight, volume, frequency).                  | Observing numerical values such as weight, volume, shape.        | Enables statistical analysis and objective measurement. Often involves surveys or experiments.                                                                |
+| **Qualitative Observation** | Observes characteristics and behaviors in natural settings.                 | Monitoring of characteristics from a distance.                   | Respondents should be in a comfortable environment. Researcher may be a passive observer or an active participant.                                             |
+
+
+
 
 #### Module 8 Reflection References
 
