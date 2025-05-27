@@ -156,6 +156,12 @@ The unit also introduced pre and post testing techniques, methods to improve res
 
 - **Figure 15**: Example Pre and post testing methods (University of Essex Online, 2025)
 
+Using case studies, we also updated our e-portfolio with examples of survey data misuse and the corresponding implications.
+
+![Two Main Types Of Research](/Modules/8/img/16.png)
+
+- **Figure 15**: Example survey data misuse (University of Essex Online, 2025)
+
 
 
 #### Module 8 Reflection References
