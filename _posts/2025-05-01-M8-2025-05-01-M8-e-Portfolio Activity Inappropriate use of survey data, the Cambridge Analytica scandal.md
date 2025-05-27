@@ -7,7 +7,7 @@ tags: [Module 8]
 ---
 
 
-## 🗂️ e-Portfolio: Inappropriate Use of Survey Data – The Cambridge Analytica Scandal (2018)
+## 🗂️ EPortfolioActivity, Inappropriate Use of Survey Data .. The Cambridge Analytica Scandal (2018)
 
 Cambridge Analytica made the news in the United Kingdom and USA for gathering and sharing data from millions of Facebook users without their consent (**Confessore, 2018**). The data was obtained through what appeared to be innocuous surveys on Facebook in the guise of personality questionnaires. Although several users consented, the application accessed the data of their friends as well, without their knowledge or consent.
 
