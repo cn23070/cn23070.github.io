@@ -140,6 +140,15 @@ This unit introduced key qualitative data collection methods (case studies, focu
 | **Qualitative Observation** | Observes characteristics and behaviors in natural settings.                 | Monitoring of characteristics from a distance.                   | Respondents should be in a comfortable environment. Researcher may be a passive observer or an active participant.                                             |
 
 
+#### Unit 5
+
+In this unit we explored the foundational tools and techniques used in both qualitative and quantitative research, specifically focusing on interviews, surveys, and questionnaire design.
+I now better understand the structure and purpose of questionnaires within surveys, and how to design effective questions. The unit also introduced pre- and post-testing techniques, methods to improve response rates, and basic strategies for analyzing collected data. Through lectures, readings, and practical activities, I developed the skills to select appropriate tools for their investigations and design data collection instruments aligned with their research goals.
+
+![Two Main Types Of Research](/Modules/8/img/14.png)
+
+- **Figure 14**: Example data collection instruments aligned with different research goals (University of Essex Online, 2025)
+
 
 
 #### Module 8 Reflection References
