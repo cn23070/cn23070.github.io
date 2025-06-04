@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Module 8 e-Portfolio Activity: Inappropriate Use of Survey Data – The Cambridge Analytica Scandal (2018)
+title: Module 8 e-Portfolio Activity Inappropriate Use of Survey Data – The Cambridge Analytica Scandal (2018)
 subtitle: Examples illustrating the importance of ethical survey design and data handling. 
 categories: Module_8
 tags: [Module 8]
