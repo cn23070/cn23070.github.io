@@ -164,7 +164,7 @@ Using case studies, we also updated our e-portfolio with examples of survey data
 
 #### Unit 6
 
-Unit 6 introduced us to the foundational principles of quantitative methods in data analysis, focusing on how numerical data can be used to extract meaningful insights through descriptive statistics.
+Unit 6 provided a foundation in quantitative data analysis, emphasizing how numerical data can be summarized and interpreted using descriptive statistical techniques to uncover meaningful patterns
 
 ![Quantitative methods in data analysis](/Modules/8/img/17.png)
 
@@ -174,7 +174,34 @@ Unit 6 introduced us to the foundational principles of quantitative methods in d
 
 During Unit 7 we learned how to use inferential statistics to make conclusions about a population from sample data. The unit introduced probability and hypothesis testing, helping students understand how to test assumptions and interpret results. Activities included lectures, readings, worksheets on hypothesis testing, and a seminar, all aimed at building practical data analysis skills.
 
+![Inferential statistics for conclusions](/Modules/8/img/18.png)
 
+- **Figure 18**: Inferential statistics for conclusions (University of Essex Online, 2025)
+
+#### Unit 8
+
+Unit 8 shifted the focus from statistical methods to the practical handling and presentation of data, both quantitative and qualitative. It explored the unique challenges of analyzing qualitative data—such as its subjective nature and the need for coding—and contrasted this with the structured approach of quantitative analysis. The unit also introduced data visualisation as a key tool for communicating insights effectively, highlighting the role of dashboards in business intelligence. Students learned how to choose appropriate charts for different data types and how to critically interpret visual data presentations. Activities included readings, peer discussions, completing a charts worksheet, and submitting a research proposal outline.
+
+![Inferential statistics for conclusions](/Modules/8/img/18.png)
+
+- **Figure 18**: Inferential statistics for conclusions (University of Essex Online, 2025)
+
+#### Unit 9
+
+Unit 9 focused on three critical concepts in research design: validity, reliability, and generalisability. These elements determine the trustworthiness and applicability of research findings and must be considered before data collection begins. The unit clarified the distinction between reliability (consistency of measurement) and validity (accuracy and relevance of measurement), emphasizing that reliability is a prerequisite for validity. It also revisited the differences between qualitative and quantitative data, highlighting how each type should be analyzed and presented. Activities included a lecturecast, readings on data presentation, a charts worksheet, and a summary post in the discussion forum, all aimed at reinforcing the importance of designing robust and credible research.
+
+#### Unit 10
+
+Unit 10 introduced the essential skills of research writing, focusing on how to effectively structure and communicate a research project. The unit emphasized the importance of clear, structured writing for dissertations, research proposals, and potential publications. Students explored the key components of a dissertation—such as the introduction, literature review, methodology, and analysis—and learned strategies for approaching each section. The unit also brought together previous work on topic selection, literature review, and research design, culminating in Assignment 2: the creation of a research proposal presentation. Activities included a lecturecast, readings, submission of statistical worksheets, and the development of a presentation with a transcript.
+
+
+#### Unit 11
+
+Unit 11 focused on professional development through the completion and reflection on your e-Portfolio. This unit emphasized the value of e-portfolios as tools for showcasing your learning journey, supporting career development, and enhancing employability. Students were encouraged to reflect on their learning across the programme, complete a Professional Skills Matrix, and develop an action plan for future growth. The unit also introduced the Learning Loop, a reflective tool to evaluate personal and academic progress. Activities included readings on the use of e-portfolios, seminar discussions, and preparation for the final e-Portfolio submission in Unit 12.
+
+#### Unit 12
+
+During the final unit of the module we were introduced to the principles of project management with a focus on managing risk and change throughout the project life cycle. Students explored the nature of computing projects, the importance of selecting appropriate project methodologies, and the need for flexibility in managing evolving project requirements. The unit emphasized that no project is risk free and highlighted the importance of identifying, assessing, and planning for potential risks. It also covered the use of change control processes to manage project scope, cost, and timelines effectively. Activities included readings on project and risk management, a self-assessment quiz, and the final submission of the individual e-Portfolio with a reflective piece.
 
 
 #### Module 8 Reflection References
