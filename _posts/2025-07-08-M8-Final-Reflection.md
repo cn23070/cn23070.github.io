@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Module 8 Assignment 3 Final Reflection
-subtitle: Final Reflective Reflection for Research Methods and Professional Practice.
+title: Module 8 Final Reflection
+subtitle: Final Reflective Reflection for Module Research Methods and Professional Practice.
 categories: Module_8
 tags: [Module 8]
 ---
@@ -61,5 +61,3 @@ I now plan to:
 To close the identified gaps, I have enrolled in a statistics course to improve my confidence in applying quantitative methods. I also intend to publish short reflective articles that connect academic research with industry practice and to mentor junior colleagues using simplified versions of these frameworks.
 
 In short, this module has not only equipped me with the tools to produce a credible dissertation but has also elevated the academic quality of my thinking and practice.
-
----
