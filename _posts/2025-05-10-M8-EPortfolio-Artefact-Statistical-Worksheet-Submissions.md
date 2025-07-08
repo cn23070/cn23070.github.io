@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Module 8 ePortfolio Statistical Activity Worksheets Submissions
+title: Module 8 Statistical Activities Worksheets Submissions
 subtitle: Statistical worksheets 
 categories: Module_8
 tags: [Module 8]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Module 8 ePortfolio Activity Two Unit 3 Seminar Peer Review Activity
+title: Module 8 Peer Review Activity
 subtitle: Select at least two Computing papers (e.g., AI, Cybersecurity, Data Science, or general Computer Science) that use different research methods, and answer the following questions.
 categories: Module_8
 tags: [Module 8]
