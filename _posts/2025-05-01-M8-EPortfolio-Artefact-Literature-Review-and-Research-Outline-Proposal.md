@@ -87,3 +87,43 @@ tags: [Module 8]
 #### References
 
 *List of all cited resources*
+
+## Feedback:
+
+**Strengths**
+
+Relevance & Awareness: The topic is timely and well-aligned with current cybersecurity challenges in healthcare IoT.
+Clear Research Question: Focused on identifying threats and evaluating mitigation strategies using real-world data sources (e.g., MITRE ATT&CK, NIST NVD, CVE).
+Professional Alignment: Good integration of academic and practical frameworks, meeting module expectations.
+
+**Areas for Improvement**
+
+- Scope and Focus:
+
+Current scope is too broad for a 2,000-word limit.
+Suggested to narrow focus (e.g., specific threat type, vulnerability, or mitigation strategy) for deeper analysis.
+Citation and Referencing:
+
+Missing full reference list and contains placeholders.
+Must use consistent formatting (e.g., Harvard or APA) and include all cited works.
+
+- Critical Evaluation:
+
+Currently underdeveloped.
+Needs to include contrasting perspectives, methodological critiques, and balanced analysis.
+Methodological Clarity:
+
+Ensure the approach is clearly secondary research.
+Avoid language suggesting primary data collection.
+
+- Academic Style and Presentation:
+
+Maintain formal tone and consistent formatting.
+Include page numbers and structured headings.
+
+- Recommendations
+Narrow the topic for analytical depth.
+Complete and format all references.
+Expand critical evaluation with diverse viewpoints.
+Use formal academic language and structure.
+Ensure methodology aligns with secondary research only.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Module 8 Assignment 3 DRAFT Research Methods and Professional Practice April 2025 B
+title: Module 8 Study Notes for Research Methods and Professional Practice April 2025 B
 subtitle: How cyber security impacts on network systems and designs focused especially on network vulnerability assessments. 
 categories: Module_8
 tags: [Module 8]
@@ -30,7 +30,7 @@ tags: [Module 8]
 | `Unit 2 - Literature Review and Research Proposal Outlines` | `e-Portfolio`  | Inital literature review plan based on chosen topic 29. "Cybersecurity threats in IoT in the Healthcare sector". | [View Reflection](https://cn23070.github.io/2025/05/02/2025-05-01-M8-e-Portfolio-Activity-1.html) 
 
 
-## Module 8: Reflections
+## Module 8: Study Notes
 
 *Information about what I learnt during this module and how*
 
@@ -170,6 +170,34 @@ Unit 6 provided a foundation in quantitative data analysis, emphasizing how nume
 
 - **Figure 17**: quantitative methods in data analysis (University of Essex Online, 2025)
 
+##### Unit 6 Study Notes on Business Statistics Concepts and Applications
+
+##### Basic Business Statistics: Concepts and Applications (14th Edn)
+
+##### Chapter 2: Descriptive Statistics – Tabular and Graphical Presentations
+
+| Concept                                  | Definition                                                                | Examples                                                                                                                                                                                                                                                                                                                                                                                               | Mathematical Explanation                                                   | Further Reading                                                                               |
+|:-----------------------------------------|:--------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------|
+| Frequency Distributions                  | Organizing data into classes or intervals to show how often values occur. | ['Company records the number of customer complaints per day over a month.', 'Frequency table shows how many days had 0, 1, 2, etc., complaints.', 'Retail store tracks daily sales volumes.', 'Hospital records patient admissions per week.', 'University tracks student attendance per class.', 'MSc Dissertation: Analyzing frequency of survey responses.']                                        | Frequency = Count of occurrences in each interval.                         | [Frequency Distribution](https://en.wikipedia.org/wiki/Frequency_distribution)                |
+| Relative and Cumulative Frequencies      | Showing proportions and running totals.                                   | ['5 out of 20 customers bought product A, relative frequency is 25%.', 'Cumulative frequency adds up these percentages across categories.', 'Relative frequency of different age groups in a population.', 'Cumulative frequency of sales over months.', 'Relative frequency of different types of defects in manufacturing.', 'MSc Dissertation: Calculating cumulative frequency of research data.'] | Relative Frequency = (Frequency / Total Count) * 100                       | [Relative Frequency](https://en.wikipedia.org/wiki/Frequency_(statistics)#Relative_frequency) |
+| Bar Charts and Pie Charts                | Used for categorical data.                                                | ['Pie chart shows market share of four brands.', 'Bar chart compares monthly sales across departments.', 'Bar chart of product preferences among customers.', 'Pie chart of budget allocation in a project.', 'Bar chart of survey results.', 'MSc Dissertation: Visualizing categorical survey data.']                                                                                                | Bar Height = Frequency of category.                                        | [Bar Chart](https://en.wikipedia.org/wiki/Bar_chart)                                          |
+| Histograms and Frequency Polygons        | For quantitative data, showing distribution shapes.                       | ['Histogram displays distribution of employee ages in 5-year intervals.', 'Frequency polygon connects midpoints of each interval.', 'Histogram of exam scores.', 'Frequency polygon of monthly rainfall.', 'Histogram of product weights.', 'MSc Dissertation: Analyzing distribution of experimental data.']                                                                                          | Histogram: Bar Height = Frequency of interval.                             | [Histogram](https://en.wikipedia.org/wiki/Histogram)                                          |
+| Ogives                                   | Cumulative frequency graphs.                                              | ['Ogive graph shows cumulative number of students scoring below certain grade thresholds.', 'Ogive of cumulative sales over time.', 'Ogive of cumulative rainfall.', 'Ogive of cumulative production output.', 'Ogive of cumulative website visits.', 'MSc Dissertation: Visualizing cumulative frequency of experimental results.']                                                                   | Ogive: Cumulative Frequency = Sum of frequencies up to current interval.   | [Ogive](https://en.wikipedia.org/wiki/Cumulative_frequency_analysis)                          |
+| Cross-tabulations and Contingency Tables | Examining relationships between two categorical variables.                | ['Table shows number of customers by gender and product preference.', 'Cross-tabulation of age group and preferred product.', 'Contingency table of education level and job type.', 'Cross-tabulation of region and sales volume.', 'Contingency table of survey responses by demographic.', 'MSc Dissertation: Analyzing cross-tabulated survey data.']                                               | Cross-tabulation: Count of occurrences for each combination of categories. | [Cross-tabulation](https://en.wikipedia.org/wiki/Cross_tabulation)                            |
+| Graphical Misrepresentation              | How visualizations can be misleading and how to avoid it.                 | ['Bar chart with truncated y-axis exaggerates differences in sales.', 'Pie chart with too many slices becomes unreadable.', 'Line graph with inconsistent intervals distorts trends.', 'Histogram with unequal intervals misrepresents distribution.', 'Scatter plot with outliers distorts correlation.', 'MSc Dissertation: Ensuring ethical and accurate data visualization.']                      | Misrepresentation: Incorrect scaling or manipulation of visual elements.   | [Misleading Graphs](https://en.wikipedia.org/wiki/Misleading_graph)                           |
+
+## Chapter 3: Descriptive Statistics – Numerical Measures
+
+| Concept                                | Definition                                                        | Examples                                                                                                                                                                                                                                                                                                                                                                                                 | Mathematical Explanation                                                       | Further Reading                                                         |
+|:---------------------------------------|:------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------|:------------------------------------------------------------------------|
+| Measures of Central Tendency           | Mean, Median, Mode                                                | ['Average (mean) monthly salary of employees is $3,500.', 'Median salary is $3,200, mode is $3,000.', 'Mean age of participants in a study.', 'Median house price in a neighborhood.', 'Mode of product preferences in a survey.', 'MSc Dissertation: Calculating mean, median, and mode of experimental data.']                                                                                         | Mean = Sum of values / Number of values                                        | [Central Tendency](https://en.wikipedia.org/wiki/Central_tendency)      |
+| Measures of Dispersion                 | Range, Variance, Standard Deviation, Interquartile Range          | ['Two departments have same average salary, but one has higher standard deviation.', 'Range of exam scores.', 'Variance of monthly sales figures.', 'Standard deviation of product weights.', 'Interquartile range of survey responses.', 'MSc Dissertation: Analyzing variability in experimental data.']                                                                                               | Standard Deviation = sqrt(Variance)                                            | [Dispersion](https://en.wikipedia.org/wiki/Statistical_dispersion)      |
+| Measures of Shape                      | Skewness and Kurtosis                                             | ['Right-skewed distribution of house prices.', 'Left-skewed distribution of exam scores.', 'High kurtosis in financial returns.', 'Low kurtosis in daily temperatures.', 'Skewness in customer satisfaction scores.', 'MSc Dissertation: Assessing distribution shape of research data.']                                                                                                                | Skewness = Measure of asymmetry, Kurtosis = Measure of peakedness              | [Shape](https://en.wikipedia.org/wiki/Skewness)                         |
+| Z-scores                               | Standardizing data to compare across different scales.            | ['Student scores 85 on a test with mean of 75 and standard deviation of 5, z-score is +2.', 'Z-score of height compared to population average.', 'Z-score of sales figures compared to industry average.', 'Z-score of temperature readings compared to historical data.', 'Z-score of survey responses compared to benchmark.', 'MSc Dissertation: Standardizing experimental results for comparison.'] | Z-score = (Value - Mean) / Standard Deviation                                  | [Z-score](https://en.wikipedia.org/wiki/Standard_score)                 |
+| Empirical Rule and Chebyshev’s Theorem | Understanding data spread in normal and non-normal distributions. | ['In a normal distribution, about 68% of data falls within ±1 standard deviation of the mean.', 'Chebyshev’s Theorem applies to any distribution.', 'Empirical Rule for exam scores.', 'Chebyshev’s Theorem for sales data.', 'Empirical Rule for product weights.', 'MSc Dissertation: Applying Empirical Rule to experimental data.']                                                                  | Empirical Rule: 68-95-99.7 rule for normal distributions                       | [Empirical Rule](https://en.wikipedia.org/wiki/Empirical_rule)          |
+| Covariance and Correlation             | Measuring relationships between two variables.                    | ['Positive correlation between advertising spend and sales.', 'Negative correlation between price and demand.', 'Covariance of stock returns.', 'Correlation between temperature and energy consumption.', 'Covariance of survey responses.', 'MSc Dissertation: Analyzing correlation between research variables.']                                                                                     | Correlation = Covariance / (Standard Deviation of X * Standard Deviation of Y) | [Correlation](https://en.wikipedia.org/wiki/Correlation_and_dependence) |
+
+
 #### Unit 7
 
 During Unit 7 we learned how to use inferential statistics to make conclusions about a population from sample data. The unit introduced probability and hypothesis testing, helping students understand how to test assumptions and interpret results. Activities included lectures, readings, worksheets on hypothesis testing, and a seminar, all aimed at building practical data analysis skills.
@@ -230,23 +258,12 @@ Limited
 Berenson, M.L., Levine, D.M. and Szabat, K.A., 2019. Basic Business Statistics: Concepts and Applications. 14th ed. Harlow: Pearson.
 
 
-#### Professional Skills Matrix and Action Plan
-
-*What skills have I gained or enhanced as a result of this module and how can I use it? What else do I need to learn?*
-
-- Abiltiy to identify and analyse security threats and vulnerabilities in network systems and determine appropriate methodologies, tools and techniques to manage and/or solve them.
-- ability to design and critically appraise computer programs and systems to produce solutions that help manage and audit risk and security issues.
-- Experiance gathering and synthesising information from multiple sources (including internet security alerts and warning sites) to aid in the systematic analysis of security breaches and issues.
-- Aility to articulate the legal, social, ethical and professional issues faced by information security and risk professionals.
-
-
-
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://cn23070.github.io/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/craig-norris-3b787610/)
 
 
-### Module 8: Notes
+### Module 8: Other Notes
 
 #### Unit 1
 
@@ -279,7 +296,7 @@ Berenson, M.L., Levine, D.M. and Szabat, K.A., 2019. Basic Business Statistics: 
 
 ##### Inference:
 
-Both deduction and induction involve drawing conclusions based on evidence and reasoning.
+- Both deduction and induction involve drawing conclusions based on evidence and reasoning.
 
 ##### Research Ethics:
 
