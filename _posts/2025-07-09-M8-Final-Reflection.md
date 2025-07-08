@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Module 8 Assignment 3 Final Reflection
-subtitle: Final Reflective Reflection for Research Methods and Professional Practice
+subtitle: Final Reflective Reflection for Research Methods and Professional Practice.
 categories: Module_8
 tags: [Module 8]
 ---
