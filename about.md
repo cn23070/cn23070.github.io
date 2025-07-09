@@ -3,29 +3,71 @@ layout: about
 title: About
 ---
 
-# 👋 About Me
+<section style="display: flex; flex-direction: row; align-items: center; gap: 2rem; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 250px;">
+    <img src="/assets/images/about/profile.jpg" alt="Profile Photo" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);" />
+  </div>
+  <div style="flex: 2; min-width: 300px;">
+    <h1>👋 Welcome</h1>
+    <p>
+      I’m a <strong>customer-centric cybersecurity leader</strong> passionate about driving <strong>positive transformation</strong>
+      and building a culture of <strong>continuous improvement</strong>.
+    </p>
+    <p>
+      Currently, I serve as <strong>Director of Cyber Security</strong> at a global medical technology leader. Alongside this,
+      I'm pursuing an <strong>MSc in Cyber Security</strong> at the University of Essex.
+    </p>
+    <p>
+      This e-Portfolio reflects my ongoing professional journey—highlighting milestones, insights, and continuous learning.
+    </p>
+    <p>
+      📬 <a href="https://www.linkedin.com/in/craig-norris/" target="_blank" style="font-weight: bold;">Connect with me on LinkedIn</a>
+    </p>
+  </div>
+</section>
 
-I am a **customer-centric** cyber security leader dedicated to driving **positive transformation** and fostering a culture of **continuous improvement**.
+<hr/>
 
-Currently, I serve as the Director of Cyber Security at a leading global medical technology company. Alongside my professional responsibilities, I am pursuing an MSc in Cyber Security at the University of Essex. This e-Portfolio reflects my ongoing professional development, showcasing key insights and achievements acquired throughout my studies and career.  
-Please feel free to reach out for any inquiries or collaboration opportunities.
+## 🧑‍💼 Professional Background
+
+With over <strong>20 years of experience</strong> in MedTech and IT, I specialize in:
+
+- ✅ Security and risk leadership
+- ✅ Building global privacy programs
+- ✅ Leading ISO 27001 / ISO 27701 certification efforts
+- ✅ Driving business-aligned transformation initiatives
 
 ---
 
-## 💼 Professional Experience
+## 🎓 Academic Journey
 
-Bringing over **20 years of expertise** in MedTech and IT, I am a trusted authority in security and risk management. My leadership has successfully guided the design, implementation, and operationalization of a comprehensive global Privacy and Information Security Management System, achieving certification against the rigorous **ISO 27001** and **ISO 27701** international standards.
+As part of my MSc in Cyber Security:
 
-I have a proven track record of delivering complex transformation initiatives that enhance organizational resilience and compliance.
+- I'm bridging academic theory with strategic implementation
+- Each module strengthens my technical foundation and thought leadership
+- This site showcases both formal coursework and practical reflections
 
 ---
 
-## 🧩 Interests & Hobbies
+## 🌟 Personal Interests
 
-Outside of my professional and academic pursuits, I enjoy:
+<div style="display: flex; flex-wrap: wrap; gap: 2rem;">
+  <div style="flex: 1; min-width: 240px;">
+    <ul>
+      <li>👨‍👩‍👧‍👦 Quality family time</li>
+      <li>🏉 Coaching youth rugby</li>
+      <li>🍳 Culinary exploration</li>
+      <li>🌍 Cultural travel</li>
+    </ul>
+  </div>
+  <div style="flex: 1; min-width: 240px;">
+    <img src="/assets/images/about/interests.jpg" alt="Hobbies Collage" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);" />
+  </div>
+</div>
 
-- Spending quality time with my family  
-- Coaching youth rugby, combining my passion for sports and mentorship  
-- Exploring culinary arts through cooking  
-- Traveling to broaden my horizons and experience diverse cultures
+---
 
+<p style="text-align: center;">
+  🙏 Thank you for visiting! Let’s build a safer digital future together.<br/>
+  <a href="https://www.linkedin.com/in/craig-norris/" target="_blank" style="font-weight: bold;">Visit my LinkedIn Profile</a>
+</p>
