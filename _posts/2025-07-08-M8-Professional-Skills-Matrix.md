@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Module 8 Assignment 3 EPortfolio Skills Matrix Artefact
-subtitle: The Portfolio should also include a Professional Skills Matrix and action plan (PDP) for Module 8.
+subtitle: Module 8 Professional Skills Matrix and action plan (PDP) for Module 8.
 categories: Module_8
 tags: [Module 8]
 ---

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Module 8 Assignment 3 Skills Matrix Artefact
-subtitle: The Portfolio should also include a Professional Skills Matrix and action plan (PDP).
-categories: Module_8
-tags: [Module 8]
+title: Module 9 DRAFT Overall Skills Matrix Artefact
+subtitle: The finalised Professional Skills Matrix and action plan (PDP) covering the full course and working experiance.
+categories: Module_9
+tags: [Module 9]
 ---
 
 # 🎓 MSc Cyber Security: Professional Skills Matrix (Academic Focus)
