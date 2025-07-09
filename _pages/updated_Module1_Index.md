@@ -2,8 +2,9 @@
 layout: post
 title: "Module 1: Launching into Cyber Security"
 permalink: /Modules/1/
----
 
+banner: "/assets/images/banners/module1_background.png"
+---
 ---
 layout: post
 title: "Module 1: Launching into Cyber Security"
@@ -38,4 +39,15 @@ Explore the key concepts, practices, and reflections covered in this module. Bel
 </section>
 
 *✨ More posts may be added as the module evolves.*
+---
 
+## 🗂️ Artifacts
+
+Below is a list of key deliverables for **Module 1**:
+
+| 📌 Title                           | 🔗 Link                      |
+|-----------------------------------|------------------------------|
+| Final Report                      | [View Report](#)             |
+| Source Code Repository            | [GitHub Repo](#)             |
+| Reflective Journal                | [Read Journal](#)            |
+| Presentation Slides               | [View Slides](#)             |
