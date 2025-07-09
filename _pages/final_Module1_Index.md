@@ -36,9 +36,9 @@ Explore the key concepts, practices, and reflections covered in this module. Bel
 
 Below is a list of key deliverables for **Module 1**:
 
-| 📌 Title                           | 🔗 Link                      |
-|-----------------------------------|------------------------------|
-| Final Report                      | [View Report](http:/www.bbc.co.uk)             |
-| Source Code Repository            | [GitHub Repo](#)             |
-| Reflective Journal                | [Read Journal](#)            |
-| Presentation Slides               | [View Slides](#)             |
+| 📌 Title                           | 🔗 Link                      																										|
+|------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|	
+| Module Overview                    | [View](https://cn23070.github.io/module_1/2023/11/08/M1-Launching-into-Cyber-Security-November-2023.html)             				|
+| Individual Essay            		 | [View](https://essexuniversity-my.sharepoint.com/:w:/g/personal/cn23070_essex_ac_uk/EeQPvWOq43lAkEEXqabnWHMBmYsS2LwWj4ARxk9hUIiKFg)  |
+| End of Module Assignment           | [View](https://cn23070.github.io/module_1/2024/02/12/M1-Module-1EOMA-Python-ReadMe.html) 											|
+
