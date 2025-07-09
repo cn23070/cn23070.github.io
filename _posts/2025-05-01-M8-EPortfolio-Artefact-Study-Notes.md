@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Module 8 Study Notes for Research Methods and Professional Practice April 2025 B
-subtitle: How cyber security impacts on network systems and designs focused especially on network vulnerability assessments. 
+subtitle: This module develops cross-disciplinary research skills through the scientific method, focusing on research design, data analysis, and reflective, independent learning. 
 categories: Module_8
 tags: [Module 8]
 ---
@@ -18,16 +18,6 @@ tags: [Module 8]
 - Critically evaluate existing literature, research design, methodology, and data analysis. 
 - Create and critically assess a research proposal for the chosen topic.
 
-
-## Module 8: Artefacts
-
-
-| Parameter                                      | Type                        | Description                                                                                                       | References                 |
-| :--------                                      | :-------                    | :--------------------------                                                                                       | :------------------------- |
-| `Unit 1 - Collaborative Discussion 1 - Units 1-3` | `Student Forum Posts`| Post a message that reflects your thoughts on the application of the ethics code to the Malware case study described and highlight the impact on any relevant legal (jurisdictional or non-jurisdictional) and social issues, as well as on the professionalism of the computing professionals involved. |[All Forum Posts](https://www.my-course.co.uk/mod/forum/discuss.php?d=296298)|
-| `Unit 1 - Reasoning Quiz` | `Quiz` | Examples are either inductive or deductive. | [All Quiz Attempts](https://www.my-course.co.uk/mod/quiz/view.php?id=1182152), [My Latest Attempt](https://www.my-course.co.uk/mod/quiz/review.php?attempt=264076&cmid=1182152)|
-| `Unit 1 - Reflective Activity 1: Ethics in Computing` | `e-Portfolio`  | In the Correa et al (2023) paper, the authors state that “a lot of work is taking place to define the values and ideas that should guide AI advances. A key challenge, however, lies in establishing a consensus on these values, given the diverse perspectives of various stakeholders worldwide and the abstraction of normative discourse. Researchers and policy makers need better tools to catalogue and compare AI governance documents from around the world and to identify points of divergence and commonality.” After reviewing the article and reading how different countries across the world deal with the generative AI revolution, discuss your views on the subject and recommend what you think could be a suitable course of action. | [View Reflection](https://cn23070.github.io/2025/05/02/2025-05-01-M8-e-Portfolio-Activity-1.html) 
-| `Unit 2 - Literature Review and Research Proposal Outlines` | `e-Portfolio`  | Inital literature review plan based on chosen topic 29. "Cybersecurity threats in IoT in the Healthcare sector". | [View Reflection](https://cn23070.github.io/2025/05/02/2025-05-01-M8-e-Portfolio-Activity-1.html) 
 
 
 ## Module 8: Study Notes
@@ -256,11 +246,6 @@ Saunders, M., Lewis, P. & Thornhill, A. (2007) Research Methods for Business Stu
 Limited
 
 Berenson, M.L., Levine, D.M. and Szabat, K.A., 2019. Basic Business Statistics: Concepts and Applications. 14th ed. Harlow: Pearson.
-
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://cn23070.github.io/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/craig-norris-3b787610/)
 
 
 ### Module 8: Other Notes
