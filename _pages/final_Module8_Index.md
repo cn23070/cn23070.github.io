@@ -44,5 +44,5 @@ Below is a list of key deliverables for **Module 8**:
 | Assignment 1 Literature Review & Feedback 			          | [View](https://cn23070.github.io/module_8/2025/06/04/M8-Assignment-1-Literature-Review.html)									   |  
 | Assignment 2 Research Porposal Presentation & Feedback          | [View](https://cn23070.github.io/module_8/2025/05/10/M8-Assignment-2-Research-Proposal-Presentation.html)                          |  
 | Statistical Activities Worksheets Submissions & Feedback		  | [View](https://cn23070.github.io/module_8/2025/05/10/M8-EPortfolio-Artefact-Statistical-Worksheet-Submissions.html)                |  
-| Assignment 3 Professional Skills Matrix and action plan (PDP)   | [View](https://cn23070.github.io/module_8/2025/05/01/M8-EPortfolio-Artefact-Literature-Review-and-Research-Outline-Proposal.html)  |  
-| Assignment 3 Final Module Reflection  					      | [View](https://cn23070.github.io/module_8/2025/05/01/M8-EPortfolio-Artefact-Literature-Review-and-Research-Outline-Proposal.html)  |  
+| Assignment 3 Professional Skills Matrix and action plan (PDP)   | [View](https://cn23070.github.io/module_8/2025/07/08/M8-Professional-Skills-Matrix.html)                                           |  
+| Assignment 3 Final Module Reflection  					      | [View](https://cn23070.github.io/module_8/2025/07/08/M8-Final-Reflection.html)  											       |  
