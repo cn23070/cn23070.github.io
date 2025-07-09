@@ -11,7 +11,7 @@ permalink: /Modules/1/
 banner: "/assets/images/banners/module1_background.jpg"
 ---
 
-<section style="background-image: url('/assets/images/banners/module1_background.jpg'); background-size: cover; padding: 2rem; color: white; border-radius: 1rem; box-shadow: 0 0 20px rgba(0,0,0,0.4);">
+<section style="background-image: url('/assets/images/banners/module1_background.png'); background-size: cover; padding: 2rem; color: white; border-radius: 1rem; box-shadow: 0 0 20px rgba(0,0,0,0.4);">
 
 # 📘 Module 1: Launching into Cyber Security
 
