@@ -100,7 +100,7 @@ The research proposal taught me how to frame research questions in a way that en
 
 ![Research Proposal Feedback](/Modules/8/img/42.png)
 
-- **Figure 10**: Research Proposal Feedback (University of Essex Online, 2025)
+- **Figure 13**: Research Proposal Feedback (University of Essex Online, 2025)
 
 
 The peer review process helped me refine my ability to deliver and accept feedback, improving my confidence in academic debate. It also reinforced the importance of tone and critical balance when reviewing the work of others, a skill often overlooked in workplace evaluations.
@@ -109,11 +109,15 @@ From an ethical standpoint, the case studies on Generative AI and Cambridge Anal
 
 The statistical components, while challenging, were particularly meaningful. I realised that I lacked the analytical grounding to confidently interpret distributions and build inferences, a shortfall I would never have identified without this module’s practical tasks.
 
-![Research Proposal Feedback](/Modules/8/img/42.png)
+![Statistical Activities Worksheets Submissions](/Modules/8/img/45.png)
 
-- **Figure 10**: Research Proposal Feedback (University of Essex Online, 2025)
+- **Figure 14**: Statistical Activities Worksheets Submissions (University of Essex Online, 2025)
 
 Lastly, the requirement to reflect continuously encouraged me to think more intentionally about **how** I learn. The e-Portfolio process forced me to make connections between theoretical models and real-life application, enhancing both depth and transferability.
+
+![e-Portfolio process](/Modules/8/img/46.png)
+
+- **Figure 15**: e-Portfolio process (University of Essex Online, 2025)
 
 ---
 
