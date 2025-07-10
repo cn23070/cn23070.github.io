@@ -9,8 +9,6 @@ banner: "/assets/images/banners/module2_background.png"
 
 # 📘 Module 2: Network and Information Security
 
-<section style="background-image: url('/assets/images/banners/module1_background.png'); background-size: cover; padding: 2rem; color: white; border-radius: 1rem; box-shadow: 0 0 20px rgba(0,0,0,0.4);">
-
 Welcome to the index page for **Module 2**. Here you'll find key reflections, deliverables, and insights related to this topic.
 
 ---
