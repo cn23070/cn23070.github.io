@@ -9,6 +9,8 @@ banner: "/assets/images/banners/module8_background.png"
 
 # 📘 Module 8: Research Methods and Professional Practice
 
+<section style="background-image: url('/assets/images/banners/module8_background.png'); background-size: cover; padding: 2rem; color: white; border-radius: 1rem; box-shadow: 0 0 20px rgba(0,0,0,0.4);">
+
 Welcome to the index page for **Module 8**. Here you'll find key reflections, deliverables, and insights related to this topic.
 
 *Content will be added soon.*
@@ -19,14 +21,13 @@ Welcome to the index page for **Module 8**. Here you'll find key reflections, de
 
 ## 🗂️ Module Summary:
 
-This module focuses on developing research skills grounded in the scientific method, applicable across disciplines. Students will explore research strategies, data collection and analysis methods, and learn to critically design and evaluate independent research. The module also encourages reflective and independent learning.
+This module provided an essential foundation in research methodology tailored to computing disciplines. It emphasized the development of academic research skills grounded in the scientific method, with a focus on designing, conducting, and evaluating independent investigations.
 
-By the end of the module, students will be able to:
+Students explored a wide range of research strategies, including qualitative and quantitative methods for data collection and analysis. A critical component of the module involved evaluating existing literature and assessing the validity of different research designs and analytical approaches.
 
-- Understand and evaluate professional, legal, social, cultural, and ethical issues in computing.
-- Apply academic research principles to a chosen computing topic.
-- Critically assess existing literature, research design, and data analysis methods.
-- Develop and critically evaluate a research proposal.
+Ethical awareness was integral throughout, with learners examining professional, legal, social, cultural, and ethical considerations relevant to computing and research. The module also encouraged reflective and independent learning, helping students to take ownership of their academic development.
+
+By the end of the module, students demonstrated the ability to apply research principles to a chosen topic, and to develop and critically evaluate a research proposal with clarity and academic rigour.
 
 
 
