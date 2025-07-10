@@ -175,4 +175,13 @@ Explored weight loss and brand preferences using frequency tables and bar charts
 
 ---
 
-*This document is designed for inclusion in a personal or academic e-portfolio to showcase applied statistical reasoning and data interpretation.*
+
+## ✅ Feedback
+
+The charts and interpretations provided align well with the task objectives and show a clear understanding of the data analysis techniques.
+ 
+Some suggestions for improvement are below:
+ 
+- Exercise 9.1 & 9.4: You could strengthen your analysis by hypothesizing why Area 2 has more brand loyalty—e.g., economic differences, urban vs. rural.
+- Exercise 9.2 & 9.5: Consider labeling the values on each bar (data labels) for clarity, especially if readers are reviewing without spreadsheet context.
+- Exercise 9.3 & 9.6: For critical evaluation, consider discussing outliers or potential reasons for variability in Diet B (e.g., adherence levels, starting weight, or other confounding factors).
