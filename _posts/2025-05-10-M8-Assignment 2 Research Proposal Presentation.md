@@ -16,3 +16,7 @@ tags: [Module 8]
 - **Figure 1**: Video Presentation
 
 
+
+## Feedback Summary
+
+Your presentation demonstrates excellent understanding of a complex, sector-specific research topic, with strong alignment to professional standards like BCS and CyBOK. The literature review clearly identifies a research gap, and your proposed methodology is well thought out, though it could benefit from deeper comparison with existing tools. Your slides are well-structured and visually professional, with room to enhance engagement through more interpretive narration and real-world examples. The presentation follows the required structure closely, and your use of high-quality, well-referenced sources further strengthens the proposal.
