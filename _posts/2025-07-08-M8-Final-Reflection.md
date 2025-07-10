@@ -73,7 +73,6 @@ I also enhanced my ability to present data clearly through visualisation tools a
 
 - **Figure 9**: Research Proposal Video (University of Essex Online, 2025)
 
-
 Additionally, I reflected on my learning journey through the e-Portfolio, which supported my professional development and employability. 
 
 ![EPortfolio Reflection](/Modules/8/img/43.png)
@@ -134,3 +133,39 @@ I now plan to:
 - Maintain the habit of reflective journaling, which has proven valuable not only for academic clarity but for improving leadership awareness in my professional role.
 
 In summary, this module has not only equipped me with the tools to produce a credible dissertation but has also elevated the academic quality of my thinking and practice.
+
+
+---
+
+### 📚 References
+
+- Rolfe, G., Freshwater, D. and Jasper, M., 2001. Critical reflection for nursing and the helping professions: a user’s guide. Basingstoke: Palgrave Macmillan.
+
+- University of Essex Online. (2025). Unit 1: Introduction to Research Methods. The Scientific Investigation and Ethics in Computing, Research Methods and Professional Practice April 2025 B. Available at: https://www.my-course.co.uk/course/view.php?id=13463&section=7 (Accessed: 10 July 2025).
+
+- University of Essex Online. (2025). Unit 2: Research Questions, the Literature Review and the Research Proposal, Research Methods and Professional Practice April 2025 B. Available at: https://www.my-course.co.uk/course/view.php?id=13463&section=7 (Accessed: 10 July 2025).
+
+- University of Essex Online. (2025). Unit 3: Methodology and Research Methods, Research Methods and Professional Practice April 2025 B. Available at: https://www.my-course.co.uk/course/view.php?id=13463&section=7 (Accessed: 10 July 2025).
+
+- University of Essex Online. (2025). Unit 4: Case Studies, Focus Groups and Observations, Research Methods and Professional Practice April 2025 B. Available at: https://www.my-course.co.uk/course/view.php?id=13463&section=7 (Accessed: 10 July 2025).
+
+- University of Essex Online. (2025). Unit 5: Interviews, Survey Methods, and Questionnaire Design, Research Methods and Professional Practice April 2025 B. Available at: https://www.my-course.co.uk/course/view.php?id=13463&section=7 (Accessed: 10 July 2025).
+
+- University of Essex Online. (2025). Unit 6: Quantitative Methods - Descriptive and Inferential Statistics, Research Methods and Professional Practice April 2025 B. Available at: https://www.my-course.co.uk/course/view.php?id=13463&section=7 (Accessed: 10 July 2025).
+
+ - University of Essex Online. (2025). Unit 7: Inferential Statistics and Hypothesis Testing, Research Methods and Professional Practice April 2025 B. Available at: https://www.my-course.co.uk/course/view.php?id=13463&section=7 (Accessed: 10 July 2025).
+ 
+  - University of Essex Online. (2025). Unit 8: Data Analysis and Visualisation, Research Methods and Professional Practice April 2025 B. Available at: https://www.my-course.co.uk/course/view.php?id=13463&section=7 (Accessed: 10 July 2025).
+  
+  - University of Essex Online. (2025). Unit 9: Validity and Generalisability in Research, Research Methods and Professional Practice April 2025 B. Available at: https://www.my-course.co.uk/course/view.php?id=13463&section=7 (Accessed: 10 July 2025).
+  
+  - University of Essex Online. (2025). Unit 10: Research Writing, Research Methods and Professional Practice April 2025 B. Available at: https://www.my-course.co.uk/course/view.php?id=13463&section=7 (Accessed: 10 July 2025).
+  
+  - University of Essex Online. (2025). Unit 11: Going Forward: Professional Development and Your e-Portfolio, Research Methods and Professional Practice April 2025 B. Available at: https://www.my-course.co.uk/course/view.php?id=13463&section=7 (Accessed: 10 July 2025).
+  
+   - University of Essex Online. (2025). Unit 12: Project Management and Managing Risk, Research Methods and Professional Practice April 2025 B. Available at: https://www.my-course.co.uk/course/view.php?id=13463&section=7 (Accessed: 10 July 2025).
+    
+---
+
+
+
