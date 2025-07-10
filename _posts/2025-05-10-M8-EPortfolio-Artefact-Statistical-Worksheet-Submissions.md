@@ -1,4 +1,12 @@
 
+---
+layout: post
+title: Module 8 Statistical Activities Worksheets Submissions
+subtitle: Statistical worksheets 
+categories: Module_8
+tags: [Module 8]
+---
+
 # 📘 Statistical Worksheets Analysis Portfolio
 
 This report summarizes the key findings and interpretations from Exercises 6 to 9, using statistical analysis and graphical interpretation to evaluate diet effectiveness, brand preferences, and gender-based income differences.
