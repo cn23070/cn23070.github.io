@@ -62,7 +62,7 @@ As part of my MSc in Cyber Security:
     </ul>
   </div>
   <div style="flex: 1; min-width: 240px;">
-    <img src="/assets/images/about/Interests.jpg" alt="Hobbies Collage" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);" />
+    <img src="/assets/images/about/Interests.jpg" alt="Hobbies Collage" style="width: 800px; display: block; margin: auto; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);" />
   </div>
 </div>
 
