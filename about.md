@@ -33,9 +33,10 @@ title: About
 With over <strong>20 years of experience</strong> in MedTech and IT, I specialize in:
 
 - ✅ Security and risk leadership
-- ✅ Building global privacy programs
-- ✅ Leading ISO 27001 / ISO 27701 certification efforts
-- ✅ Driving business-aligned transformation initiatives
+- ✅ Designing, building, activating and operating global information security and privacy programs
+- ✅ Leading ISO 27001 / ISO 27701 / ISO27017/ ISO27018 certification efforts
+- ✅ Driving business aligned transformation initiatives
+- ✅ GE Black Belt LEAN Six Sigma Graduate
 
 ---
 
