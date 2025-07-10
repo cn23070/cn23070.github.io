@@ -13,8 +13,6 @@ banner: "/assets/images/banners/module8_background.png"
 
 Welcome to the index page for **Module 8**. Here you'll find key reflections, deliverables, and insights related to this topic.
 
-*Content will be added soon.*
-
 ---
 
 

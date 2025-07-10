@@ -13,6 +13,8 @@ banner: "/assets/images/banners/module2_background.png"
 
 Welcome to the index page for **Module 2**. Here you'll find key reflections, deliverables, and insights related to this topic.
 
+---
+
 *Module 2 will cover the impact of cyber security on network systems and designs, focusing especially on network vulnerability assessments. We will discuss techniques that can be used to scan, evaluate and in some case mitigate network vulnerabilities. It also will consider the area of vulnerability assessments and explain the various mechanisms and approaches encapsulated in the Vulnerability Assessment Continuum.*
 
 ---
@@ -33,14 +35,15 @@ Finally, the module incorporated reflective activities that enabled learners to 
 ---
 
 
-
 ## 🗂️ Artifacts
 
 Below is a list of key deliverables for **Module 2**:
 
-| 📌 Title                           | 🔗 Link                      |
-|-----------------------------------|------------------------------|
-| Final Report                      | [View Report](#)             |
-| Source Code Repository            | [GitHub Repo](#)             |
-| Reflective Journal                | [Read Journal](#)            |
-| Presentation Slides               | [View Slides](#)             |
+| 📌 **Parameter**                                                      | 🗂️ **Type**              | 📝 **Description**                                                                                                                                                                                                                  | 🔗 **References**                                                                                                                                                                     |
+|----------------------------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `Collaborative Discussion Forum 1 - Units 1-2`                        | `💬 Student Forum Posts` | Post a message that reflects your thoughts on what a digital enterprise is, the cybersecurity challenges with fully digital enterprises, and concerns for SMEs going digital. State whether you agree with others' views.         | [All Forum Posts](https://www.my-course.co.uk/mod/forum/view.php?id=959185), [My Post](https://www.my-course.co.uk/mod/forum/discuss.php?d=218007)                                    |
+| `Collaborative Discussion Forum 2 - Unit 4`                           | `💬 Student Forum Posts` | Post your thoughts on the issues of logging for security analysis versus the risks of log-related exploits, supported by academic references.                                                                                       | [All Forum Posts](https://www.my-course.co.uk/mod/forum/view.php?id=959211), [My Initial Post](https://www.my-course.co.uk/mod/forum/discuss.php?d=224400)                            |
+| `Vulnerability Audit and Assessment - Baseline Analysis and Plan`    | `📄 Report`              | Conduct a baseline vulnerability analysis and outline an assessment plan.                                                                                                                                                           | [View Report](https://essexuniversity-my.sharepoint.com/:w:/g/personal/cn23070_essex_ac_uk/EU1BCa9NCCdJofUkBG35xFUBgYDwyVE46-R-viPg_45TVA)                                              |
+| `Vulnerability Audit and Assessment - Results and Executive Summary` | `📄 Report`              | Produce an executive summary based on previous analysis, including key findings, recommendations, and conclusions.                                                                                                                  | [View Report](https://essexuniversity-my.sharepoint.com/:w:/g/personal/cn23070_essex_ac_uk/EdvRgQGF-1RDgLo7qPxvFWkBunnNszOSRAuhaMk45YHe1A)                                              |
+| `Individual Reflective Piece`                                        | `🧠 Essay`               | Reflect on the skills and knowledge gained from the module, with a focus on legal, social, ethical, and professional issues faced by cybersecurity and risk professionals.                                                          | [View Essay](https://essexuniversity-my.sharepoint.com/:w:/g/personal/cn23070_essex_ac_uk/EU1BCa9NCCdJofUkBG35xFUBgYDwyVE46-R-viPg_45TVA)                                               |
+
