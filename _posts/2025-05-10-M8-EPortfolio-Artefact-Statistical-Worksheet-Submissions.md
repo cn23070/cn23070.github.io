@@ -1,8 +1,7 @@
-
 ---
 layout: post
 title: Module 8 Statistical Activities Worksheets Submissions
-subtitle: Statistical worksheets 
+subtitle: Statistical worksheet ativities
 categories: Module_8
 tags: [Module 8]
 
