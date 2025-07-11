@@ -4,15 +4,7 @@ title: Module 3 Security and Risk Management April 2024
 subtitle: How Security and Risk overlap and interact. 
 categories: Module_3
 tags: [Module 3]
----
-	
-
-
----
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://cn23070.github.io/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/craig-norris-3b787610/)
-	
+---	
 
 ---
 ## 🧠 Module 3: Summary Reflection
@@ -245,43 +237,6 @@ I also come away with further reassurance on the important role risk management 
 - Worku, O. Norris, C. Poloboc, M. (2024). Development Team Project: Risk Identification Report. Security and Risk Management April 2024. University of Essex online. Unpublished assignment.   
 
 - Norris, C. (2024). Individual Project: Executive Summary. Security and Risk Management April 2024. University of Essex online. Unpublished assignment.  
-
-
----
-## Module 3: Summary Overview
-
-*Module 3 will cover the various areas where security and risk overlap and interact with each other. It will review the various methods of risk assessment, looking at both qualitative and quantitative methods.*
-
-
-
----
-## 🎯 Module 3: Learning Scope & Objectives
-
-*“All human endeavours involve uncertainty and risk.”(Olson, D.L. & Desheng D.W, 2020)*
-
-- Discuss the difference between qualitative and quantitative risk assessments.
-- Describe how to carry out both kinds of assessments.
-	- Objective: Ability to describe when to use qualitative and quantitative risk assessments.
-- Explain what is meant by and how to create threat models.
-	- Objective: Ability to create threat models for various scenarios.
-- Demonstrate how to create quantitative risk models.
-	- Objective: Ability to create quantitative risk models.
-- Discuss and design DR solutions.
-	- Objective: Design and explain DR strategies and solutions.
-
-
----
-## Module 3: Artefacts
-
-
-| Parameter                                      | Type                        | Description                                                                                                       | References                 |
-| :--------                                      | :-------                    | :--------------------------                                                                                       | :------------------------- |
-| `Development Team Project: Risk Identification Report` | `Essay`| Carry out a risk assessment, evaluating the risks of both the effects of the digitalisation process and of the alternative of maintaining the status quo to the business.| [View Essay](https://essexuniversity-my.sharepoint.com/:w:/g/personal/cn23070_essex_ac_uk/ET7vYqVVIZJOpOZYccQ0GxEBAlu2pYKXnEQUt4TSTCdapQ) |
-| `End of Module Assignment - Unit 12` | `Essay` | Produce an Executive Summary which provides an estimate of the probabilities that changes to the operations of a business and the supply chain could endanger both the quality and availability of the company's products. | [View Essay](https://essexuniversity-my.sharepoint.com/:w:/g/personal/cn23070_essex_ac_uk/ESA4ffxY0b5OsOlooF1yNTYBI8-5oI7piEvo8xbNwduynw)| 
-| `End of Module Assignment: e-Portfolio Submission`    | `Essay` | Produce a summary report of learnings from module 3. | [View Essay](https://essexuniversity-my.sharepoint.com/:w:/g/personal/cn23070_essex_ac_uk/EZEB29ZH6-1ErPpAOvtZDwoBJBrw9tN1IxbIbmjotM4vvg)|
-| `End of Module Assignment: e-Portfolio Submission`    | `Website` | Produce a e-Portfolio covering the learnings from module 3. | [View Website](https://cn23070.github.io/module_3/2024/07/12/M3-Security-and-Risk-Management-April-2024.html)|
-| `Backup: e-Portfolio Submission Post Raw MD File`    | `MD file` | Backup of the E-Portfolio Post for this module | [View File](https://essexuniversity-my.sharepoint.com/:t:/g/personal/cn23070_essex_ac_uk/Eb238zPyvx9FnsY-QV5u56QB4qrslWVr86R12EXZ0fA1CQ)|
-
 
 
 
