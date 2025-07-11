@@ -20,15 +20,10 @@ his module introduced the foundational concepts and practices in cyber security 
 Through this module, learners:
 
 - Investigated the professional roles, required skillsets, and ethical responsibilities of cyber security professionals.
-
 - Explored key computing architectures, security practices, applications, and compliance standards relevant to secure system design.
-
 - Gained a foundational understanding of core cyber security principles, including cryptography, penetration testing, and ethical hacking.
-
 - Engaged with essential programming and technical skills that underpin secure system development.
-
 - Applied object-oriented principles and web development techniques to implement a secure information system.
-
 - Reflected on the broader ethical, social, and corporate responsibilities within cyber security, especially in relation to global threats and the impact of emerging technologies.
 
 The combination of theoretical learning and practical application throughout this module provided a comprehensive foundation for secure system development and highlighted the ongoing challenges and responsibilities faced by professionals in the field.
@@ -43,6 +38,6 @@ Below is a list of key deliverables for **Module 1**:
 
 | 📌 Title                           | 🔗 Link                      																										|
 |------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
-| Individual Essay            		 | [View](https://essexuniversity-my.sharepoint.com/:w:/g/personal/cn23070_essex_ac_uk/EeQPvWOq43lAkEEXqabnWHMBmYsS2LwWj4ARxk9hUIiKFg)  |
+| Individual Essay            		 | [View](https://cn23070.github.io/module_1/2023/11/08/M1-Launching-into-Cyber-Security-November-2023.html)                            |
 | End of Module Assignment           | [View](https://cn23070.github.io/module_1/2024/02/12/M1-Module-1EOMA-Python-ReadMe.html) 											|
 
