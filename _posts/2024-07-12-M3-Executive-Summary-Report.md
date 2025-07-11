@@ -1,4 +1,17 @@
+---
+layout: post
+title: Module 3 Assignment 2 - Executive Summary Report
+subtitle: Deliver an executive summary of the risk assessment findings. 
+categories: Module_3
+tags: [Module 3]
+---	
+
+---
+
+
 # 📊 Executive Summary: Pampered Pets Risk Evaluation
+
+---
 
 
 
