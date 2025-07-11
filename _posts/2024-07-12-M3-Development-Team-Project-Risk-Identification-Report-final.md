@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Module 3 Security and Risk Management April 2024
-subtitle: How Security and Risk overlap and interact. 
+title: Module 3 Assignment 1 - Development Team Project Risk Identification Report
+subtitle: Carry out a risk assessment and report on the outcome. 
 categories: Module_3
 tags: [Module 3]
 ---	
