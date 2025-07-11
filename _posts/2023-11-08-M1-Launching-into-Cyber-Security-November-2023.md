@@ -37,7 +37,7 @@ Important top-level use cases to consider when implementing an online shopping s
 
 
 
-![Figure 1](Modules/1/img/image_1.png)
+![Figure 1](Modules/1/img/image1.png)
 
 Figure 1 UML Top Level Use Case Diagram
 
@@ -59,7 +59,7 @@ Viewing items should include several optional use cases: search items, Browse pr
 
 
 
-![Figure 2](Modules/1/img/image_2.png)
+![Figure 2](Modules/1/img/image2.png)
 
 Figure 2 UML View Items Diagram
 
@@ -79,7 +79,7 @@ As the online shopping system will handle payments, it is proposed that the syst
 
 
 
-![Figure 3](Modules/1/img/image_3.png)
+![Figure 3](Modules/1/img/image3.png)
 
 Figure 3 UML Activity Diagram
 
@@ -105,7 +105,7 @@ Having a data flow diagram (DFD) is important to determine threat targets such a
 
 
 
-![Figure 4](Modules/1/img/image_4.png)
+![Figure 4](Modules/1/img/image4.png)
 
 Figure 4 DFD Diagram of Online Shopping System (OSS)
 
@@ -147,7 +147,7 @@ Once high threats had been determined using STRIDE, threat trees were used to an
 
 
 
-![Figure 5](Modules/1/img/image_5.png)
+![Figure 5](Modules/1/img/image5.png)
 
 Figure 5 Example Threat Tree Mapping
 
@@ -206,41 +206,23 @@ In summary, this report provides guidance to help a grocery business understand 
 
 # 🛒 References:
 
+- Anderson, T. (2020) Security Engineering: A guide to building dependable distributed systems. 3rd ed. Indianapolis, Indiana: John Wiley & Sons, Inc.
 
+- Anesbury, Zachary et al. (2016) How Do Shoppers Behave Online? An Observational Study of Online Grocery Shopping. Journal of consumer behaviour 15.3 (2016): 261–270.
 
-Anderson, T. (2020) Security Engineering: A guide to building dependable distributed systems. 3rd ed. Indianapolis, Indiana: John Wiley & Sons, Inc.
+- Fanti, Marco. (2023) Implementing Multifactor Authentication: Protect Your Applications from Cyberattacks with the Help of MFA. 1st ed. Birmingham, England: Packt Publishing Ltd.
 
+- LeBlanc, David, and Michael Howard. (2002) Writing Secure Code. United States: Pearson Education, Limited.
 
+- Seidl, Martina, et al. (2015) UML @ Classroom: An Introduction to Object-Oriented Modeling, Springer International Publishing AG,. ProQuest Ebook Central. Available from:  [Accessed 7 January 2024].
 
-Anesbury, Zachary et al. (2016) How Do Shoppers Behave Online? An Observational Study of Online Grocery Shopping. Journal of consumer behaviour 15.3 (2016): 261–270.
+- Statistics Netherlands (2018) Netherlands in EU top 5 online shopping, September 19. Downloadable via https://www.cbs.nl/en-gb/news/2018/38/netherlands-in-eu- top-5-online-shopping.
 
+- Sharif MH, Mohammed MA. (2022) A literature review of financial losses statistics for cyber security and future trend. World Journal of Advanced Research and Reviews 2022, 15(01): 138–156.
 
+- Viegas, Virgilio, and Oben Kuyucu. (2022) IT Security Controls: A Guide to Corporate Standards and Frameworks. Place of publication not identified: Apress.
 
-Fanti, Marco. (2023) Implementing Multifactor Authentication: Protect Your Applications from Cyberattacks with the Help of MFA. 1st ed. Birmingham, England: Packt Publishing Ltd.
-
-
-
-LeBlanc, David, and Michael Howard. (2002) Writing Secure Code. United States: Pearson Education, Limited.
-
-
-
-Seidl, Martina, et al. (2015) UML @ Classroom: An Introduction to Object-Oriented Modeling, Springer International Publishing AG,. ProQuest Ebook Central. Available from:  [Accessed 7 January 2024].
-
-
-
-Statistics Netherlands (2018) Netherlands in EU top 5 online shopping, September 19. Downloadable via https://www.cbs.nl/en-gb/news/2018/38/netherlands-in-eu- top-5-online-shopping.
-
-
-
-Sharif MH, Mohammed MA. (2022) A literature review of financial losses statistics for cyber security and future trend. World Journal of Advanced Research and Reviews 2022, 15(01): 138–156.
-
-
-
-Viegas, Virgilio, and Oben Kuyucu. (2022) IT Security Controls: A Guide to Corporate Standards and Frameworks. Place of publication not identified: Apress.
-
-
-
-Wolford, B. (2020) What is GDPR, the EU’s new data protection law? Available from: https://gdpr.eu/what-is-gdpr/ [Accessed 08 November 2023].
+- Wolford, B. (2020) What is GDPR, the EU’s new data protection law? Available from: https://gdpr.eu/what-is-gdpr/ [Accessed 08 November 2023].
 
 
 
