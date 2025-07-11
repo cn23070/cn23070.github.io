@@ -34,7 +34,7 @@ There are several approaches to assessing risks; ISO 31000 is one of them. It is
 
 
 
-![Figure 1](Modules/3/img/image_1.png)
+![Figure 1](/Modules/3/img/image_1.png)
 
 
 
@@ -64,7 +64,7 @@ Elevation of privilege: Gaining unauthorised access to compromise or damage the 
 
 
 
-![Figure 2](Modules/3/img/image_2.png)
+![Figure 2](/Modules/3/img/image_2.png)
 
 
 
@@ -78,11 +78,11 @@ After scoring the threat, one would count the values (1-3); the result can fall 
 
 
 
-![Figure 3](Modules/3/img/image_3.png)
+![Figure 3](/Modules/3/img/image_3.png)
 
 
 
-![Figure 4](Modules/3/img/image_4.png)
+![Figure 4](/Modules/3/img/image_4.png)
 
 
 
@@ -96,17 +96,12 @@ The business's current digital infrastructure does face potential risks. At pres
 
 Additional issues include:
 
-DoS attack
-
-Phishing attack
-
-Physical access
-
-Lack of audit logs
-
-Brute force credentials attack
-
-Exploit outdated software (Integrity)
+- DoS attack
+- Phishing attack
+- Physical access
+- Lack of audit logs
+- Brute force credentials attack
+- Exploit outdated software (Integrity)
 
 
 
@@ -114,21 +109,19 @@ Furthermore, to mitigate these security risks, the business should consider anti
 
 
 
-
-
 # 📘 Risk assessment around the potential digitalisation process
 
 
 
-![Figure 5](Modules/3/img/image_5.png)
+![Figure 5](/Modules/3/img/image_5.png)
 
 
 
-![Figure 6](Modules/3/img/image_6.png)
+![Figure 6](/Modules/3/img/image_6.png)
 
 
 
-![Figure 7](Modules/3/img/image_7.png)
+![Figure 7](/Modules/3/img/image_7.png)
 
 
 
@@ -168,39 +161,23 @@ Overall, the results indicate an increase in risk to the business if the decisio
 
 
 
-References:
+# References:
 
+- Agu Edward .O, None Ebelogu & Ubaka, C. (2023). Malware Mitigation Through Detection Using Support Vector Machine and Random Forest Algorithm. International journal of advances in scientific research and engineering 9(07):18–24. Available from:
 
+- Dali, A. & Lajtha, C. (2012) ISO 31000 risk management—“The gold standard”. Edpacs 45(5):1-8. Available from: https://www.tandfonline.com/doi/abs/10.1080/07366981.2012.682494
 
-Agu Edward .O, None Ebelogu & Ubaka, C. (2023). Malware Mitigation Through Detection Using Support Vector Machine and Random Forest Algorithm. International journal of advances in scientific research and engineering 9(07):18–24. Available from:
+- Friedman, P. (2016) The Case for Strong Encryption.
 
+- LeBlanc, David, & Michael Howard. (2002) Writing Secure Code. United States: Pearson Education, Limited.
 
+- Lokhande, Pooja, & A. M. Shah. (2021). Strong authentication and encryption modeling using physical unclonable function based on FPGA. 6th International Conference on Communication and Electronics Systems (ICCES).
 
-Dali, A. & Lajtha, C. (2012) ISO 31000 risk management—“The gold standard”. Edpacs 45(5):1-8. Available from: https://www.tandfonline.com/doi/abs/10.1080/07366981.2012.682494
+- Meier, J. Mackman, A. Dunner, M. Vasireddy, S. Escamilla, R. & Murukan, A. (2003) Improving Web Application Security: Threats and Countermeasures. Available from: https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ff648644(v=pandp.10)?redirectedfrom=MSDN
 
+- Olechowski, A., Oehmen, J., Seering, W. & Ben-Daya, M. (2016) The professionalization of risk management: What role can the ISO 31000 risk management principles play? International Journal of Project Management 34(8): 1568-1578. Available from: https://backend.orbit.dtu.dk/ws/portalfiles/portal/139435316/IJPM_submission_Engineering_Risk_Management_ISO_With_Author_Information.pdf
 
-
-Friedman, P. (2016) The Case for Strong Encryption.
-
-
-
-LeBlanc, David, & Michael Howard. (2002) Writing Secure Code. United States: Pearson Education, Limited.
-
-
-
-Lokhande, Pooja, & A. M. Shah. (2021). Strong authentication and encryption modeling using physical unclonable function based on FPGA. 6th International Conference on Communication and Electronics Systems (ICCES).
-
-
-
-Meier, J. Mackman, A. Dunner, M. Vasireddy, S. Escamilla, R. & Murukan, A. (2003) Improving Web Application Security: Threats and Countermeasures. Available from: https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ff648644(v=pandp.10)?redirectedfrom=MSDN
-
-
-
-Olechowski, A., Oehmen, J., Seering, W. & Ben-Daya, M. (2016) The professionalization of risk management: What role can the ISO 31000 risk management principles play? International Journal of Project Management 34(8): 1568-1578. Available from: https://backend.orbit.dtu.dk/ws/portalfiles/portal/139435316/IJPM_submission_Engineering_Risk_Management_ISO_With_Author_Information.pdf
-
-
-
-Shevchenko, N., Chick, T.A., O'Riordan, P., Scanlon, T.P. & Woody, C. (2018) Threat modeling: a summary of available methods. Carnegie Mellon University Software Engineering Institute Pittsburgh United States. Available from: https://insights.sei.cmu.edu/documents/569/2018_019_001_524597.pdf)
+- Shevchenko, N., Chick, T.A., O'Riordan, P., Scanlon, T.P. & Woody, C. (2018) Threat modeling: a summary of available methods. Carnegie Mellon University Software Engineering Institute Pittsburgh United States. Available from: https://insights.sei.cmu.edu/documents/569/2018_019_001_524597.pdf)
 
 
 
