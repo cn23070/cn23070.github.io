@@ -37,7 +37,7 @@ Important top-level use cases to consider when implementing an online shopping s
 
 
 
-![Figure 1](Modules/1/img/image1.png)
+![Figure 1](/Modules/1/img/image1.png)
 
 Figure 1 UML Top Level Use Case Diagram
 
@@ -59,7 +59,7 @@ Viewing items should include several optional use cases: search items, Browse pr
 
 
 
-![Figure 2](Modules/1/img/image2.png)
+![Figure 2](/Modules/1/img/image2.png)
 
 Figure 2 UML View Items Diagram
 
@@ -79,7 +79,7 @@ As the online shopping system will handle payments, it is proposed that the syst
 
 
 
-![Figure 3](Modules/1/img/image3.png)
+![Figure 3](/Modules/1/img/image3.png)
 
 Figure 3 UML Activity Diagram
 
@@ -105,7 +105,7 @@ Having a data flow diagram (DFD) is important to determine threat targets such a
 
 
 
-![Figure 4](Modules/1/img/image4.png)
+![Figure 4](/Modules/1/img/image4.png)
 
 Figure 4 DFD Diagram of Online Shopping System (OSS)
 
@@ -118,18 +118,17 @@ Figure 4 DFD Diagram of Online Shopping System (OSS)
 Developed by Microsoft employees, STRIDE is an acronym that represent six key threat categories (LeBlanc & Howard, 2002):
 
 
+**Spoofing identity:** Unauthorized entities such as an actor or server pretending to be someone else.
 
-Spoofing identity: Unauthorized entities such as an actor or server pretending to be someone else.
+**Tampering with data:** Malicious modification of data.
 
-Tampering with data: Malicious modification of data.
+**Repudiation:** Users who deny performing an action.
 
-Repudiation: Users who deny performing an action.
+**Information disclosure:** Exposure of information to individuals who should not have access to it.
 
-Information disclosure: Exposure of information to individuals who should not have access to it.
+**Denial of service (DoS):** DoS attacks disrupt service to authorised users.
 
-Denial of service (DoS): DoS attacks disrupt service to authorised users.
-
-Elevation of privilege: Unprivileged user gains privileged access, allowing them to compromise or damage the system.
+**Elevation of privilege:** Unprivileged user gains privileged access, allowing them to compromise or damage the system.
 
 
 
@@ -147,7 +146,7 @@ Once high threats had been determined using STRIDE, threat trees were used to an
 
 
 
-![Figure 5](Modules/1/img/image5.png)
+![Figure 5](/Modules/1/img/image5.png)
 
 Figure 5 Example Threat Tree Mapping
 
