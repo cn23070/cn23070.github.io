@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Module 3 Assignment 2 - Executive SUmmary Report
+title: Module 3 Assignment 2 - Executive Summary Report
 subtitle: Deliver an executive summary of the risk assessment findings. 
 categories: Module_3
 tags: [Module 3]
@@ -24,7 +24,7 @@ ISO 31000 was used as the overarching risk assessment methodology. ISO 31000 is 
 
 
 
-![Figure 8](Modules/3/img/image_8.png)
+![Figure 8](/Modules/3/img/image_8.png)
 
 
 
@@ -34,7 +34,7 @@ Figure 1 Risk Management Process based on ISO 31000
 
 Firstly, the business context was established.
 
-![Figure 9](Modules/3/img/image_9.png)
+![Figure 9](/Modules/3/img/image_9.png)
 
 
 
@@ -56,7 +56,7 @@ Created by Reverend Thomas Bayes in 1763, the method provides a consistent and r
 
 Bayes’s Theorem is based on the following equation:
 
-![Figure 10](Modules/3/img/image_10.png)
+![Figure 10](/Modules/3/img/image_10.png)
 
 
 
@@ -82,7 +82,7 @@ p(B) is known as the normalising constant.
 
 Following Downey’s explanation, the methodology followed to determine qualitative scores for risk instance likelihood is shown below. To ensure probabilities are more realistic and accurate, we collected historical data or relevant industry benchmarks. We have assumed that relevant business data has been provided to complete values for (B), P(A), P(B|A) and P(B), and that this data was sourced from historical data, expert judgement or industry benchmarks. The posterior or updated likelihood score is determined in % by performing the following mathematical equation: P(A|B) = P(B|A) * P(A) / P(B).
 
-![Figure 11](Modules/3/img/image_11.png)
+![Figure 11](/Modules/3/img/image_11.png)
 
 
 
@@ -96,7 +96,7 @@ Table 4 Likelihood Score Matrix
 
 # 📘 Risk Assessment Results
 
-![Figure 12](Modules/3/img/image_12.png)
+![Figure 12](/Modules/3/img/image_12.png)
 
 
 
@@ -134,7 +134,7 @@ This suggest a critical system requiring an active – active solution that is h
 
 The following active-active design fulfils the requirements by having both sites run identical systems. If one system fails all users can be redirected to the other.
 
-![Figure 13](Modules/3/img/image_13.png)
+![Figure 13](/Modules/3/img/image_13.png)
 
 
 
