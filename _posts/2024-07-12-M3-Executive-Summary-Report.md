@@ -8,37 +8,29 @@ tags: [Module 3]
 
 ---
 
-# 📋 Development Team Project: Risk Identification Report
-
-
-
-Development Team Project: Risk Identification Report
-
-By: Olimpia Worku, Craig Norris and Mihail Poloboc.
-
-
+# 📊 Executive Summary: Pampered Pets Risk Evaluation
 
 
 
 # 📘 Introduction
 
-The report will follow a careful assessment of the current risk landscape of the Pampered Pets business; a prominent local pet food shop. The business has ambitious plans to expand internationally through digitisation, although wish to know the potential risks that could arise and mitigations to eliminate threats; alongside any recommendations. ISO 31000 will be used as a risk assessment methodology together with STRIDE and DREAD for assessing the risks before and after digitalisation of the Pampered Pets business; in order for the business to understand the current and future risk landscape they could be facing.
+This report evaluates the potential product quality and availability risks associated with the digitisation and internationalisation of the Pampered Pets business including the introduction of an international supply chain and automated warehouses worldwide. Additionally, it outlines a business continuity / disaster recovery strategy to help ensure a 24/7 digital e-commerce customer service capability.
 
 
 
+# 📘 Risk Methodology
 
+ISO 31000 was used as the overarching risk assessment methodology. ISO 31000 is a well adopted and comprehensive framework with international recognition (Olechowski et al. ,2016).
 
-# 📘 Risk assessment of the Pampered Pets business
 
-There are several approaches to assessing risks; ISO 31000 is one of them. It is a comprehensive framework with international recognition that integrates well into other standards. ​A study by Olechowski et al. (2016) suggests that the ISO 31000 standard for risk management has the potential to be a well-adopted and best-practice standard for project risk management. Similarly, Dali & Lajtha (2012) state that ISO 31000 has been adopted around the world by many G20 and BRICS countries; both cases imply that ISO 31000 is the most appropriate method for assessing risks for this particular business.
 
+![Figure 8](Modules/3/img/image_8.png)
 
 
-![Figure 1](Modules/3/img/image_1.png)
 
+Figure 1 Risk Management Process based on ISO 31000
 
 
-Figure 1- “DREAD Rating Table”
 
 
 
@@ -46,161 +38,270 @@ Figure 1- “DREAD Rating Table”
 
 
 
-Furthermore, to conduct a thorough evaluation of the current threats and risks to the business, STRIDE will be used for threat modelling alongside DREAD for risk scoring. Although STRIDE and DREAD differ from each other as threat modeling methodologies, both aim to provide a structured framework for addressing security risks, additionally, both were developed by Microsoft (Shevchenko et al., 2018). STRIDE focuses on identifying and categorising threats, whereas the DREAD model at Microsoft is used to help calculate risk in the rating column of the DREAD rating table (Meier et al., 2003) (see Figure 1). STRIDE is used to represent six key threat categories (LeBlanc & Howard, 2002):
 
 
+Firstly, the business context was established.
 
-Spoofing identity: Unauthorised access; impersonating someone or something.
+![Figure 9](Modules/3/img/image_9.png)
 
-Tampering with data: Modification of data.
 
-Repudiation: Users who deny action or event.
 
-Information disclosure: Exposing information to unauthorised individuals.
 
-Denial of service (DoS): Degrading service to authorised users.
 
-Elevation of privilege: Gaining unauthorised access to compromise or damage the system.
+Next Risk analysis was carried out, and risks scored according to impact and likelihood (Impact + Likelihood = Risk).
 
+Table 1 Risk Scoring Matrix
 
+Table 2 Risk Scoring Matrix Continued
 
-![Figure 2](Modules/3/img/image_2.png)
 
 
+To score business impact a qualitative impact matrix based on ISO 27005:2022 was used as it is a simple and well-established.
 
-Figure 2- “Risk Rating Table”
+Table 3 Business Impact Matrix
 
+Bayes’s Theorem was then used to score risk likelihood.
 
+Created by Reverend Thomas Bayes in 1763, the method provides a consistent and rationale way to solve the problem of how to update a belief in some uncertain event. It is well recognized for handling risk assessment, uncertainty, and decision making across multiple industries. (Fenton & Neil, 2013)
 
+Bayes’s Theorem is based on the following equation:
 
+![Figure 10](Modules/3/img/image_10.png)
 
-After scoring the threat, one would count the values (1-3); the result can fall in the range of 5–15. The resulting risk rating is shown in Figure 2 (Meier et al., 2003).
 
 
+Figure 3 Bayes's Theorem from ThinkBayes Downey(2022)
 
-![Figure 3](Modules/3/img/image_3.png)
 
 
+Downey (2022) explains the equation as follows:
 
-![Figure 4](Modules/3/img/image_4.png)
+p(A|B) refers to the probability of A given that B is true.
 
+P(A) is the probability of A; p(B|A) is the probability of B given that A is true.
 
+p(B) is the probability of B.
 
-Figure 3- “Pampered Pets Risk Register”
+Sometimes, p(A) is called the prior probability.
 
+p(A|B) is known as the posterior probability.
 
+p(B|A) is known as the likelihood (especially when A denotes some data).
 
-The business's current digital infrastructure does face potential risks. At present, they use an old network computer and a wireless getaway alongside a hub where two computers used by the staff are connected. In addition, 90% of their business is carried out face-to-face. Upon review, the risks and threats identified that scored high on the risk score include malware, network sniffing and exploitation of outdated software along with other threats (see Figure 3). The attacker could compromise the front desk computer which could negatively impact orders and payments. In addition, there is a chance that the attacker could exploit a known vulnerability by acquiring administrative access to the front desk computer, allowing control of systems or data. Finally, since the store has poor network security configuration, it could allow unauthorised access to the customer’s details on the wireless network.
+p(B) is known as the normalising constant.
 
+Following Downey’s explanation, the methodology followed to determine qualitative scores for risk instance likelihood is shown below. To ensure probabilities are more realistic and accurate, we collected historical data or relevant industry benchmarks. We have assumed that relevant business data has been provided to complete values for (B), P(A), P(B|A) and P(B), and that this data was sourced from historical data, expert judgement or industry benchmarks. The posterior or updated likelihood score is determined in % by performing the following mathematical equation: P(A|B) = P(B|A) * P(A) / P(B).
 
+![Figure 11](Modules/3/img/image_11.png)
 
-Additional issues include:
 
-DoS attack
 
-Phishing attack
+Figure 4 Bayes's Theorem Methodology for Risk Likelihood
 
-Physical access
 
-Lack of audit logs
 
-Brute force credentials attack
+Once a qualitative posterior % value is determined and recorded in the register, the likelihood was then scored using the following likelihood scoring matrix:
 
-Exploit outdated software (Integrity)
+Table 4 Likelihood Score Matrix
 
+# 📘 Risk Assessment Results
 
+![Figure 12](Modules/3/img/image_12.png)
 
-Furthermore, to mitigate these security risks, the business should consider anti-malware software as well as regular backups. Some claim that the use of malware detection software will automatically be able to identify any hostile and malicious threats in order to prevent damage to the business's system (Edward, Ebelogu & Ubaka, 2023). In addition, using strong encryption will enable a secure authentication between the devices and network of the store. Some argue about the importance of verifying the devices to provide secure access and control of a network; thus protecting the store (Friedman, 2016; Lokhande, Pooja, & Shah, 2021).
 
 
+Figure 5 Risk Assessment Results by Risk Score
 
+# 📘 Risk Mitigation Recommendations
 
+The following recommendation will enable Pampered Pets to be proactive in mitigating the identified risks associated with the digitisation strategy, helping the business to maintain product quality and supply chain integrity.
 
-# 📘 Risk assessment around the potential digitalisation process
 
 
+Table 5 Risk Mitigation Recommendations
 
-![Figure 5](Modules/3/img/image_5.png)
+# 📘 GDPR Compliance Impact
 
+Risks that were deemed to have medium or high impact to GDPR compliance have been recorded in the table below along with a proposed mitigation strategy to reduce them.
 
 
-![Figure 6](Modules/3/img/image_6.png)
 
+Table 6 GDPR Compliance Impact
 
+Ensuring GDPR compliance involves addressing these risks through comprehensive data protection strategies, continuous monitoring, and regular audits to safeguard personal data against potential breaches and mishandling.
 
-![Figure 7](Modules/3/img/image_7.png)
+# 📘 Business Continuity (BC)/Disaster Recover (DR) Strategy
 
+All businesses should have plans for both BC and DR that are tested regularly. Having a disaster recovery solution is no longer a luxury but a business necessity (Badurdeen et al., 2014).
 
+# 📘 DR Strategy Requirements
 
-Figure 4- “Pampered Pets Risk Register”
+Based on requirements provided by the business, an online shop Recovery Time Objective (RTO) of less than 1 hour, and a Recovery Point Objective (RPO) of less than 1 minute is recommended.
 
+This suggest a critical system requiring an active – active solution that is highly recoverable quickly.
 
+# 📘 DR Solution Design
 
+The following active-active design fulfils the requirements by having both sites run identical systems. If one system fails all users can be redirected to the other.
 
+![Figure 13](Modules/3/img/image_13.png)
 
-Overall, the digitalisation process has its benefits. For instance, it enables customers to shop online and, therefore, provides a convenient shopping experience. However, it could lead to an increased exposure to potential threats. Upon assessment, the risks have scored higher than before (see Figure 4). For instance:
 
 
+Figure  Proposed Active-Active DR Design
 
-Network sniffing- the store has poor network security configuration, thus allowing unauthorised access to the customer’s order details on the wireless network.
 
-Lack of audit logs- the attackers could have the ability to deny order or payment submission.
 
-Brute force credential attacks- the attacker could gain unauthorised access to sensitive data due to poor access control (e.g., tax records and inventory).
+The design is based on two systems running concurrently, one on premise and one in the cloud, or where each one is hosted on a separate cloud vendor environment. Either Microsoft Azure or AWS platforms are recommended. If one vendor platform is already in use, it recommended to choose the other.
 
+Using a multi-cloud / multi-vendor environment cost more and is more complex but will avoid known risks including:
 
+data lock-in where you may be charged by the provider to release or transfer your data
 
-In order to mitigate them, the business might consider:
+design lock-in where the use of single supplier-provided components can lead to applications having to be redesigned to be deployed on another platform
 
-Implementing strong encryption protocols such as WPA 2 or perhaps WPA 3.
+single supplier faults where one vendor issue can impact the solution regardless of numerous data centres in use or varying geographical location of the two systems
 
-Implementing log entities such as user identities, timestamps, order details and payment information.
+Any complex dependencies making up the solution must be identified early on and understood. For complex dependencies, the use of a reputable vendor is recommended, and that a vendor exit strategy is negotiated.
 
-Implementing password policy and multifactor authentication (MFA).
+Additional design considerations making up the solution include:
 
+The use of a cloud-based traffic manager managing the front-end traffic and monitoring both systems to detect if either fails and to manage automatic, seamless switchover.
 
+Code deployment should follow a blue-green deployment strategy, where all users are switched over to one site to test new code, while the second site is held at the older version in case there are user errors with the new code.
+
+Databases should be configured to provide high availability, disaster recovery, and read scale balancing such as Always On availability (AOAG) groups.
+
+Any other data should be copied synchronously between systems. Synchronous copies ensure a fast, highly recoverable service although there may be a need for additional solutions to cope with data corruption as sync copies will copy corrupt data.
+
+Applications should be deployed in stateless containers and all user-state managed via the database.
+
+Applications must be designed as active - active ready to meet RPO/RTO
+
+A global redundant storage option should be used ensuring a data copy is stored at least one 'paired' datacentre, preventing the risks posed by single building or local geography failure.
+
+
+
+Such a design is costly but will provide immediate, tested, always on service.
 
 
 
 # 📘 Conclusion
 
-Overall, the results indicate an increase in risk to the business if the decision to pursue digitisation is taken. Of course, an online presence could tremendously help the business grow, however, with the current high-risk vulnerabilities the store faces, as per industry best practice it is suggested to follow the recommended mitigations first before the digitalisation process.
+The proposed digitalisation and internationalisation of Pampered Pets impacts on the business’s product quality and supply chain security risk landscape. By implementing robust quality control and suppler management, maturing the businesses cyber security and data privacy capabilities, and by implementing and maintaining an effective business continuity and disaster recovery strategy such as the ones proposed in this report, these risks can be mitigated effectively.
+
+# 📘 References
+
+- Olechowski, A., Oehmen, J., Seering, W. & Ben-Daya, M. (2016) The professionalization of risk management: What role can the ISO 31000 risk management principles play? International Journal of Project Management 34(8): 1568-1578. Available from: https://backend.orbit.dtu.dk/ws/portalfiles/portal/139435316/IJPM_submission_Engineering_Risk_Management_ISO_With_Author_Information.pdf
+
+- British Standards Institution, (2022). Information security, cybersecurity and privacy protection — Guidance on managing information sec-urity risks BS EN ISO 27005:2022. London: British Standards Publications.
+
+- British Standards Institution, (2022). Risk management Principles and guidelines BS EN ISO 31000:2009. London: British Standards Publications.
+
+- Fenton, N. E. & Neil, M. (Martin D.) (2013) Risk assessment and decision analysis with Bayesian networks. 1st edition. [Online]. Boca Raton, FL: CRC Press.
+
+- Downey, A. (2016). Think Bayes. Sebastopol, Ca. O’Reilly.
+
+- Badurdeen, F., Shuaib, M., Wijekoon, K., Brown, A., Faulkner, W., Amundson, J., Jawahir, I.S., J. Goldsby, T., Iyengar, D. and Boden, B. (2014), "Quantitative modeling and analysis of supply chain risks using Bayesian theory", Journal of Manufacturing Technology Management, Vol. 25 No. 5, pp. 631-654.
+
+- Hubbard, D. W. & Seiersen, R. (2023) How to Measure Anything in Cybersecurity Risk. Second edition. [Online]. Hoboken, NJ: Wiley-Blackwell.
+
+- LeBlanc, David, and Michael Howard. (2002) Writing Secure Code. United States: Pearson Education, Limited.
+
+- Andrade, E., Nogueira, B., Matos, R. et al. Availability modeling and analysis of a disaster-recovery-as-a-service solution. Computing 99, 929–954 (2017).
+
+- Wiggins, A (2017). The Twelve-Factor App. Available from: https://12factor.net/ [Accessed 16 May, 2022]
+
+- Norris, C. (2024) Individual Essay. Launching into Cyber Security November 2023. University of Essex online. Unpublished assignment.
 
 
 
-References:
+
+|  |  | Likelihood | Likelihood | Likelihood | Likelihood | Likelihood |
+|---|---|---|---|---|---|---|
+|  |  | Never | Very Low | Low | Moderate | High |
+| Business Impact | Catastrophic | 6 | 7 | 8 | 9 | 10 |
+| Business Impact | Critical | 5 | 6 | 7 | 8 | 9 |
+| Business Impact | Serious | 4 | 5 | 6 | 7 | 8 |
+| Business Impact | Significant | 3 | 4 | 5 | 6 | 7 |
+| Business Impact | Minor | 2 | 3 | 4 | 5 | 6 |
 
 
 
-Agu Edward .O, None Ebelogu & Ubaka, C. (2023). Malware Mitigation Through Detection Using Support Vector Machine and Random Forest Algorithm. International journal of advances in scientific research and engineering 9(07):18–24. Available from:
+
+
+| Risk | Risk Score |
+|---|---|
+| High | 7 – 10 |
+| Medium | 5 – 7 |
+| Low | 2 - 4 |
 
 
 
-Dali, A. & Lajtha, C. (2012) ISO 31000 risk management—“The gold standard”. Edpacs 45(5):1-8. Available from: https://www.tandfonline.com/doi/abs/10.1080/07366981.2012.682494
+
+
+| Consequences | Description |
+|---|---|
+| 1 – Minor | Negligible consequences for the organization  No consequences on operations or the performance of the activity or on the safety of persons and property.   The organization will overcome the situation without too much difficulty (margins will be consumed). |
+| 2 – Significant | Significant but limited consequences for the organization  Degradation in the performance of the activity with no consequences on the safety of persons and property.   The organization will overcome the situation despite a few difficulties (operation in degraded mode). |
+| – Serious | Substantial consequences for the organization  High degradation in the performance of the activity, with possible significant consequences on the safety of persons and property.   The organization will overcome the situation with serious difficulties (operation in a highly degraded mode), without any sector or state impact. |
+| – Critical | Disastrous consequences for the organization  Incapacity for the organization to ensure all or a portion of its activity, with possible serious consequences on the safety of persons and property.   The organization will most likely not overcome the situation (its survival is threatened), the activity sectors or state sectors in which it operates will likely be affected slightly, without any long-lasting consequences. |
+| 5 – Catastrophic | Sector or regulatory consequences beyond the organization Substantially impacted sector ecosystem(s), with consequences that can be long lasting.  And/or: difficulty for the State, and even an incapacity, to ensure a regulatory function or one of its missions of vital importance.  And/or: critical consequences on the safety of persons and property (health crisis, major environmental pollution, destruction of essential infrastructures, etc.). |
+| Source: ISO 27005:2022 | Source: ISO 27005:2022 |
 
 
 
-Friedman, P. (2016) The Case for Strong Encryption.
+
+| Likelihood Score | Percentage Range |
+|---|---|
+| 1 Rare | 0 - 10% |
+| 2 (Very Low) | >10% - 25% |
+| 3 (Low) | >25% - 50% |
+| 4 (Moderate) | >50% - 75% |
+| 5 (High) | >75% - 100% |
 
 
 
-LeBlanc, David, & Michael Howard. (2002) Writing Secure Code. United States: Pearson Education, Limited.
+
+
+| Risk ID | Risk Description | Risk Score | Mitigation Strategy |
+|---|---|---|---|
+| SC1 | Delay in shipments Increased complexity and distance in international shipping. | 8 | Diversify shipping routes Use multiple logistics companies |
+| PQ1 | Quality Control Issues Quality control challenges across international borders. | 8 | Implement stringent quality checks,  Work closely with suppliers on quality control standardisation and effectiveness |
+| SC2 | Reliability of supplier New suppliers and geopolitical risks increase variability. | 7 | Develop strong supplier relationships Have backup suppliers ready for use |
+| PQ2 | Counterfeit Products Increased exposure to regions with higher counterfeiting risks. | 7 | Secure supply chain against counterfeiting Verify authenticity Investigate the use of blockchain for this use case |
+| SC8 | Cybersecurity Risks Increased cyber threat exposure due to international operations and digitalisation. | 6 | Invest in a robust cybersecurity management system based on ISO 27001 Conduct regular audits |
+| PQ4 | Product Contamination Varying hygiene practices increase contamination risk. | 6 | Implement rigorous testing protocols Maintain clean production environments |
+| PQ6 | Non-Standard Manufacturing Processes Different manufacturing processes increase variability risk. | 6 | Standardize manufacturing processes Implement a suppliers training program |
+| PQ5 | Non-compliance with Local Standards Diverse local standards increase compliance complexity. | 6 | Ensure products meet international standards Conduct regular compliance checks |
+| PQ8 | Storage Conditions Variability in storage standards and conditions internationally. | 6 | Establish strict storage guidelines Monitor storage conditions regularly |
+| PQ7 | Lack of Traceability Lack of robust traceability systems in international supply chains. | 6 | Implement end-to-end traceability systems Investigate the use of barcoding |
+| SC3 | Political and Economic Instability Increased risk due to political and economic changes. | 5 | Periodically monitor and respond to geopolitical risk Diversify supplier locations |
+| SC4 | Regulatory Non-Compliance Increased risk due to political and economic changes. | 5 | Stay updated with international laws Introduce a quality regulatory function to ensure compliance |
+| SC6 | Logistics and Transportation Risks Increased risk due to international logistics complexity. | 5 | Use reputable logistics providers Insure shipments |
+| SC7 | Natural Disasters Increased probability due to climate change trends. | 5 | Develop disaster recovery plans Choose relevant and diverse locations |
+| PQ3 | Inconsistent Raw Materials Increased risk due to sourcing from diverse international suppliers. | 4 | Standardise raw material specifications Agree on standard adherence and audit suppliers |
+| SC5 | Currency Fluctuations Market volatility and international trade exposure. | 4 | Negotiate contracts in stable currencies |
 
 
 
-Lokhande, Pooja, & A. M. Shah. (2021). Strong authentication and encryption modeling using physical unclonable function based on FPGA. 6th International Conference on Communication and Electronics Systems (ICCES).
 
 
+| Risk ID | Risk Description | GDPR Impact | Mitigation Strategy
+(LeBlanc & Howard, 2002)
+Amended from source: Norris. (2024) |
+|---|---|---|---|
+| SC8 | Cybersecurity Risks Increased cyber threat exposure due to international operations and digitalisation. | High | Implement the following mitigations in order mitigate GDPR risks:  Maintain a transparent privacy policy that is accessible to everyone. For each continual release, the policy should be reviewed again  Establish a data retention policy that includes data retention and deletion (deleted once it is no longer needed for business purposes or legal compliance) requirements.  Only collect the minimum customer data required. When users have access to sensitive information, they will be tempted to view it so ensure audit logging is enabled  When storing sensitive data, encrypt the data rather than store it in plaintext by using a good cryptographic algorithm and well-protected key. Encrypting stored data protects against unauthorized access  Implement procedures for regular evaluation of the accuracy of customer and employee data |
+| SC8 | Cybersecurity Risks Increased cyber threat exposure due to international operations and digitalisation. | Target Medium | Implement the following mitigations in order mitigate GDPR risks:  Maintain a transparent privacy policy that is accessible to everyone. For each continual release, the policy should be reviewed again  Establish a data retention policy that includes data retention and deletion (deleted once it is no longer needed for business purposes or legal compliance) requirements.  Only collect the minimum customer data required. When users have access to sensitive information, they will be tempted to view it so ensure audit logging is enabled  When storing sensitive data, encrypt the data rather than store it in plaintext by using a good cryptographic algorithm and well-protected key. Encrypting stored data protects against unauthorized access  Implement procedures for regular evaluation of the accuracy of customer and employee data |
+| SC4 | Regulatory Non-Compliance Increased risk due to political and economic changes. | High | Implement the following mitigations in order mitigate GDPR risks:  Maintain a transparent privacy policy that is accessible to everyone. For each continual release, the policy should be reviewed again  Establish a data retention policy that includes data retention and deletion (deleted once it is no longer needed for business purposes or legal compliance) requirements.  Only collect the minimum customer data required. When users have access to sensitive information, they will be tempted to view it so ensure audit logging is enabled  When storing sensitive data, encrypt the data rather than store it in plaintext by using a good cryptographic algorithm and well-protected key. Encrypting stored data protects against unauthorized access  Implement procedures for regular evaluation of the accuracy of customer and employee data |
+| SC4 | Regulatory Non-Compliance Increased risk due to political and economic changes. | Target Medium | Implement the following mitigations in order mitigate GDPR risks:  Maintain a transparent privacy policy that is accessible to everyone. For each continual release, the policy should be reviewed again  Establish a data retention policy that includes data retention and deletion (deleted once it is no longer needed for business purposes or legal compliance) requirements.  Only collect the minimum customer data required. When users have access to sensitive information, they will be tempted to view it so ensure audit logging is enabled  When storing sensitive data, encrypt the data rather than store it in plaintext by using a good cryptographic algorithm and well-protected key. Encrypting stored data protects against unauthorized access  Implement procedures for regular evaluation of the accuracy of customer and employee data |
+| PQ8 | Storage Conditions Variability in storage standards and conditions internationally. | Medium | Implement the following mitigations in order mitigate GDPR risks:  Maintain a transparent privacy policy that is accessible to everyone. For each continual release, the policy should be reviewed again  Establish a data retention policy that includes data retention and deletion (deleted once it is no longer needed for business purposes or legal compliance) requirements.  Only collect the minimum customer data required. When users have access to sensitive information, they will be tempted to view it so ensure audit logging is enabled  When storing sensitive data, encrypt the data rather than store it in plaintext by using a good cryptographic algorithm and well-protected key. Encrypting stored data protects against unauthorized access  Implement procedures for regular evaluation of the accuracy of customer and employee data |
+| PQ8 | Storage Conditions Variability in storage standards and conditions internationally. | Target Low | Implement the following mitigations in order mitigate GDPR risks:  Maintain a transparent privacy policy that is accessible to everyone. For each continual release, the policy should be reviewed again  Establish a data retention policy that includes data retention and deletion (deleted once it is no longer needed for business purposes or legal compliance) requirements.  Only collect the minimum customer data required. When users have access to sensitive information, they will be tempted to view it so ensure audit logging is enabled  When storing sensitive data, encrypt the data rather than store it in plaintext by using a good cryptographic algorithm and well-protected key. Encrypting stored data protects against unauthorized access  Implement procedures for regular evaluation of the accuracy of customer and employee data |
+| SC3 | Political and Economic Instability Increased risk due to political and economic changes. | Medium | Implement the following mitigations in order mitigate GDPR risks:  Maintain a transparent privacy policy that is accessible to everyone. For each continual release, the policy should be reviewed again  Establish a data retention policy that includes data retention and deletion (deleted once it is no longer needed for business purposes or legal compliance) requirements.  Only collect the minimum customer data required. When users have access to sensitive information, they will be tempted to view it so ensure audit logging is enabled  When storing sensitive data, encrypt the data rather than store it in plaintext by using a good cryptographic algorithm and well-protected key. Encrypting stored data protects against unauthorized access  Implement procedures for regular evaluation of the accuracy of customer and employee data |
+| SC3 | Political and Economic Instability Increased risk due to political and economic changes. | Target Low | Implement the following mitigations in order mitigate GDPR risks:  Maintain a transparent privacy policy that is accessible to everyone. For each continual release, the policy should be reviewed again  Establish a data retention policy that includes data retention and deletion (deleted once it is no longer needed for business purposes or legal compliance) requirements.  Only collect the minimum customer data required. When users have access to sensitive information, they will be tempted to view it so ensure audit logging is enabled  When storing sensitive data, encrypt the data rather than store it in plaintext by using a good cryptographic algorithm and well-protected key. Encrypting stored data protects against unauthorized access  Implement procedures for regular evaluation of the accuracy of customer and employee data |
+| SC6 | Logistics and Transportation Risks Increased risk due to international logistics complexity. | Medium | Implement the following mitigations in order mitigate GDPR risks:  Maintain a transparent privacy policy that is accessible to everyone. For each continual release, the policy should be reviewed again  Establish a data retention policy that includes data retention and deletion (deleted once it is no longer needed for business purposes or legal compliance) requirements.  Only collect the minimum customer data required. When users have access to sensitive information, they will be tempted to view it so ensure audit logging is enabled  When storing sensitive data, encrypt the data rather than store it in plaintext by using a good cryptographic algorithm and well-protected key. Encrypting stored data protects against unauthorized access  Implement procedures for regular evaluation of the accuracy of customer and employee data |
+| SC6 | Logistics and Transportation Risks Increased risk due to international logistics complexity. | Target Low | Implement the following mitigations in order mitigate GDPR risks:  Maintain a transparent privacy policy that is accessible to everyone. For each continual release, the policy should be reviewed again  Establish a data retention policy that includes data retention and deletion (deleted once it is no longer needed for business purposes or legal compliance) requirements.  Only collect the minimum customer data required. When users have access to sensitive information, they will be tempted to view it so ensure audit logging is enabled  When storing sensitive data, encrypt the data rather than store it in plaintext by using a good cryptographic algorithm and well-protected key. Encrypting stored data protects against unauthorized access  Implement procedures for regular evaluation of the accuracy of customer and employee data |
 
-Meier, J. Mackman, A. Dunner, M. Vasireddy, S. Escamilla, R. & Murukan, A. (2003) Improving Web Application Security: Threats and Countermeasures. Available from: https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ff648644(v=pandp.10)?redirectedfrom=MSDN
-
-
-
-Olechowski, A., Oehmen, J., Seering, W. & Ben-Daya, M. (2016) The professionalization of risk management: What role can the ISO 31000 risk management principles play? International Journal of Project Management 34(8): 1568-1578. Available from: https://backend.orbit.dtu.dk/ws/portalfiles/portal/139435316/IJPM_submission_Engineering_Risk_Management_ISO_With_Author_Information.pdf
-
-
-
-Shevchenko, N., Chick, T.A., O'Riordan, P., Scanlon, T.P. & Woody, C. (2018) Threat modeling: a summary of available methods. Carnegie Mellon University Software Engineering Institute Pittsburgh United States. Available from: https://insights.sei.cmu.edu/documents/569/2018_019_001_524597.pdf)
 
 
 
