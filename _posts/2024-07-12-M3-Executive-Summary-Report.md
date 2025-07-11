@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Module 3 Security and Risk Management April 2024
-subtitle: How Security and Risk overlap and interact. 
+title: Module 3 Assignment 2 - Executive SUmmary Report
+subtitle: Deliver an executive summary of the risk assessment findings. 
 categories: Module_3
 tags: [Module 3]
 ---	
@@ -32,19 +32,9 @@ Figure 1 Risk Management Process based on ISO 31000
 
 
 
-
-
-
-
-
-
-
-
 Firstly, the business context was established.
 
 ![Figure 9](Modules/3/img/image_9.png)
-
-
 
 
 
