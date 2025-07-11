@@ -196,6 +196,9 @@ Table 5 Risk Mitigation Recommendations
 
 ### GDPR Compliance Impact Table
 
+Risks that were deemed to have medium or high impact to GDPR compliance have been recorded in the table below along with a proposed mitigation strategy to reduce them.
+
+
 | Risk ID | Risk Description | GDPR Impact | Mitigation Strategy |
 |--------|------------------|--------------|----------------------|
 | SC8 | Cybersecurity Risks – Increased cyber threat exposure due to international operations and digitalisation. | High | Maintain transparent privacy and data retention policies. Enable audit logging. Encrypt sensitive data. Regularly evaluate data accuracy. |
