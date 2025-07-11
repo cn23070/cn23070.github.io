@@ -203,12 +203,7 @@ Risks that were deemed to have medium or high impact to GDPR compliance have bee
 
 
 | Risk ID | Risk Description | GDPR Impact | Mitigation Strategy |
-|---------|------------------|--------------|----------------------|
-| SC8 | Cybersecurity Risks – Increased cyber threat exposure due to international operations and digitalisation. | High | Maintain a transparent privacy policy. Establish a data retention policy. Collect only necessary data. Enable audit logging. Encrypt sensitive data. Regularly evaluate data accuracy. |
-| SC4 | Regulatory Non-Compliance – Increased risk due to political and economic changes. | High | Same as above: transparent policies, data retention, access control, encryption, and regular data reviews. |
-| PQ8 | Storage Conditions – Variability in storage standards and conditions internationally. | Medium | Same GDPR-focused mitigations as above. |
-| SC3 | Political and Economic Instability – Increased risk due to political and economic changes. | Medium | Standard GDPR mitigation practices. |
-| SC6 | Logistics and Transportation Risks – Increased risk due to international logistics complexity. | Medium | Apply consistent data handling, retention, encryption, and transparency practices. |
+|---|---|---|---|
 (LeBlanc & Howard, 2002)
 Amended from source: Norris. (2024) |
 |---|---|---|---|
@@ -332,6 +327,7 @@ The proposed digitalisation and internationalisation of Pampered Pets impacts on
 
 
 - Norris, C. (2024) Individual Essay. Launching into Cyber Security November 2023. University of Essex online. Unpublished assignment.
+
 
 
 
