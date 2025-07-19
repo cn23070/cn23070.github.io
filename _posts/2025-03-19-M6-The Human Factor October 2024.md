@@ -15,6 +15,38 @@ tags: [Module 6]
 
 - **Figure 1**: Video Presentation
 
+---
+
+## Feedback (University of Essex, 2025)
+
+Thank you for submitting your individual presentation for the Human Factor module
+
+In this task you were invited to present solutions to address the issues you identified in the individual essay which a start-up company need to consider as part of its IT strategy to achieve optimal security.
+
+Overall, excellent work done. To improve your grades further, do take note of the developmental areas highlighted below. 
+
+#### Knowledge and understanding (excellent)
+
+You demonstrate excellent knowledge and understanding of the human factors:lack of employee awareness, insider threat, and human error. Excellent context provided for the basis of solutions proposed, citing data to support.
+ 
+#### Criticality (excellent)
+
+You demonstrate excellent criticality in discussing the measures and how these can be employed. The implications of human factors are well presented, excellent justification for the solutions. Excellent to see discussion of theoretical lens such as the “knowing-doing” gap basis for the problem.  You could have touched on the need to have a mechanism in place to ensure monitoring and continues improvement of the proposed solutions.
+
+#### Use of relevant sources (excellent)
+
+There is evidence of wider reading and consultation of relevant sources as shown in thorough the presentation which is excellent.
+
+#### Structure and presentation (outstanding)
+
+Excellent structure and outstanding presentation by employing good presentation techniques and use of visuals.
+ 
+#### Academic integrity (excellent)
+
+Excellent use of sources and well referenced throughout the presentation, with in-text citation as well as full list at the end of presentation.
+
+---
+
 
 ## References 
 
@@ -31,3 +63,5 @@ tags: [Module 6]
 - Savolainen, K. (2021) User-centred design without involving users: A longitudinal case study in a human-centred-design–mature company. The Design Journal 24(6): 887-905.
 - Grobler, M., Gaire, R. and Nepal, S., 2021. User, usage and usability: Redefining human centric cyber security. Frontiers in big Data, 4, p.583723.
 - Bureau, F.I.P., 2013. Unintentional insider threats: A foundational study. Software Engineering Institute Technical Report.
+
+---
