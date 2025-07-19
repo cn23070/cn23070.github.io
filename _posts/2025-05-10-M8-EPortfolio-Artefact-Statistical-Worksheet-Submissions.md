@@ -175,7 +175,7 @@ Explored weight loss and brand preferences using frequency tables and bar charts
 ---
 
 
-## ✅ Feedback
+## ✅ Feedback (University of Essex Online, 2025)
 
 The charts and interpretations provided align well with the task objectives and show a clear understanding of the data analysis techniques.
  
@@ -184,3 +184,20 @@ Some suggestions for improvement are below:
 - Exercise 9.1 & 9.4: You could strengthen your analysis by hypothesizing why Area 2 has more brand loyalty—e.g., economic differences, urban vs. rural.
 - Exercise 9.2 & 9.5: Consider labeling the values on each bar (data labels) for clarity, especially if readers are reviewing without spreadsheet context.
 - Exercise 9.3 & 9.6: For critical evaluation, consider discussing outliers or potential reasons for variability in Diet B (e.g., adherence levels, starting weight, or other confounding factors).
+
+---
+
+## 📚 References
+
+- University of Essex Online. (2025). Unit 6: Quantitative Methods - Descriptive and Inferential Statistics, Research Methods and Professional Practice April 2025 B. Available at: https://www.my-course.co.uk/course/view.php?id=13463&section=7 (Accessed: 10 July 2025).
+
+- University of Essex Online. (2025). Unit 7: Inferential Statistics and Hypothesis Testing, Research Methods and Professional Practice April 2025 B. Available at: https://www.my-course.co.uk/course/view.php?id=13463&section=7 (Accessed: 10 July 2025).
+ 
+- University of Essex Online. (2025). Unit 8: Data Analysis and Visualisation, Research Methods and Professional Practice April 2025 B. Available at: https://www.my-course.co.uk/course/view.php?id=13463&section=7 (Accessed: 10 July 2025).
+  
+- University of Essex Online. (2025). Unit 9: Validity and Generalisability in Research, Research Methods and Professional Practice April 2025 B. Available at: https://www.my-course.co.uk/course/view.php?id=13463&section=7 (Accessed: 10 July 2025).
+  
+- University of Essex Online. (2025). Unit 10: Research Writing, Research Methods and Professional Practice April 2025 B. Available at: https://www.my-course.co.uk/course/view.php?id=13463&section=7 (Accessed: 10 July 2025).
+   
+---
+   
