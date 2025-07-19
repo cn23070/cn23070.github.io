@@ -19,9 +19,8 @@ Welcome to the index page for **Module 5**. Here you'll find key reflections, de
 
 Below is a list of key deliverables for **Module 5**:
 
-| 📌 Title                           | 🔗 Link                      |
-|-----------------------------------|------------------------------|
-| Final Report                      | [View Report](#)             |
-| Source Code Repository            | [GitHub Repo](#)             |
-| Reflective Journal                | [Read Journal](#)            |
-| Presentation Slides               | [View Slides](#)             |
+| 📌 Title                                 | 🔗 Link                      																																					 |
+|-----------------------------------       |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Mid-Module Assignment 1                  | [View Report](https://essexuniversity-my.sharepoint.com/:p:/g/personal/cn23070_essex_ac_uk/EWnjHbHCo2pAu63pEJvr884Bmt4RAjWJuJHEDgCuhzf9BA?e=MDyisx)|
+| Individual Presentation                  | [Video](https://cn23070.github.io/module_6/2025/03/19/M6-The-Human-Factor-October-2024.html)             |
+
