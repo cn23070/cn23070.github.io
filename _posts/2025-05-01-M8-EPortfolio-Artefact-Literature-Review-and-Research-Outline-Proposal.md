@@ -88,7 +88,7 @@ tags: [Module 8]
 
 *List of all cited resources*
 
-## Feedback:
+## Feedback (University of Essex Online, 2025)
 
 **Strengths**
 
@@ -127,3 +127,7 @@ Complete and format all references.
 Expand critical evaluation with diverse viewpoints.
 Use formal academic language and structure.
 Ensure methodology aligns with secondary research only.
+
+## References
+
+- University of Essex Online. (2025). Unit 3: Methodology and Research Methods, Research Methods and Professional Practice April 2025 B. Available at: https://www.my-course.co.uk/course/view.php?id=13463&section=7 (Accessed: 10 July 2025).
