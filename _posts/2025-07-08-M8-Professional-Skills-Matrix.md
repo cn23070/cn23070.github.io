@@ -14,7 +14,7 @@ This section provides a structured overview of the professional competencies, cr
 
 ## ✅ Professional Skills Matrix
 
-| Skill                          | Current Level | Evidence                                                                                   | Development Goal                                                           |
+| Skill                          | Current Level | Evidence (University of Essex Online, 2025)                                                  | Development Goal                                                             |
 |--------------------------------|----------------|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
 | Academic Research Design       | Proficient     | Developed proposal structure and applied research ethics                                   | Apply to MSc dissertation project                                           |
 | Cybersecurity Governance       | Advanced       | Lead ISO 27001/27701 certified ISMS                                                        | Integrate academic framing in governance models                             |
@@ -35,7 +35,7 @@ This section provides a structured overview of the professional competencies, cr
 
 ---
 
-## 🧠 SWOT Analysis
+## 🧠 SWOT Analysis 
 
 **Strengths**
 - Deep domain expertise in cybersecurity governance
@@ -78,3 +78,34 @@ This section provides a structured overview of the professional competencies, cr
 | Continue reflection         | Maintain weekly reflective journaling                                  | Weekly         | Log of insights tied to academic/professional outcomes                 |
 
 ---
+
+### 📚 References
+
+- Rolfe, G., Freshwater, D. and Jasper, M., 2001. Critical reflection for nursing and the helping professions: a user’s guide. Basingstoke: Palgrave Macmillan.
+
+- University of Essex Online. (2025). Unit 1: Introduction to Research Methods. The Scientific Investigation and Ethics in Computing, Research Methods and Professional Practice April 2025 B. Available at: https://www.my-course.co.uk/course/view.php?id=13463&section=7 (Accessed: 10 July 2025).
+
+- University of Essex Online. (2025). Unit 2: Research Questions, the Literature Review and the Research Proposal, Research Methods and Professional Practice April 2025 B. Available at: https://www.my-course.co.uk/course/view.php?id=13463&section=7 (Accessed: 10 July 2025).
+
+- University of Essex Online. (2025). Unit 3: Methodology and Research Methods, Research Methods and Professional Practice April 2025 B. Available at: https://www.my-course.co.uk/course/view.php?id=13463&section=7 (Accessed: 10 July 2025).
+
+- University of Essex Online. (2025). Unit 4: Case Studies, Focus Groups and Observations, Research Methods and Professional Practice April 2025 B. Available at: https://www.my-course.co.uk/course/view.php?id=13463&section=7 (Accessed: 10 July 2025).
+
+- University of Essex Online. (2025). Unit 5: Interviews, Survey Methods, and Questionnaire Design, Research Methods and Professional Practice April 2025 B. Available at: https://www.my-course.co.uk/course/view.php?id=13463&section=7 (Accessed: 10 July 2025).
+
+- University of Essex Online. (2025). Unit 6: Quantitative Methods - Descriptive and Inferential Statistics, Research Methods and Professional Practice April 2025 B. Available at: https://www.my-course.co.uk/course/view.php?id=13463&section=7 (Accessed: 10 July 2025).
+
+ - University of Essex Online. (2025). Unit 7: Inferential Statistics and Hypothesis Testing, Research Methods and Professional Practice April 2025 B. Available at: https://www.my-course.co.uk/course/view.php?id=13463&section=7 (Accessed: 10 July 2025).
+ 
+  - University of Essex Online. (2025). Unit 8: Data Analysis and Visualisation, Research Methods and Professional Practice April 2025 B. Available at: https://www.my-course.co.uk/course/view.php?id=13463&section=7 (Accessed: 10 July 2025).
+  
+  - University of Essex Online. (2025). Unit 9: Validity and Generalisability in Research, Research Methods and Professional Practice April 2025 B. Available at: https://www.my-course.co.uk/course/view.php?id=13463&section=7 (Accessed: 10 July 2025).
+  
+  - University of Essex Online. (2025). Unit 10: Research Writing, Research Methods and Professional Practice April 2025 B. Available at: https://www.my-course.co.uk/course/view.php?id=13463&section=7 (Accessed: 10 July 2025).
+  
+  - University of Essex Online. (2025). Unit 11: Going Forward: Professional Development and Your e-Portfolio, Research Methods and Professional Practice April 2025 B. Available at: https://www.my-course.co.uk/course/view.php?id=13463&section=7 (Accessed: 10 July 2025).
+  
+   - University of Essex Online. (2025). Unit 12: Project Management and Managing Risk, Research Methods and Professional Practice April 2025 B. Available at: https://www.my-course.co.uk/course/view.php?id=13463&section=7 (Accessed: 10 July 2025).
+   
+   ---
+   

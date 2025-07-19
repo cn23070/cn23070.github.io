@@ -18,12 +18,11 @@ tags: [Module 8]
 
 ## 🔹 WHAT? – Description of the Learning Events
 
-This module provided a rich blend of theory, reflection, and applied learning that strengthened my academic confidence and practical readiness for dissertation research.
+This module provided a rich blend of theory, reflection, and applied learning that strengthened my academic confidence and practical readiness for dissertation research. 
 
-In Units 1 to 4, I built a solid foundation in research methods and ethics, learning about the scientific method, reasoning types, and ethical principles in computing, such as integrity and respect for participants. These insights will guide me in conducting credible research. 
+In Units 1 to 4, I developed a strong foundation in research methods and ethics. I learned about the scientific method, deductive and inductive reasoning, and the importance of ethical principles in computing research, including integrity, professionalism, and respect for participants. 
 
-I also gained practical experience through a peer review (Activity 2) and developing a literature review on IoT cybersecurity threats (Activity 3).
-
+These insights will guide me in conducting responsible and credible research. Practical experiance gained included performing a **peer review**, building a **literature review** on cybersecurity threats in IoT (Activity 3) and submitting it formally for assessment (Assignment 1).
 
 ![Peer Review](/Modules/8/img/34.png)
 
@@ -35,7 +34,7 @@ The **peer review seminar** (Activity 2) was particularly helpful, as it strengt
 
 - **Figure 3**: Literature Review (University of Essex Online, 2025)
 
-This experience allowed me to explore the academic treatment of topics I typically encounter in my professional role.
+ This experience allowed me to explore the academic treatment of topics I typically encounter in my professional role.
 
 Ethical issues in computing were explored through reflective analysis of **Generative AI** (Activity 1) and the **Cambridge Analytica Scandal** (Case Study), both of which raised critical questions about organisational accountability. 
 
@@ -58,14 +57,13 @@ We further expanded our understanding of ethical considerations through peer dis
 These discussions further deepened our insight as we critically analysed and openly debated relevant legal (both jurisdictional and non-jurisdictional) and social issues, along with the level of professionalism demonstrated by the computing professionals in the case.
 
 
-I also gained skills in formulating clear, focused research questions. I now understand how to critically evaluate sources, identify gaps in existing knowledge, and structure a review to support my research objectives.
+I also gained skills in formulating clear, focused research questions and conducting literature reviews. I now understand how to critically evaluate sources, identify gaps in existing knowledge, and structure a review to support my research objectives.
 
-I explored different research designs (exploratory and conclusive), and learned to distinguish between qualitative, quantitative, and mixed methods approaches. Unit 4 introduced key qualitative data collection techniques such as case studies, focus groups, and observations, and highlighted the value of combining methods for richer insights.
+Further, I explored different research designs (exploratory and conclusive), and learned to distinguish between qualitative, quantitative, and mixed methods approaches. Unit 4 introduced key qualitative data collection techniques such as case studies, focus groups, and observations, and highlighted the value of combining methods for richer insights.
 
 Throughout Units 5 to 12, I developed a comprehensive understanding of research methods, data analysis, and academic writing within the context of computing. I learned how to design effective data collection tools such as surveys and questionnaires, and gained practical skills in both qualitative and quantitative research techniques. I explored descriptive and inferential statistics, learning how to interpret data, test hypotheses, and draw meaningful conclusions.
 
 I also enhanced my ability to present data clearly through visualisation tools and dashboards, and to critically assess the validity, reliability, and generalisability of research findings. The focus on research writing helped me structure and communicate my ideas effectively, culminating in the development of a research proposal. I subsequently developed a structured **research proposal** (Assignment 2), which introduced a refined research topic that I intend to expand upon in my MSc dissertation. 
-
 
 ![Research Proposal](/Modules/8/img/40.png)
 
@@ -103,11 +101,12 @@ The research proposal taught me how to frame research questions in a way that en
 
 - **Figure 13**: Research Proposal Feedback (University of Essex Online, 2025)
 
+
 The peer review process helped me refine my ability to deliver and accept feedback, improving my confidence in academic debate. It also reinforced the importance of tone and critical balance when reviewing the work of others, a skill often overlooked in workplace evaluations.
 
-Ethically, case studies on Generative AI and Cambridge Analytica introduced structured reasoning frameworks, expanding my thinking beyond policy compliance into social responsibility.
+From an ethical standpoint, the case studies on Generative AI and Cambridge Analytica introduced me to structured ethical reasoning frameworks, expanding my thinking beyond policy compliance into the realm of social responsibility.
 
-The statistical components, though challenging, were meaningful. I realised I lacked the analytical grounding to confidently interpret distributions and build inferences, a shortfall I wouldn’t have identified without this module’s practical tasks.
+The statistical components, while challenging, were particularly meaningful. I realised that I lacked the analytical grounding to confidently interpret distributions and build inferences, a shortfall I would never have identified without this module’s practical tasks.
 
 ![Statistical Activities Worksheets Submissions](/Modules/8/img/45.png)
 
@@ -125,7 +124,13 @@ Lastly, the requirement to reflect continuously encouraged me to think more inte
 
 The skills developed in this module will directly inform and underpin my upcoming **MSc dissertation**, which I hope to base on the same research topic proposed in Assignment 2. This continuity will allow me to refine and extend my original methodology using the academic frameworks and ethical considerations explored throughout this module.
 
-I plan to refine my dissertation using my literature review, improve my research proposal's clarity and methods, apply ethics in data collection, and use tools like Python or Excel for evidence-based analysis. I will also continue reflective journaling to enhance academic focus and leadership awareness.
+I now plan to:
+
+- Use my **literature review structure** to refine my dissertation's background and theoretical framework.
+- Build on my **research proposal**, improving the clarity of its objectives and validity of its methods.
+- Apply ethical evaluation strategies when handling data collection, especially in designing consent, anonymity, and risk mitigation strategies.
+- Carry forward the **statistical knowledge gained** to structure robust, evidence-based arguments, supported by tools such as Python or Excel for data visualisation.
+- Maintain the habit of reflective journaling, which has proven valuable not only for academic clarity but for improving leadership awareness in my professional role.
 
 In summary, this module has not only equipped me with the tools to produce a credible dissertation but has also elevated the academic quality of my thinking and practice.
 
