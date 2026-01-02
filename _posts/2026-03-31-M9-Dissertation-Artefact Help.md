@@ -4,7 +4,7 @@ layout: post
 title: Dissertation Artefact: Framework Decision Support Tool (FDST) – User Guide
 subtitle: Dissertation artefact as part of my final dissertation for MSc Cybersecurity.
 categories: Module_9
-tags: [Module 9]
+tags: [Module_9]
 description: Evidence-based selection of cybersecurity governance frameworks for healthcare technology suppliers using CTQs and a weighted sum model.
 permalink: /fdst-user-guide/
 nav_order: 20
