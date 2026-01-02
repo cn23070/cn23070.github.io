@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dissertation Artefact: Framework Decision Support Tool (FDST) – User Guide
+title: Dissertation Artefact - Framework Decision Support Tool (FDST) – User Guide
 subtitle: Dissertation artefact as part of my final dissertation for MSc Cybersecurity.
 categories: Module_9
 tags: [Module 9]
