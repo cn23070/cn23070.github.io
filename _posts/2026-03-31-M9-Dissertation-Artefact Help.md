@@ -16,6 +16,9 @@ nav_order: 20
 
 ## 1) Purpose
 
+![WSM Dashboard](/Modules/9/img/3.png)
+- **Figure 1**: WSM Dashboard (University of Essex Online, 2025)
+
 The **Framework Decision Support Tool (FDST)** helps healthcare technology suppliers and hospital procurement teams select cybersecurity governance frameworks using a transparent, evidence‑based methodology. It converts qualitative literature evidence into quantitative scores across five **Critical‑to‑Quality (CTQ)** criteria:
 
 - Regulatory Compliance  
@@ -44,17 +47,27 @@ FDST implements a **Weighted Sum Model (WSM)** across the five CTQs. It assumes:
 3. CTQ scores are derived using a 4‑level rubric (1.0 / 0.6 / 0.3 / 0.0) from structured evidence.  
 4. CTQ weights are **normalized** so the total influence equals 1.0, ensuring comparability.
 
+![Decision tree for scenario selection](/Modules/9/img/1.png)
+
+- **Figure 1**: Decision tree for scenario selection (University of Essex Online, 2025)
+
 ---
 
 ## 4) CTQs: definitions, scoring rubric & weights
 
 ### 4.1 CTQ definitions
 
+![CTQ Weighting Matrix](/Modules/9/img/4.png)
+- **Figure 2**: CTQ Scoring Matrix (University of Essex Online, 2025)
+
 - **Regulatory Compliance**: How well the framework aligns with mandatory laws and sector regulations (e.g., GDPR, HIPAA), and supports audits/assurance.  
 - **Industry Acceptance**: Market trust signals (customer/regulator expectation, certification/attestation availability, cross‑sector adoption).  
 - **Scalability**: Ability to tailor requirements across sizes/maturity levels; modular/adaptable control sets; integration potential with other frameworks.  
 - **Cost**: Total cost of ownership (certification fees, consulting, audits, internal resourcing).  
 - **Implementation & Maintenance Time**: Time to initial adoption/certification and ongoing upkeep.
+
+![CTQ Weights](/Modules/9/img/6.png)
+- **Figure 3**: CTQ Weights(University of Essex Online, 2025)
 
 ### 4.2 Scoring rubric (row‑level evidence → numeric score)
 
@@ -65,7 +78,13 @@ FDST implements a **Weighted Sum Model (WSM)** across the five CTQs. It assumes:
 | Moderate negative / Weak / Mixed | 0.3 | Limited/conflicting evidence or constrained alignment |
 | Strong negative (with evidence) | 0.0 | Explicit evidence of lack of alignment/performance |
 
+![Framework Scoring Matrix](/Modules/9/img/7.png)
+- **Figure 4**: Framework Scoring Matrix (University of Essex Online, 2025)
+
 > The tool averages row‑level scores per CTQ for each framework to produce CTQ averages used by WSM.
+
+![Framework Scoring](/Modules/9/img/8.png)
+- **Figure 5**: Framework Scoring (University of Essex Online, 2025)
 
 ### 4.3 Default weights & normalization
 
@@ -194,6 +213,10 @@ Frameworks_Scored!$B$2:$B$264,"High"),"")
 
 ## 8) Sample scenario outputs
 
+![Scenario decision tree](/Modules/9/img/2.png)
+
+- **Figure 2**: Scenario decision tree (University of Essex Online, 2025)
+
 > Default CTQ weighting profile: Acceptance=5, Regulatory=5, Scalability=4, Cost=3, Time=3 ⇒ normalized 0.25, 0.25, 0.20, 0.15, 0.15.
 
 ### 8.1 Baseline (All Evidence)
@@ -231,6 +254,23 @@ Frameworks_Scored!$B$2:$B$264,"High"),"")
 | SOC 2 | 0.5633 | 3 |
 | HITRUST | 0.5626 | 4 |
 | COBIT 2019 | 0.5335 | 5 |
+
+### 8.5 Test Scripts Log
+
+--------------------|
+| 1 | Normalised CTQ weight | Converts default CTQ weights to proportions that sum to 1. | WSM_Calc!C2:C6 (Normalized weight) | Default weights in WSM_Calc!B2:B6 (referencing CTQ_Scored!C3:C7): Acceptance=5, Regulatory=5, Scalability=4, Cost=3, Time=3 (total=20). | 0.25, 0.25, 0.20, 0.15, 0.15 (sum=1). | `=B2/SUM($B$2:$B$6)` |
+| 2 | Per‑framework, per‑CTQ aggregate score (unweighted) | Aggregates row‑level CTQ scores for a given framework and CTQ (average of evidence scores). | WSM_Calc!B11:F15 (Acceptance…Time) | Frameworks_Scored!G2:G264 filtered by Frameworks_Scored!A2:A264 (framework) and Frameworks_Scored!E2:E264 (CTQ). | CTQ averages per framework (e.g., ISO 27001 Acceptance in WSM_Calc!B11 = 0.9692307692). | `=IFERROR(AVERAGEIFS(Frameworks_Scored!$G$2:$G$264,Frameworks_Scored!$A$2:$A$264,$A11,Frameworks_Scored!$E$2:$E$264,B$10),"")` |
+| 3 | WSM (Weighted Sum Model) score | Computes overall framework score as SUM of (normalised CTQ weight × CTQ average). | WSM_Calc!G11:G15 (WSM Score) | Normalised weights WSM_Calc!C2:C6 and CTQ averages WSM_Calc!B11:F15. | Baseline WSM (e.g., ISO 27001 in WSM_Calc!G11 = 0.7160405298). | `=IF(COUNTA(B11:F11)=0,"",B11*$C$2 + C11*$C$3 + D11*$C$4 + E11*$C$5 + F11*$C$6)` |
+| 4 | Ranking by WSM (baseline) | Assigns rank based on descending WSM Score (baseline section uses RANK). | WSM_Calc!H11:H15 (Rank) | Baseline WSM scores WSM_Calc!G11:G15. | ISO 27001=1, NIST CSF=2, HITRUST=3, SOC 2=4, COBIT 2019=5 | `=IF(G11="","",RANK(G11,$G$11:$G$15,0))` |
+| 5 | Evidence row counts per CTQ & framework | Counts number of evidence entries contributing to each framework’s CTQ average. | WSM_Calc!I11:M15 (n(Acceptance)…n(Time)) | Frameworks_Scored evidence rows filtered by framework + CTQ and score not blank. | Per framework/CTQ counts (e.g., ISO 27001 n(Acceptance)=26 in WSM_Calc!I11). | `=COUNTIFS(Frameworks_Scored!$A$2:$A$264,$A11,Frameworks_Scored!$E$2:$E$264,B$10,Frameworks_Scored!$G$2:$G$264,"<>")` |
+| 6 | Scenario A – Exclude Low‑quality evidence | Recomputes CTQ averages (and WSM) after filtering out rows where Quality = “Low”. | Scenario A block: WSM_Calc!B22:F26 and G22:G26 | Frameworks_Scored ranges as baseline, plus Quality filter Frameworks_Scored!B2:B264 "<>Low". | Scenario A WSM (e.g., ISO 27001 in WSM_Calc!G22 ≈ 0.7148496732). | `=IFERROR(AVERAGEIFS(Frameworks_Scored!$G$2:$G$264,Frameworks_Scored!$A$2:$A$264,$A22,Frameworks_Scored!$E$2:$E$264,B$21,Frameworks_Scored!$B$2:$B$264,"<>Low"),"")` |
+| 7 | Scenario B – High‑quality only | Uses only “High” quality rows to recompute CTQ averages (and WSM). | Scenario B block: WSM_Calc!B31:F35 and G31:G35 | Frameworks_Scored ranges as baseline, plus Quality filter Frameworks_Scored!B2:B264 = "High". | Scenario B outputs (e.g., SOC 2 rises to rank 2; WSM_Calc!H34=2). | `=IFERROR(AVERAGEIFS(Frameworks_Scored!$G$2:$G$264,Frameworks_Scored!$A$2:$A$264,$A31,Frameworks_Scored!$E$2:$E$264,B$30,Frameworks_Scored!$B$2:$B$264,"High"),"")` |
+| 8 | Scenario C – Quality‑weighted averaging | Applies Study Quality weights to evidence scores, computes weighted CTQ averages, then WSM. | Scenario C block: WSM_Calc!B40:F44 and G40:G44; weights in WSM_Calc!J2:J4 | Row scores Frameworks_Scored!G2:G264 and Quality Frameworks_Scored!B2:B264; weights High=WSM_Calc!J2 (1), Moderate=J3 (0.75), Low=J4 (0.5). | Scenario C WSM (e.g., ISO 27001 in WSM_Calc!G40 ≈ 0.7144219306). | `=IFERROR(($J$2*SUMIFS(...,"High")+$J$3*SUMIFS(...,"Moderate")+$J$4*SUMIFS(...,"Low"))/($J$2*COUNTIFS(...,"High")+...),"")` |
+| 9 | Default weights total (basis for normalisation) | Sums the default CTQ weights (denominator for normalisation). | WSM_Calc!B7 (Total under Default weight) | WSM_Calc!B2:B6 (which reference CTQ_Scored!C3:C7). | 20 | `=SUM(B2:B6)` |
+| 10 | Total CTQ_Combined_Details evidence count | Totals the “Study Evidence Counts” per CTQ shown in column D. | WSM_Calc!D7 (Total under Study Evidence Counts) | Per‑CTQ counts in WSM_Calc!D2:D6 (COUNTIF over CTQ_Combined_Details!A2:A129). | 128 | `=SUM(D2:D6)` |
+| 11 | Study Evidence Counts per CTQ | Counts how many rows in CTQ_Combined_Details match each CTQ label (with the workbook’s label mapping). | WSM_Calc!D2:D6 | CTQ label WSM_Calc!A2:A6 and evidence CTQ column CTQ_Combined_Details!A2:A129. | Per‑CTQ counts (Acceptance=28, Regulatory=28, Scalability=24, Cost=27, Time=21; total=128). | `=IF($A2="","",COUNTIF(CTQ_Combined_Details!$A$2:$A$129,IF($A2="Regulatory","CTQ_Reg",IF($A2="Acceptance","CTQ_Acceptance","CTQ_"&$A2))))` |
+| 12 | Scenario ranking (A/B/C) | Scenario blocks rank by counting how many scores are greater (COUNTIF-based), not by RANK(). | WSM_Calc!H22:H26, H31:H35, H40:H44 | Scenario WSM score ranges: G22:G26, G31:G35, G40:G44. | Scenario ranks (e.g., Scenario B: ISO=1, SOC2=2, HITRUST=3, NIST=4, COBIT=5). | `=IF(G22="","",1+COUNTIF($G$22:$G$26,">
+
 
 ---
 
